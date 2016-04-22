@@ -14,8 +14,7 @@ class RunnableProfiler implements Runnable {
 
             this.threadName = threadName;
               
-
-         }else{
+         } else {
             this.threadName = threadName;
             this.proof=proof;
             this.payload=payload;

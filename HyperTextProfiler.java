@@ -9,6 +9,7 @@ import java.util.*;
 public class HyperTextProfiler {
     private final String RESULTS_FOLDER_PATH="results/";
     private final String TEST_TYPE="CURL";
+
     public HyperTextProfiler(){
 
         System.out.println("Welcome to HTTP Profiler (with CURL)");
@@ -33,6 +34,7 @@ public class HyperTextProfiler {
         if(test_both=="y" || test_both=="Y"){
 
             for(int i=1; i<=num_threads; i++){
+                
                 results_file_name=RESULTS_FOLDER_PATH+outputfilename+"_unsafe_thread_"+i+"__.csv";
                 r_thread = new RunnableProfiler(TEST_TYPE,"UnsafeThread-"+i, accuracy,payload_from,payload_to,interval,unsafe_site,results_file_name);
                 r_thread.start();
@@ -49,6 +51,7 @@ public class HyperTextProfiler {
         }else{
 
             for(int i=1; i<=num_threads; i++){
+                
                 results_file_name=RESULTS_FOLDER_PATH+outputfilename+"_unsafe_thread_"+i+"__.csv";
                 r_thread = new RunnableProfiler(TEST_TYPE,"UnsafeThread-"+i,accuracy,payload_from,payload_to,interval,unsafe_site,results_file_name);
                 r_thread.start();
@@ -58,25 +61,4 @@ public class HyperTextProfiler {
         }
     }
 
-    public static void main(String args[]){
-        
-        if(args.length >= 5){
-            
-            int num_threads=Integer.valueOf(args[0]);
-            int proof=Integer.valueOf(args[1]);
-            int payload=Integer.valueOf(args[2]);
-            int interval=Integer.valueOf(args[3]);
-            String outputfilename=args[4];
-
-            String site="http://bouer.local";
-            
-            
-
-        }else{
-            
-            System.err.println("Usage: java CurlTest [threads:int] [precision_level:int] [payload_multiples:int] [interval:int] [outputfile:string]");
-        
-        }
-        
-    }
 }
