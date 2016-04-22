@@ -58,7 +58,7 @@ public class TerminalCommandExecutor {
 		
 		if (commandStream != null) {
             
-            Writer crunchifyWriter = new StringWriter();
+            Writer commandWriter = new StringWriter();
  
 			char[] commandBuffer = new char[2048];
 		
@@ -69,7 +69,7 @@ public class TerminalCommandExecutor {
 				int count;
 				
 				while ((count = commandReader.read(commandBuffer)) != -1) {
-					crunchifyWriter.write(commandBuffer, 0, count);
+					commandWriter.write(commandBuffer, 0, count);
 				}
 
 			} finally {
@@ -78,7 +78,7 @@ public class TerminalCommandExecutor {
 			
 			}
 			
-			return crunchifyWriter.toString();
+			return commandWriter.toString();
 		
 		} else {
 			
