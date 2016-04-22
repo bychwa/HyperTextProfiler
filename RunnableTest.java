@@ -24,7 +24,7 @@ class RunnableTest implements Runnable {
           int proof_rounds=proof;
           int payload_iterations=payload;
 
-          ScannerExecutor se=new ScannerExecutor();
+          TerminalCommandExecutor se=new TerminalCommandExecutor();
             
           try {
 
