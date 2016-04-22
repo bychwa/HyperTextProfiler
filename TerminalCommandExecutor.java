@@ -13,7 +13,7 @@ import java.io.Writer;
  * @author jaxonisack
  */
 
-public class CommandTerminalExecutor {
+public class TerminalCommandExecutor {
     
     public static String runCommand(String commandToRun, boolean waitForResult) {
 		

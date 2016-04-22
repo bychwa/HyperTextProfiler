@@ -20,7 +20,7 @@ public class HyperTextProfiler {
             
             for(int i=1; i<=num_threads; i++){
                 
-                RunnableTest r_thread = new RunnableTest("UnsafeThread-"+i, proof,payload,interval,site,"results/"+outputfilename+"_unsafe_thread_"+i+"__.csv");
+                RunnableProfiler r_thread = new RunnableProfiler("UnsafeThread-"+i, proof,payload,interval,site,"results/"+outputfilename+"_unsafe_thread_"+i+"__.csv");
                 r_thread.start();
             
             }
@@ -28,7 +28,7 @@ public class HyperTextProfiler {
             site="https://bouer.local";
             for(int i=1; i<=num_threads; i++){
             
-                RunnableTest r_thread = new RunnableTest("SafeThread-"+i, proof,payload,interval,site,"results/"+outputfilename+"_safe_thread_"+i+"__.csv");
+                RunnableProfiler r_thread = new RunnableProfiler("SafeThread-"+i, proof,payload,interval,site,"results/"+outputfilename+"_safe_thread_"+i+"__.csv");
                 r_thread.start();
             
             }

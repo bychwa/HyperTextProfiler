@@ -1,16 +1,16 @@
 import java.io.*;
 import java.util.Date;
 
-class RunnableTest implements Runnable {
+class RunnableProfiler implements Runnable {
      
       private Thread t;
       private String threadName;
       private int proof,payload,interval;
       private String ofile,site;
 
-      RunnableTest( String threadName,int proof, int payload,int interval,  String site, String ofile){
+      RunnableProfiler( String threadName,int proof, int payload,int interval,  String site, String ofile){
          
-          this.threadName = name;
+          this.threadName = threadName;
           this.proof=proof;
           this.payload=payload;
           this.ofile=ofile;
