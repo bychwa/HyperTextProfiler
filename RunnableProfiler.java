@@ -87,14 +87,14 @@ class RunnableProfiler implements Runnable {
                         System.err.println(e); 
                     }
                 break;
+
             case "APACHE":
                     
                     String num_bytes=String.valueOf(interval * (10));
                     String command="ab -k -c "+this.threadNumber+" -n 100 "+site+"/get_response?size="+num_bytes;
                     String results=te.runCommand(command,true);
-                    // System.out.println(results);
                     String[] lines = results.split(System.getProperty("line.separator"));
-                    System.out.println("32 -> "+lines[32]);
+                    System.out.println(results);
 
                 break;    
 

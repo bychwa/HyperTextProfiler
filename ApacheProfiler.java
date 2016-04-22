@@ -7,7 +7,10 @@
 import java.util.*;
 
 public class ApacheProfiler {
-    
+
+    private final String RESULTS_FOLDER_PATH="results/";
+    private final String TEST_TYPE="APACHE";
+
     public ApacheProfiler(){
 
         System.out.println("Welcome to Apache HTTP Profiler");
@@ -22,6 +25,15 @@ public class ApacheProfiler {
         System.out.print("Payload To (Bytes): "); int payload_to=Integer.valueOf(scan.nextLine());
         System.out.print("Interval Payload (Bytes): "); int interval=Integer.valueOf(scan.nextLine());
         System.out.print("Output filename: "); String outputfilename=scan.nextLine();
+
+            RunnableProfiler r_thread;
+            String unsafe_site="http://"+website;
+            String results_file_name="untouched.csv";                
+                
+            results_file_name=RESULTS_FOLDER_PATH+outputfilename+"_unsafe_thread__.csv";
+            r_thread = new RunnableProfiler(TEST_TYPE,"UnsafeThread", accuracy=1,payload_from=0,payload_to=0,interval=0,unsafe_site,results_file_name);
+            r_thread.setThreadNumber(num_threads);
+            r_thread.start();
 
     }
 
