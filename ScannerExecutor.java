@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 // package diadrom.profiler;
 
 import java.io.BufferedReader;
@@ -17,55 +12,78 @@ import java.io.Writer;
  *
  * @author jaxonisack
  */
+
 public class ScannerExecutor {
     
-    public static String runCommand(String crunchifyCmd, boolean waitForResult) {
-		String tcpdumpCmdResponse = "";
-		ProcessBuilder crunchifyProcessBuilder = null;
+    public static String runCommand(String commandToRun, boolean waitForResult) {
+		
+		String commandResponse = "";
+
+		ProcessBuilder commandProcessBuilder = null;
+		
 		// Find OS running on VM
 		String operatingSystem = System.getProperty("os.name");
  
 		if (operatingSystem.toLowerCase().contains("window")) {
-			// In case of windows run command using "crunchifyCmd"
-			crunchifyProcessBuilder = new ProcessBuilder("cmd", "/c", crunchifyCmd);
+			// In case of windows run command using "commandToRun"
+			commandProcessBuilder = new ProcessBuilder("cmd", "/c", commandToRun);
 		} else {
 			// In case of Linux/Ubuntu run command using /bin/bash
-			crunchifyProcessBuilder = new ProcessBuilder("/bin/bash", "-c", crunchifyCmd);
+			commandProcessBuilder = new ProcessBuilder("/bin/bash", "-c", commandToRun);
 		}
  
-		crunchifyProcessBuilder.redirectErrorStream(true);
+		commandProcessBuilder.redirectErrorStream(true);
  
 		try {
-			Process process = crunchifyProcessBuilder.start();
+			
+			Process process = commandProcessBuilder.start();
+			
 			if (waitForResult) {
-				                        InputStream crunchifyStream = process.getInputStream();
-				tcpdumpCmdResponse = getStringFromStream(crunchifyStream);
-				crunchifyStream.close();
+            
+                InputStream commandStream = process.getInputStream();
+				commandResponse = getStringFromStream(commandStream);
+				commandStream.close();
+			
 			}
  
 		} catch (Exception e) {
-			System.out.println("Error Executing tcpdump command" + e);
+
+			System.out.println("Error Executing command command" + e);
+		
 		}
-		return tcpdumpCmdResponse;
+		return commandResponse;
 	}
  
-	private static String getStringFromStream(InputStream crunchifyStream) throws IOException {
-		if (crunchifyStream != null) {
-			                 Writer crunchifyWriter = new StringWriter();
+	private static String getStringFromStream(InputStream commandStream) throws IOException {
+		
+		if (commandStream != null) {
+            
+            Writer crunchifyWriter = new StringWriter();
  
-			char[] crunchifyBuffer = new char[2048];
+			char[] commandBuffer = new char[2048];
+		
 			try {
-                                Reader crunchifyReader = new BufferedReader(new InputStreamReader(crunchifyStream, "UTF-8"));
+        
+                Reader commandReader = new BufferedReader(new InputStreamReader(commandStream, "UTF-8"));
+				
 				int count;
-				while ((count = crunchifyReader.read(crunchifyBuffer)) != -1) {
-					crunchifyWriter.write(crunchifyBuffer, 0, count);
+				
+				while ((count = commandReader.read(commandBuffer)) != -1) {
+					crunchifyWriter.write(commandBuffer, 0, count);
 				}
+
 			} finally {
-				crunchifyStream.close();
+				
+				commandStream.close();
+			
 			}
+			
 			return crunchifyWriter.toString();
+		
 		} else {
+			
 			return "";
+		
 		}
 	}
 }
