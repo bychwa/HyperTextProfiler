@@ -6,9 +6,23 @@ class RunnableProfiler implements Runnable {
       private Thread t;
       private String threadName;
       private int accuracy,payload_from,payload_to, interval;
-      private String ofile,site,type;
+      private String ofile,site,type,https_protocol,cipher_file;
       private int threadNumber=1;
-      
+      private Boolean secured;
+
+      RunnableProfiler(String type, String threadName,int accuracy, int threadNumber, String site, Boolean secured, String https_protocol,String cipher_file, String ofile){
+          //for Apache Benchmark
+          this.threadNumber=threadNumber;
+          this.type=type;
+          this.threadName = threadName;
+          this.accuracy=accuracy;
+          this.site=site;
+          this.https_protocol=https_protocol;
+          this.cipher_file=cipher_file;
+          this.ofile=ofile;
+          this.secured=secured;
+
+      }
       RunnableProfiler(String type, String threadName,int accuracy, int payload_from,int payload_to, int interval, String site, String ofile){
           
           this.type=type;
@@ -23,11 +37,6 @@ class RunnableProfiler implements Runnable {
 
       }
 
-      public void setThreadNumber(int tn){
-  
-          this.threadNumber=tn;
-  
-      }
       public void run() {
           
           TerminalCommandExecutor te=new TerminalCommandExecutor();
@@ -78,8 +87,7 @@ class RunnableProfiler implements Runnable {
                           
                           }
                           System.out.println("------END-----");
-                          osw.write("------END-----");
-                        
+                          // osw.write("------END-----");
 
                           osw.close();
 
@@ -90,12 +98,68 @@ class RunnableProfiler implements Runnable {
 
             case "APACHE":
                     
-                    String num_bytes=String.valueOf(interval * (10));
-                    String command="ab -k -c "+this.threadNumber+" -n 100 "+site+"/get_response?size="+num_bytes;
-                    String results=te.runCommand(command,true);
-                    String[] lines = results.split(System.getProperty("line.separator"));
-                    System.out.println(results);
+                    if(secured){
+                        try{ 
+                            String cipher;
+                            BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(cipher_file)));
+                            while ((cipher = br.readLine()) != null)   {
+                                
+                                String command="ab -d -k -c "+this.threadNumber+" -n "+accuracy+ " -f "+https_protocol+" -Z"+cipher+" "+site;
+                                String results=te.runCommand(command,true);
+                                String[] lines = results.split(System.getProperty("line.separator"));
+                                
+                                if(lines.length<=2){
+                                    System.out.println(cipher+" : "+" Error");
+                                }else{
+                                    System.out.println(cipher+" :");
+                                    System.out.println("\t\t\t"+lines[8]);
+                                    System.out.println("\t\t\t"+lines[9]);
+                                    System.out.println("\t\t\t"+lines[10]);
+                                    System.out.println("\t\t\t"+lines[11]);
+                                    System.out.println(" ");
+                                    System.out.println("\t\t\t"+lines[31]);
+                                    System.out.println("\t\t\t"+lines[32]);
+                                    // System.out.println("\t\t\t"+lines[33]);
+                                    // System.out.println("\t\t\t"+lines[34]);
+                                    System.out.println(" ");
+                                    
+                                }
+                                
 
+                            }
+                            br.close();
+
+                        }catch(Exception e){
+                            System.err.println("An error occurred due to reading the cipher file!");
+                        }
+                        
+                    }else{
+
+                        String command="ab -d -k -c "+this.threadNumber+" -n "+accuracy+ " "+site;
+                        String results=te.runCommand(command,true);
+                        String[] lines = results.split(System.getProperty("line.separator"));
+                    
+                        if(lines.length<=2){
+                            
+                            System.out.println(">>"+" Error");
+
+                        }else{
+                            // System.out.println(" "+lines[30]);
+                            // System.out.println(cipher+" :");
+                            System.out.println("\t\t\t"+lines[8]);
+                            System.out.println("\t\t\t"+lines[9]);
+                            System.out.println("\t\t\t"+lines[10]);
+                            System.out.println("\t\t\t"+lines[11]);
+                            System.out.println(" ");
+                            System.out.println("\t\t\t"+lines[31]);
+                            System.out.println("\t\t\t"+lines[32]);
+                            // System.out.println("\t\t\t"+lines[33]);
+                            // System.out.println("\t\t\t"+lines[34]);
+                            System.out.println(" ");
+                        } 
+
+                    }
+                    
                 break;    
 
           }
