@@ -33,20 +33,20 @@ public class UsageProfiler {
         RunnableProfiler s_thread,u_thread;
         String results_file_name="untouched.csv";
         Boolean secured=false; 
-        
+
         if(test_both.equals("Y")|| test_both.equals("y")){
             
             for(int p=1; p<=num_threads; p++){
                 //unsafe thread
                 secured=false;
-                results_file_name=RESULTS_FOLDER_PATH+outputfilename+"_unsafe_thread__.csv";
+                results_file_name=RESULTS_FOLDER_PATH+outputfilename+"_unsafe_thread_"+p+"_.csv";
                 u_thread = new RunnableProfiler(TEST_TYPE,"UnsafeThread", accuracy,num_threads,secured,pages,results_file_name);
                 u_thread.start();
             }
             for(int p=1; p<=num_threads; p++){
                 //safe thread
                 secured=true;
-                results_file_name=RESULTS_FOLDER_PATH+outputfilename+"_safe_thread__.csv";
+                results_file_name=RESULTS_FOLDER_PATH+outputfilename+"_safe_thread_"+p+"_.csv";
                 s_thread = new RunnableProfiler(TEST_TYPE,"SafeThread", accuracy,num_threads,secured,pages,results_file_name);
                 s_thread.start();
             }
@@ -55,7 +55,7 @@ public class UsageProfiler {
             for(int p=1; p<=num_threads; p++){
                 //unsafe thread
                 secured=false;
-                results_file_name=RESULTS_FOLDER_PATH+outputfilename+"_unsafe_thread__.csv";
+                results_file_name=RESULTS_FOLDER_PATH+outputfilename+"_unsafe_thread_"+p+"_.csv";
                 u_thread = new RunnableProfiler(TEST_TYPE,"UnsafeThread", accuracy,num_threads,secured,pages,results_file_name);
                 u_thread.start();
             }
