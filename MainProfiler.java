@@ -11,7 +11,7 @@ public class MainProfiler {
     public static void main(String args[]){
 
         Scanner scan=new Scanner(System.in);
-        System.out.println("Welcome to Requests Profiler!, \n Choose Type:\n 1: Apache Benchmark \n 2: Curl HTTP Profiler \n 3: Usage Profiler \n");
+        System.out.println("Welcome to Requests Profiler!, \n\n Choose Type:\n 1: Apache Benchmark \n 2: Curl HTTP Profiler \n 3: Usage Profiler \n");
         System.out.print("My choice is: "); 
         String profiler_type=scan.nextLine();
 

@@ -11,7 +11,10 @@ class RunnableProfiler implements Runnable {
       private Boolean secured;
       private String [] pages;
       private double tcp_start=0,tcp_end=0,tcp_time=0;
-                      
+      private File fout;
+      private FileOutputStream fos;
+      private OutputStreamWriter osw;
+        
       RunnableProfiler(String type, String threadName,int accuracy, int threadNumber,Boolean secured, String[] pages, String ofile){
           
           //for Apache Benchmark
@@ -59,33 +62,43 @@ class RunnableProfiler implements Runnable {
           switch(type){
 
               case "USAGE":
+                      try{
 
-                      for (int i=1; i <= accuracy; i++) {
+                          fout = new File(ofile);
+                          fos = new FileOutputStream(fout);
+                          osw = new OutputStreamWriter(fos);
                           
-                          tcp_start = new java.util.Date().getTime(); //start of the request
+                          for (int i=1; i <= accuracy; i++) {
+                              
+                              tcp_start = new java.util.Date().getTime(); //start of the request
 
-                          for(int j=0; j < pages.length; j++){
-                              page=secured?"https://"+pages[j]:"http://"+pages[j];
-                              String command="curl -o /dev/null --insecure -s -w %{time_connect},%{time_starttransfer},%{time_total},%{time_appconnect},%{time_namelookup},%{time_pretransfer},%{time_redirect} "+page;
-                              String results=te.runCommand(command,true);
-                          }
-                          
-                          tcp_end = new java.util.Date().getTime();   //end of the request
-                          
-                          tcp_time +=(tcp_end - tcp_start);
+                              for(int j=0; j < pages.length; j++){
+                                  page=secured?"https://"+pages[j]:"http://"+pages[j];
+                                  String command="curl -o /dev/null --insecure -s -w %{time_connect},%{time_starttransfer},%{time_total},%{time_appconnect},%{time_namelookup},%{time_pretransfer},%{time_redirect} "+page;
+                                  String results=te.runCommand(command,true);
+                              }
+                              
+                              tcp_end = new java.util.Date().getTime();   //end of the request
+                              
+                              tcp_time +=(tcp_end - tcp_start);
 
                       }
                       System.out.println(threadName+","+pages[0]+", "+String.format("%.8f",(tcp_time/accuracy)/1000)+", "+new java.util.Date().getTime());
-                    
+                        osw.write(threadName+","+pages[0]+"..., "+String.format("%.8f",(tcp_time/accuracy)/1000)+", "+new java.util.Date().getTime()+"\n");
+                      
+                      }catch(Exception e){
+                        System.err.println("An error has occured while opening / writing to the file "+ofile);
+                      }
+                          
                     break;
 
               case "CURL":
                     
                     try {
 
-                        File fout = new File(ofile);
-                        FileOutputStream fos = new FileOutputStream(fout);
-                        OutputStreamWriter osw = new OutputStreamWriter(fos);
+                        fout = new File(ofile);
+                        fos = new FileOutputStream(fout);
+                        osw = new OutputStreamWriter(fos);
 
                         System.out.println("ThreadName, t_PayloadSize, t_NameLookup, t_AppConnect, t_Redirect, t_Connect, t_Pretransfer, t_Transfer, t_Total, t_OveralTotal, t_Timestamp");
                         osw.write("ThreadName, t_PayloadSize, t_NameLookup, t_AppConnect, t_Redirect, t_Connect, t_Pretransfer, t_Transfer, t_Total, t_OveralTotal, t_Timestamp"+"\n");
