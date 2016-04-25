@@ -4,7 +4,7 @@ import java.util.Date;
 class RunnableProfiler implements Runnable {
      
       private Thread t;
-      private String threadName;
+      private String threadName,page;
       private int accuracy,payload_from,payload_to, interval;
       private String ofile,site,type,https_protocol,cipher_file;
       private int threadNumber=1;
@@ -12,7 +12,7 @@ class RunnableProfiler implements Runnable {
       private String [] pages;
       private double tcp_start=0,tcp_end=0,tcp_time=0;
                       
-      RunnableProfiler(String type, String threadName,int accuracy, int threadNumber, String[] pages, String ofile){
+      RunnableProfiler(String type, String threadName,int accuracy, int threadNumber,Boolean secured, String[] pages, String ofile){
           
           //for Apache Benchmark
           this.threadNumber=threadNumber;
@@ -21,6 +21,7 @@ class RunnableProfiler implements Runnable {
           this.accuracy=accuracy;
           this.pages=pages;
           this.ofile=ofile;
+          this.secured=secured;
           
       }
 
@@ -64,7 +65,8 @@ class RunnableProfiler implements Runnable {
                           tcp_start = new java.util.Date().getTime(); //start of the request
 
                           for(int j=0; j < pages.length; j++){
-                              String command="curl -o /dev/null --insecure -s -w %{time_connect},%{time_starttransfer},%{time_total},%{time_appconnect},%{time_namelookup},%{time_pretransfer},%{time_redirect} "+pages[j];
+                              page=secured?"https://"+pages[j]:"http://"+pages[j];
+                              String command="curl -o /dev/null --insecure -s -w %{time_connect},%{time_starttransfer},%{time_total},%{time_appconnect},%{time_namelookup},%{time_pretransfer},%{time_redirect} "+page;
                               String results=te.runCommand(command,true);
                           }
                           

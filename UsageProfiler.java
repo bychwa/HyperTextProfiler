@@ -44,13 +44,13 @@ public class UsageProfiler {
             //unsafe thread
             secured=false;
             results_file_name=RESULTS_FOLDER_PATH+outputfilename+"_unsafe_thread__.csv";
-            u_thread = new RunnableProfiler(TEST_TYPE,"UnsafeThread", accuracy,num_threads,pages,results_file_name);
+            u_thread = new RunnableProfiler(TEST_TYPE,"UnsafeThread", accuracy,num_threads,secured,pages,results_file_name);
             u_thread.start();
             
             //safe thread
             secured=true;
             results_file_name=RESULTS_FOLDER_PATH+outputfilename+"_safe_thread__.csv";
-            s_thread = new RunnableProfiler(TEST_TYPE,"SafeThread", accuracy,num_threads,pages,results_file_name);
+            s_thread = new RunnableProfiler(TEST_TYPE,"SafeThread", accuracy,num_threads,secured,pages,results_file_name);
             s_thread.start();
                 
         
@@ -59,7 +59,7 @@ public class UsageProfiler {
             //unsafe thread
             secured=false;
             results_file_name=RESULTS_FOLDER_PATH+outputfilename+"_unsafe_thread__.csv";
-            u_thread = new RunnableProfiler(TEST_TYPE,"UnsafeThread", accuracy,num_threads,pages,results_file_name);
+            u_thread = new RunnableProfiler(TEST_TYPE,"UnsafeThread", accuracy,num_threads,secured,pages,results_file_name);
             u_thread.start();
 
         }    
