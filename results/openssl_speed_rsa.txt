@@ -1,0 +1,9 @@
+OpenSSL 1.0.1k 8 Jan 2015
+built on: Tue Mar  1 16:38:12 2016
+options:bn(64,32) rc4(ptr,char) des(idx,cisc,16,long) aes(partial) blowfish(ptr) 
+compiler: -I. -I.. -I../include  -fPIC -DOPENSSL_PIC -DOPENSSL_THREADS -D_REENTRANT -DDSO_DLFCN -DHAVE_DLFCN_H -DL_ENDIAN -DTERMIO -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -D_FORTIFY_SOURCE=2 -Wl,-z,relro -Wa,--noexecstack -Wall -DOPENSSL_BN_ASM_MONT -DOPENSSL_BN_ASM_GF2m -DSHA1_ASM -DSHA256_ASM -DSHA512_ASM -DAES_ASM -DGHASH_ASM
+                  sign    verify    sign/s verify/s
+rsa  512 bits 0.001409s 0.000113s    709.9   8830.4
+rsa 1024 bits 0.006938s 0.000363s    144.1   2754.3
+rsa 2048 bits 0.043435s 0.001292s     23.0    774.1
+rsa 4096 bits 0.314063s 0.004723s      3.2    211.7

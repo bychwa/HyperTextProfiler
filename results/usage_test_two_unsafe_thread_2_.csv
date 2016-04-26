@@ -1,0 +1,5003 @@
+SESSION:	UnsafeThread
+NO PAGES:	3
+	Accuracy Level:1
+		PAGE: bouer.local/login			 TIME:1.656 seconds
+		PAGE: bouer.local/display			 TIME:0.3 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.344 seconds
+
+	Accuracy Level:2
+		PAGE: bouer.local/login			 TIME:0.689 seconds
+		PAGE: bouer.local/display			 TIME:0.318 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.19 seconds
+
+	Accuracy Level:3
+		PAGE: bouer.local/login			 TIME:0.953 seconds
+		PAGE: bouer.local/display			 TIME:0.259 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.254 seconds
+
+	Accuracy Level:4
+		PAGE: bouer.local/login			 TIME:1.146 seconds
+		PAGE: bouer.local/display			 TIME:0.2 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.169 seconds
+
+	Accuracy Level:5
+		PAGE: bouer.local/login			 TIME:1.134 seconds
+		PAGE: bouer.local/display			 TIME:0.429 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.241 seconds
+
+	Accuracy Level:6
+		PAGE: bouer.local/login			 TIME:1.242 seconds
+		PAGE: bouer.local/display			 TIME:0.356 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.369 seconds
+
+	Accuracy Level:7
+		PAGE: bouer.local/login			 TIME:0.967 seconds
+		PAGE: bouer.local/display			 TIME:0.287 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.342 seconds
+
+	Accuracy Level:8
+		PAGE: bouer.local/login			 TIME:1.892 seconds
+		PAGE: bouer.local/display			 TIME:0.288 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.227 seconds
+
+	Accuracy Level:9
+		PAGE: bouer.local/login			 TIME:1.028 seconds
+		PAGE: bouer.local/display			 TIME:0.277 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.288 seconds
+
+	Accuracy Level:10
+		PAGE: bouer.local/login			 TIME:0.95 seconds
+		PAGE: bouer.local/display			 TIME:0.341 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.257 seconds
+
+	Accuracy Level:11
+		PAGE: bouer.local/login			 TIME:1.19 seconds
+		PAGE: bouer.local/display			 TIME:0.257 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.168 seconds
+
+	Accuracy Level:12
+		PAGE: bouer.local/login			 TIME:0.862 seconds
+		PAGE: bouer.local/display			 TIME:0.252 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.166 seconds
+
+	Accuracy Level:13
+		PAGE: bouer.local/login			 TIME:0.652 seconds
+		PAGE: bouer.local/display			 TIME:0.213 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.196 seconds
+
+	Accuracy Level:14
+		PAGE: bouer.local/login			 TIME:0.761 seconds
+		PAGE: bouer.local/display			 TIME:0.289 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.192 seconds
+
+	Accuracy Level:15
+		PAGE: bouer.local/login			 TIME:0.991 seconds
+		PAGE: bouer.local/display			 TIME:0.293 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.215 seconds
+
+	Accuracy Level:16
+		PAGE: bouer.local/login			 TIME:0.932 seconds
+		PAGE: bouer.local/display			 TIME:0.269 seconds
+		PAGE: bouer.local/dashboard			 TIME:33.56 seconds
+
+	Accuracy Level:17
+		PAGE: bouer.local/login			 TIME:1.102 seconds
+		PAGE: bouer.local/display			 TIME:0.214 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.169 seconds
+
+	Accuracy Level:18
+		PAGE: bouer.local/login			 TIME:0.951 seconds
+		PAGE: bouer.local/display			 TIME:0.271 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.229 seconds
+
+	Accuracy Level:19
+		PAGE: bouer.local/login			 TIME:0.7 seconds
+		PAGE: bouer.local/display			 TIME:0.226 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.216 seconds
+
+	Accuracy Level:20
+		PAGE: bouer.local/login			 TIME:1.133 seconds
+		PAGE: bouer.local/display			 TIME:0.306 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.3 seconds
+
+	Accuracy Level:21
+		PAGE: bouer.local/login			 TIME:1.004 seconds
+		PAGE: bouer.local/display			 TIME:0.314 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.341 seconds
+
+	Accuracy Level:22
+		PAGE: bouer.local/login			 TIME:1.022 seconds
+		PAGE: bouer.local/display			 TIME:0.294 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.188 seconds
+
+	Accuracy Level:23
+		PAGE: bouer.local/login			 TIME:0.917 seconds
+		PAGE: bouer.local/display			 TIME:0.211 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.233 seconds
+
+	Accuracy Level:24
+		PAGE: bouer.local/login			 TIME:0.882 seconds
+		PAGE: bouer.local/display			 TIME:0.23 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.239 seconds
+
+	Accuracy Level:25
+		PAGE: bouer.local/login			 TIME:1.096 seconds
+		PAGE: bouer.local/display			 TIME:0.304 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.261 seconds
+
+	Accuracy Level:26
+		PAGE: bouer.local/login			 TIME:1.556 seconds
+		PAGE: bouer.local/display			 TIME:0.313 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.236 seconds
+
+	Accuracy Level:27
+		PAGE: bouer.local/login			 TIME:1.152 seconds
+		PAGE: bouer.local/display			 TIME:0.249 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.188 seconds
+
+	Accuracy Level:28
+		PAGE: bouer.local/login			 TIME:31.883 seconds
+		PAGE: bouer.local/display			 TIME:0.221 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.223 seconds
+
+	Accuracy Level:29
+		PAGE: bouer.local/login			 TIME:2.046 seconds
+		PAGE: bouer.local/display			 TIME:0.27 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.167 seconds
+
+	Accuracy Level:30
+		PAGE: bouer.local/login			 TIME:0.891 seconds
+		PAGE: bouer.local/display			 TIME:0.214 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.188 seconds
+
+	Accuracy Level:31
+		PAGE: bouer.local/login			 TIME:0.901 seconds
+		PAGE: bouer.local/display			 TIME:0.198 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.221 seconds
+
+	Accuracy Level:32
+		PAGE: bouer.local/login			 TIME:1.005 seconds
+		PAGE: bouer.local/display			 TIME:0.31 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.257 seconds
+
+	Accuracy Level:33
+		PAGE: bouer.local/login			 TIME:0.858 seconds
+		PAGE: bouer.local/display			 TIME:0.233 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.318 seconds
+
+	Accuracy Level:34
+		PAGE: bouer.local/login			 TIME:0.967 seconds
+		PAGE: bouer.local/display			 TIME:0.313 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.262 seconds
+
+	Accuracy Level:35
+		PAGE: bouer.local/login			 TIME:2.495 seconds
+		PAGE: bouer.local/display			 TIME:0.209 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.17 seconds
+
+	Accuracy Level:36
+		PAGE: bouer.local/login			 TIME:0.774 seconds
+		PAGE: bouer.local/display			 TIME:0.239 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.191 seconds
+
+	Accuracy Level:37
+		PAGE: bouer.local/login			 TIME:1.138 seconds
+		PAGE: bouer.local/display			 TIME:0.236 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.297 seconds
+
+	Accuracy Level:38
+		PAGE: bouer.local/login			 TIME:0.879 seconds
+		PAGE: bouer.local/display			 TIME:0.35 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.198 seconds
+
+	Accuracy Level:39
+		PAGE: bouer.local/login			 TIME:1.39 seconds
+		PAGE: bouer.local/display			 TIME:0.293 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.217 seconds
+
+	Accuracy Level:40
+		PAGE: bouer.local/login			 TIME:1.183 seconds
+		PAGE: bouer.local/display			 TIME:0.3 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.275 seconds
+
+	Accuracy Level:41
+		PAGE: bouer.local/login			 TIME:0.998 seconds
+		PAGE: bouer.local/display			 TIME:0.167 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.169 seconds
+
+	Accuracy Level:42
+		PAGE: bouer.local/login			 TIME:1.547 seconds
+		PAGE: bouer.local/display			 TIME:0.182 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.175 seconds
+
+	Accuracy Level:43
+		PAGE: bouer.local/login			 TIME:0.854 seconds
+		PAGE: bouer.local/display			 TIME:0.242 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.223 seconds
+
+	Accuracy Level:44
+		PAGE: bouer.local/login			 TIME:1.066 seconds
+		PAGE: bouer.local/display			 TIME:0.219 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.189 seconds
+
+	Accuracy Level:45
+		PAGE: bouer.local/login			 TIME:0.955 seconds
+		PAGE: bouer.local/display			 TIME:0.294 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.232 seconds
+
+	Accuracy Level:46
+		PAGE: bouer.local/login			 TIME:1.541 seconds
+		PAGE: bouer.local/display			 TIME:0.291 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.324 seconds
+
+	Accuracy Level:47
+		PAGE: bouer.local/login			 TIME:1.265 seconds
+		PAGE: bouer.local/display			 TIME:0.203 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.156 seconds
+
+	Accuracy Level:48
+		PAGE: bouer.local/login			 TIME:0.922 seconds
+		PAGE: bouer.local/display			 TIME:0.206 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.242 seconds
+
+	Accuracy Level:49
+		PAGE: bouer.local/login			 TIME:1.007 seconds
+		PAGE: bouer.local/display			 TIME:0.255 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.255 seconds
+
+	Accuracy Level:50
+		PAGE: bouer.local/login			 TIME:1.932 seconds
+		PAGE: bouer.local/display			 TIME:0.299 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.275 seconds
+
+	Accuracy Level:51
+		PAGE: bouer.local/login			 TIME:1.318 seconds
+		PAGE: bouer.local/display			 TIME:0.202 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.172 seconds
+
+	Accuracy Level:52
+		PAGE: bouer.local/login			 TIME:0.972 seconds
+		PAGE: bouer.local/display			 TIME:0.198 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.194 seconds
+
+	Accuracy Level:53
+		PAGE: bouer.local/login			 TIME:2.485 seconds
+		PAGE: bouer.local/display			 TIME:0.177 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.266 seconds
+
+	Accuracy Level:54
+		PAGE: bouer.local/login			 TIME:1.023 seconds
+		PAGE: bouer.local/display			 TIME:0.253 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.181 seconds
+
+	Accuracy Level:55
+		PAGE: bouer.local/login			 TIME:1.091 seconds
+		PAGE: bouer.local/display			 TIME:0.245 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.241 seconds
+
+	Accuracy Level:56
+		PAGE: bouer.local/login			 TIME:1.066 seconds
+		PAGE: bouer.local/display			 TIME:0.418 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.312 seconds
+
+	Accuracy Level:57
+		PAGE: bouer.local/login			 TIME:1.109 seconds
+		PAGE: bouer.local/display			 TIME:0.478 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.269 seconds
+
+	Accuracy Level:58
+		PAGE: bouer.local/login			 TIME:0.919 seconds
+		PAGE: bouer.local/display			 TIME:0.607 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.173 seconds
+
+	Accuracy Level:59
+		PAGE: bouer.local/login			 TIME:1.136 seconds
+		PAGE: bouer.local/display			 TIME:0.324 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.268 seconds
+
+	Accuracy Level:60
+		PAGE: bouer.local/login			 TIME:1.307 seconds
+		PAGE: bouer.local/display			 TIME:0.347 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.201 seconds
+
+	Accuracy Level:61
+		PAGE: bouer.local/login			 TIME:1.199 seconds
+		PAGE: bouer.local/display			 TIME:0.321 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.216 seconds
+
+	Accuracy Level:62
+		PAGE: bouer.local/login			 TIME:2.084 seconds
+		PAGE: bouer.local/display			 TIME:0.246 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.174 seconds
+
+	Accuracy Level:63
+		PAGE: bouer.local/login			 TIME:0.996 seconds
+		PAGE: bouer.local/display			 TIME:0.32 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.303 seconds
+
+	Accuracy Level:64
+		PAGE: bouer.local/login			 TIME:0.917 seconds
+		PAGE: bouer.local/display			 TIME:0.279 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.187 seconds
+
+	Accuracy Level:65
+		PAGE: bouer.local/login			 TIME:1.804 seconds
+		PAGE: bouer.local/display			 TIME:0.259 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.26 seconds
+
+	Accuracy Level:66
+		PAGE: bouer.local/login			 TIME:1.152 seconds
+		PAGE: bouer.local/display			 TIME:0.193 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.179 seconds
+
+	Accuracy Level:67
+		PAGE: bouer.local/login			 TIME:0.968 seconds
+		PAGE: bouer.local/display			 TIME:0.256 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.279 seconds
+
+	Accuracy Level:68
+		PAGE: bouer.local/login			 TIME:0.951 seconds
+		PAGE: bouer.local/display			 TIME:0.324 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.187 seconds
+
+	Accuracy Level:69
+		PAGE: bouer.local/login			 TIME:1.412 seconds
+		PAGE: bouer.local/display			 TIME:0.334 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.252 seconds
+
+	Accuracy Level:70
+		PAGE: bouer.local/login			 TIME:1.419 seconds
+		PAGE: bouer.local/display			 TIME:0.287 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.246 seconds
+
+	Accuracy Level:71
+		PAGE: bouer.local/login			 TIME:1.181 seconds
+		PAGE: bouer.local/display			 TIME:0.304 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.16 seconds
+
+	Accuracy Level:72
+		PAGE: bouer.local/login			 TIME:1.507 seconds
+		PAGE: bouer.local/display			 TIME:0.161 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.531 seconds
+
+	Accuracy Level:73
+		PAGE: bouer.local/login			 TIME:1.242 seconds
+		PAGE: bouer.local/display			 TIME:0.256 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.199 seconds
+
+	Accuracy Level:74
+		PAGE: bouer.local/login			 TIME:1.066 seconds
+		PAGE: bouer.local/display			 TIME:0.262 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.225 seconds
+
+	Accuracy Level:75
+		PAGE: bouer.local/login			 TIME:1.093 seconds
+		PAGE: bouer.local/display			 TIME:0.277 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.188 seconds
+
+	Accuracy Level:76
+		PAGE: bouer.local/login			 TIME:1.283 seconds
+		PAGE: bouer.local/display			 TIME:0.36 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.219 seconds
+
+	Accuracy Level:77
+		PAGE: bouer.local/login			 TIME:1.504 seconds
+		PAGE: bouer.local/display			 TIME:0.273 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.213 seconds
+
+	Accuracy Level:78
+		PAGE: bouer.local/login			 TIME:1.008 seconds
+		PAGE: bouer.local/display			 TIME:0.2 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.176 seconds
+
+	Accuracy Level:79
+		PAGE: bouer.local/login			 TIME:1.024 seconds
+		PAGE: bouer.local/display			 TIME:0.259 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.255 seconds
+
+	Accuracy Level:80
+		PAGE: bouer.local/login			 TIME:1.14 seconds
+		PAGE: bouer.local/display			 TIME:1.039 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.207 seconds
+
+	Accuracy Level:81
+		PAGE: bouer.local/login			 TIME:1.479 seconds
+		PAGE: bouer.local/display			 TIME:0.231 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.194 seconds
+
+	Accuracy Level:82
+		PAGE: bouer.local/login			 TIME:1.252 seconds
+		PAGE: bouer.local/display			 TIME:0.259 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.162 seconds
+
+	Accuracy Level:83
+		PAGE: bouer.local/login			 TIME:0.87 seconds
+		PAGE: bouer.local/display			 TIME:0.255 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.195 seconds
+
+	Accuracy Level:84
+		PAGE: bouer.local/login			 TIME:0.97 seconds
+		PAGE: bouer.local/display			 TIME:0.312 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.219 seconds
+
+	Accuracy Level:85
+		PAGE: bouer.local/login			 TIME:1.219 seconds
+		PAGE: bouer.local/display			 TIME:0.308 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.213 seconds
+
+	Accuracy Level:86
+		PAGE: bouer.local/login			 TIME:1.242 seconds
+		PAGE: bouer.local/display			 TIME:0.263 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.129 seconds
+
+	Accuracy Level:87
+		PAGE: bouer.local/login			 TIME:0.794 seconds
+		PAGE: bouer.local/display			 TIME:0.229 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.158 seconds
+
+	Accuracy Level:88
+		PAGE: bouer.local/login			 TIME:0.975 seconds
+		PAGE: bouer.local/display			 TIME:0.207 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.158 seconds
+
+	Accuracy Level:89
+		PAGE: bouer.local/login			 TIME:1.111 seconds
+		PAGE: bouer.local/display			 TIME:0.266 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.236 seconds
+
+	Accuracy Level:90
+		PAGE: bouer.local/login			 TIME:1.21 seconds
+		PAGE: bouer.local/display			 TIME:0.355 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.206 seconds
+
+	Accuracy Level:91
+		PAGE: bouer.local/login			 TIME:1.251 seconds
+		PAGE: bouer.local/display			 TIME:0.329 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.209 seconds
+
+	Accuracy Level:92
+		PAGE: bouer.local/login			 TIME:1.087 seconds
+		PAGE: bouer.local/display			 TIME:0.249 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.218 seconds
+
+	Accuracy Level:93
+		PAGE: bouer.local/login			 TIME:0.935 seconds
+		PAGE: bouer.local/display			 TIME:0.269 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.228 seconds
+
+	Accuracy Level:94
+		PAGE: bouer.local/login			 TIME:1.767 seconds
+		PAGE: bouer.local/display			 TIME:0.275 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.24 seconds
+
+	Accuracy Level:95
+		PAGE: bouer.local/login			 TIME:1.39 seconds
+		PAGE: bouer.local/display			 TIME:0.276 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.142 seconds
+
+	Accuracy Level:96
+		PAGE: bouer.local/login			 TIME:1.042 seconds
+		PAGE: bouer.local/display			 TIME:0.228 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.199 seconds
+
+	Accuracy Level:97
+		PAGE: bouer.local/login			 TIME:1.013 seconds
+		PAGE: bouer.local/display			 TIME:0.196 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.19 seconds
+
+	Accuracy Level:98
+		PAGE: bouer.local/login			 TIME:1.187 seconds
+		PAGE: bouer.local/display			 TIME:0.299 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.258 seconds
+
+	Accuracy Level:99
+		PAGE: bouer.local/login			 TIME:1.123 seconds
+		PAGE: bouer.local/display			 TIME:0.313 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.224 seconds
+
+	Accuracy Level:100
+		PAGE: bouer.local/login			 TIME:1.577 seconds
+		PAGE: bouer.local/display			 TIME:0.183 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.169 seconds
+
+	Accuracy Level:101
+		PAGE: bouer.local/login			 TIME:0.932 seconds
+		PAGE: bouer.local/display			 TIME:0.193 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.151 seconds
+
+	Accuracy Level:102
+		PAGE: bouer.local/login			 TIME:0.995 seconds
+		PAGE: bouer.local/display			 TIME:0.251 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.234 seconds
+
+	Accuracy Level:103
+		PAGE: bouer.local/login			 TIME:1.392 seconds
+		PAGE: bouer.local/display			 TIME:0.293 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.229 seconds
+
+	Accuracy Level:104
+		PAGE: bouer.local/login			 TIME:1.452 seconds
+		PAGE: bouer.local/display			 TIME:0.27 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.224 seconds
+
+	Accuracy Level:105
+		PAGE: bouer.local/login			 TIME:1.14 seconds
+		PAGE: bouer.local/display			 TIME:0.19 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.159 seconds
+
+	Accuracy Level:106
+		PAGE: bouer.local/login			 TIME:1.278 seconds
+		PAGE: bouer.local/display			 TIME:0.395 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.269 seconds
+
+	Accuracy Level:107
+		PAGE: bouer.local/login			 TIME:1.372 seconds
+		PAGE: bouer.local/display			 TIME:0.341 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.257 seconds
+
+	Accuracy Level:108
+		PAGE: bouer.local/login			 TIME:1.418 seconds
+		PAGE: bouer.local/display			 TIME:0.323 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.278 seconds
+
+	Accuracy Level:109
+		PAGE: bouer.local/login			 TIME:1.087 seconds
+		PAGE: bouer.local/display			 TIME:0.255 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.202 seconds
+
+	Accuracy Level:110
+		PAGE: bouer.local/login			 TIME:1.245 seconds
+		PAGE: bouer.local/display			 TIME:0.279 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.278 seconds
+
+	Accuracy Level:111
+		PAGE: bouer.local/login			 TIME:2.219 seconds
+		PAGE: bouer.local/display			 TIME:0.266 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.233 seconds
+
+	Accuracy Level:112
+		PAGE: bouer.local/login			 TIME:1.195 seconds
+		PAGE: bouer.local/display			 TIME:0.198 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.21 seconds
+
+	Accuracy Level:113
+		PAGE: bouer.local/login			 TIME:1.12 seconds
+		PAGE: bouer.local/display			 TIME:0.221 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.208 seconds
+
+	Accuracy Level:114
+		PAGE: bouer.local/login			 TIME:2.135 seconds
+		PAGE: bouer.local/display			 TIME:0.397 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.356 seconds
+
+	Accuracy Level:115
+		PAGE: bouer.local/login			 TIME:1.282 seconds
+		PAGE: bouer.local/display			 TIME:0.308 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.169 seconds
+
+	Accuracy Level:116
+		PAGE: bouer.local/login			 TIME:2.172 seconds
+		PAGE: bouer.local/display			 TIME:0.169 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.189 seconds
+
+	Accuracy Level:117
+		PAGE: bouer.local/login			 TIME:0.926 seconds
+		PAGE: bouer.local/display			 TIME:0.295 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.189 seconds
+
+	Accuracy Level:118
+		PAGE: bouer.local/login			 TIME:1.073 seconds
+		PAGE: bouer.local/display			 TIME:0.249 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.195 seconds
+
+	Accuracy Level:119
+		PAGE: bouer.local/login			 TIME:1.046 seconds
+		PAGE: bouer.local/display			 TIME:0.292 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.209 seconds
+
+	Accuracy Level:120
+		PAGE: bouer.local/login			 TIME:1.499 seconds
+		PAGE: bouer.local/display			 TIME:29.219 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.191 seconds
+
+	Accuracy Level:121
+		PAGE: bouer.local/login			 TIME:1.422 seconds
+		PAGE: bouer.local/display			 TIME:0.379 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.188 seconds
+
+	Accuracy Level:122
+		PAGE: bouer.local/login			 TIME:1.613 seconds
+		PAGE: bouer.local/display			 TIME:0.239 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.246 seconds
+
+	Accuracy Level:123
+		PAGE: bouer.local/login			 TIME:1.15 seconds
+		PAGE: bouer.local/display			 TIME:0.239 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.169 seconds
+
+	Accuracy Level:124
+		PAGE: bouer.local/login			 TIME:32.085 seconds
+		PAGE: bouer.local/display			 TIME:0.339 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.239 seconds
+
+	Accuracy Level:125
+		PAGE: bouer.local/login			 TIME:1.507 seconds
+		PAGE: bouer.local/display			 TIME:0.217 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.166 seconds
+
+	Accuracy Level:126
+		PAGE: bouer.local/login			 TIME:1.281 seconds
+		PAGE: bouer.local/display			 TIME:0.246 seconds
+		PAGE: bouer.local/dashboard			 TIME:29.676 seconds
+
+	Accuracy Level:127
+		PAGE: bouer.local/login			 TIME:1.12 seconds
+		PAGE: bouer.local/display			 TIME:0.234 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.189 seconds
+
+	Accuracy Level:128
+		PAGE: bouer.local/login			 TIME:1.596 seconds
+		PAGE: bouer.local/display			 TIME:0.331 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.327 seconds
+
+	Accuracy Level:129
+		PAGE: bouer.local/login			 TIME:1.385 seconds
+		PAGE: bouer.local/display			 TIME:0.813 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.165 seconds
+
+	Accuracy Level:130
+		PAGE: bouer.local/login			 TIME:0.925 seconds
+		PAGE: bouer.local/display			 TIME:0.259 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.217 seconds
+
+	Accuracy Level:131
+		PAGE: bouer.local/login			 TIME:1.198 seconds
+		PAGE: bouer.local/display			 TIME:0.26 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.233 seconds
+
+	Accuracy Level:132
+		PAGE: bouer.local/login			 TIME:1.189 seconds
+		PAGE: bouer.local/display			 TIME:0.242 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.236 seconds
+
+	Accuracy Level:133
+		PAGE: bouer.local/login			 TIME:1.628 seconds
+		PAGE: bouer.local/display			 TIME:0.245 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.203 seconds
+
+	Accuracy Level:134
+		PAGE: bouer.local/login			 TIME:1.96 seconds
+		PAGE: bouer.local/display			 TIME:0.235 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.149 seconds
+
+	Accuracy Level:135
+		PAGE: bouer.local/login			 TIME:1.124 seconds
+		PAGE: bouer.local/display			 TIME:0.244 seconds
+		PAGE: bouer.local/dashboard			 TIME:30.628 seconds
+
+	Accuracy Level:136
+		PAGE: bouer.local/login			 TIME:0.887 seconds
+		PAGE: bouer.local/display			 TIME:0.231 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.209 seconds
+
+	Accuracy Level:137
+		PAGE: bouer.local/login			 TIME:2.04 seconds
+		PAGE: bouer.local/display			 TIME:0.214 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.215 seconds
+
+	Accuracy Level:138
+		PAGE: bouer.local/login			 TIME:1.417 seconds
+		PAGE: bouer.local/display			 TIME:0.269 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.19 seconds
+
+	Accuracy Level:139
+		PAGE: bouer.local/login			 TIME:1.557 seconds
+		PAGE: bouer.local/display			 TIME:0.323 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.311 seconds
+
+	Accuracy Level:140
+		PAGE: bouer.local/login			 TIME:1.639 seconds
+		PAGE: bouer.local/display			 TIME:0.318 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.241 seconds
+
+	Accuracy Level:141
+		PAGE: bouer.local/login			 TIME:1.304 seconds
+		PAGE: bouer.local/display			 TIME:0.191 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.2 seconds
+
+	Accuracy Level:142
+		PAGE: bouer.local/login			 TIME:1.289 seconds
+		PAGE: bouer.local/display			 TIME:0.331 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.257 seconds
+
+	Accuracy Level:143
+		PAGE: bouer.local/login			 TIME:1.352 seconds
+		PAGE: bouer.local/display			 TIME:0.261 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.229 seconds
+
+	Accuracy Level:144
+		PAGE: bouer.local/login			 TIME:1.373 seconds
+		PAGE: bouer.local/display			 TIME:0.283 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.221 seconds
+
+	Accuracy Level:145
+		PAGE: bouer.local/login			 TIME:1.838 seconds
+		PAGE: bouer.local/display			 TIME:31.648 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.183 seconds
+
+	Accuracy Level:146
+		PAGE: bouer.local/login			 TIME:1.647 seconds
+		PAGE: bouer.local/display			 TIME:0.38 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.252 seconds
+
+	Accuracy Level:147
+		PAGE: bouer.local/login			 TIME:1.577 seconds
+		PAGE: bouer.local/display			 TIME:0.328 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.224 seconds
+
+	Accuracy Level:148
+		PAGE: bouer.local/login			 TIME:1.386 seconds
+		PAGE: bouer.local/display			 TIME:0.243 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.198 seconds
+
+	Accuracy Level:149
+		PAGE: bouer.local/login			 TIME:1.48 seconds
+		PAGE: bouer.local/display			 TIME:0.363 seconds
+		PAGE: bouer.local/dashboard			 TIME:32.06 seconds
+
+	Accuracy Level:150
+		PAGE: bouer.local/login			 TIME:1.452 seconds
+		PAGE: bouer.local/display			 TIME:0.238 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.18 seconds
+
+	Accuracy Level:151
+		PAGE: bouer.local/login			 TIME:1.296 seconds
+		PAGE: bouer.local/display			 TIME:0.215 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.159 seconds
+
+	Accuracy Level:152
+		PAGE: bouer.local/login			 TIME:1.485 seconds
+		PAGE: bouer.local/display			 TIME:0.247 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.233 seconds
+
+	Accuracy Level:153
+		PAGE: bouer.local/login			 TIME:1.682 seconds
+		PAGE: bouer.local/display			 TIME:0.318 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.278 seconds
+
+	Accuracy Level:154
+		PAGE: bouer.local/login			 TIME:1.674 seconds
+		PAGE: bouer.local/display			 TIME:0.308 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.101 seconds
+
+	Accuracy Level:155
+		PAGE: bouer.local/login			 TIME:30.705 seconds
+		PAGE: bouer.local/display			 TIME:0.345 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.25 seconds
+
+	Accuracy Level:156
+		PAGE: bouer.local/login			 TIME:1.786 seconds
+		PAGE: bouer.local/display			 TIME:0.241 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.195 seconds
+
+	Accuracy Level:157
+		PAGE: bouer.local/login			 TIME:1.431 seconds
+		PAGE: bouer.local/display			 TIME:0.185 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.163 seconds
+
+	Accuracy Level:158
+		PAGE: bouer.local/login			 TIME:2.505 seconds
+		PAGE: bouer.local/display			 TIME:0.275 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.239 seconds
+
+	Accuracy Level:159
+		PAGE: bouer.local/login			 TIME:1.27 seconds
+		PAGE: bouer.local/display			 TIME:0.236 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.2 seconds
+
+	Accuracy Level:160
+		PAGE: bouer.local/login			 TIME:1.878 seconds
+		PAGE: bouer.local/display			 TIME:0.26 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.253 seconds
+
+	Accuracy Level:161
+		PAGE: bouer.local/login			 TIME:2.169 seconds
+		PAGE: bouer.local/display			 TIME:1.279 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.268 seconds
+
+	Accuracy Level:162
+		PAGE: bouer.local/login			 TIME:1.284 seconds
+		PAGE: bouer.local/display			 TIME:0.285 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.219 seconds
+
+	Accuracy Level:163
+		PAGE: bouer.local/login			 TIME:1.577 seconds
+		PAGE: bouer.local/display			 TIME:0.313 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.163 seconds
+
+	Accuracy Level:164
+		PAGE: bouer.local/login			 TIME:2.218 seconds
+		PAGE: bouer.local/display			 TIME:0.457 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.244 seconds
+
+	Accuracy Level:165
+		PAGE: bouer.local/login			 TIME:1.573 seconds
+		PAGE: bouer.local/display			 TIME:0.32 seconds
+		PAGE: bouer.local/dashboard			 TIME:34.722 seconds
+
+	Accuracy Level:166
+		PAGE: bouer.local/login			 TIME:1.865 seconds
+		PAGE: bouer.local/display			 TIME:0.352 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.261 seconds
+
+	Accuracy Level:167
+		PAGE: bouer.local/login			 TIME:2.505 seconds
+		PAGE: bouer.local/display			 TIME:0.294 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.281 seconds
+
+	Accuracy Level:168
+		PAGE: bouer.local/login			 TIME:1.964 seconds
+		PAGE: bouer.local/display			 TIME:0.391 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.315 seconds
+
+	Accuracy Level:169
+		PAGE: bouer.local/login			 TIME:1.365 seconds
+		PAGE: bouer.local/display			 TIME:0.183 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.135 seconds
+
+	Accuracy Level:170
+		PAGE: bouer.local/login			 TIME:1.388 seconds
+		PAGE: bouer.local/display			 TIME:0.357 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.195 seconds
+
+	Accuracy Level:171
+		PAGE: bouer.local/login			 TIME:2.271 seconds
+		PAGE: bouer.local/display			 TIME:0.213 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.181 seconds
+
+	Accuracy Level:172
+		PAGE: bouer.local/login			 TIME:1.732 seconds
+		PAGE: bouer.local/display			 TIME:0.269 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.268 seconds
+
+	Accuracy Level:173
+		PAGE: bouer.local/login			 TIME:2.326 seconds
+		PAGE: bouer.local/display			 TIME:0.254 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.296 seconds
+
+	Accuracy Level:174
+		PAGE: bouer.local/login			 TIME:1.829 seconds
+		PAGE: bouer.local/display			 TIME:0.334 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.196 seconds
+
+	Accuracy Level:175
+		PAGE: bouer.local/login			 TIME:1.319 seconds
+		PAGE: bouer.local/display			 TIME:0.265 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.204 seconds
+
+	Accuracy Level:176
+		PAGE: bouer.local/login			 TIME:2.955 seconds
+		PAGE: bouer.local/display			 TIME:0.245 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.223 seconds
+
+	Accuracy Level:177
+		PAGE: bouer.local/login			 TIME:1.495 seconds
+		PAGE: bouer.local/display			 TIME:0.227 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.162 seconds
+
+	Accuracy Level:178
+		PAGE: bouer.local/login			 TIME:1.271 seconds
+		PAGE: bouer.local/display			 TIME:0.964 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.223 seconds
+
+	Accuracy Level:179
+		PAGE: bouer.local/login			 TIME:1.85 seconds
+		PAGE: bouer.local/display			 TIME:0.274 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.22 seconds
+
+	Accuracy Level:180
+		PAGE: bouer.local/login			 TIME:1.971 seconds
+		PAGE: bouer.local/display			 TIME:0.312 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.143 seconds
+
+	Accuracy Level:181
+		PAGE: bouer.local/login			 TIME:1.34 seconds
+		PAGE: bouer.local/display			 TIME:0.225 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.202 seconds
+
+	Accuracy Level:182
+		PAGE: bouer.local/login			 TIME:1.712 seconds
+		PAGE: bouer.local/display			 TIME:0.343 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.249 seconds
+
+	Accuracy Level:183
+		PAGE: bouer.local/login			 TIME:2.066 seconds
+		PAGE: bouer.local/display			 TIME:0.313 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.203 seconds
+
+	Accuracy Level:184
+		PAGE: bouer.local/login			 TIME:1.375 seconds
+		PAGE: bouer.local/display			 TIME:0.221 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.208 seconds
+
+	Accuracy Level:185
+		PAGE: bouer.local/login			 TIME:1.394 seconds
+		PAGE: bouer.local/display			 TIME:0.209 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.218 seconds
+
+	Accuracy Level:186
+		PAGE: bouer.local/login			 TIME:1.612 seconds
+		PAGE: bouer.local/display			 TIME:0.289 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.263 seconds
+
+	Accuracy Level:187
+		PAGE: bouer.local/login			 TIME:1.646 seconds
+		PAGE: bouer.local/display			 TIME:0.37 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.27 seconds
+
+	Accuracy Level:188
+		PAGE: bouer.local/login			 TIME:1.454 seconds
+		PAGE: bouer.local/display			 TIME:0.256 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.229 seconds
+
+	Accuracy Level:189
+		PAGE: bouer.local/login			 TIME:2.422 seconds
+		PAGE: bouer.local/display			 TIME:0.341 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.259 seconds
+
+	Accuracy Level:190
+		PAGE: bouer.local/login			 TIME:1.629 seconds
+		PAGE: bouer.local/display			 TIME:0.187 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.153 seconds
+
+	Accuracy Level:191
+		PAGE: bouer.local/login			 TIME:1.701 seconds
+		PAGE: bouer.local/display			 TIME:0.248 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.183 seconds
+
+	Accuracy Level:192
+		PAGE: bouer.local/login			 TIME:2.235 seconds
+		PAGE: bouer.local/display			 TIME:0.415 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.278 seconds
+
+	Accuracy Level:193
+		PAGE: bouer.local/login			 TIME:1.777 seconds
+		PAGE: bouer.local/display			 TIME:0.203 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.177 seconds
+
+	Accuracy Level:194
+		PAGE: bouer.local/login			 TIME:1.327 seconds
+		PAGE: bouer.local/display			 TIME:0.254 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.186 seconds
+
+	Accuracy Level:195
+		PAGE: bouer.local/login			 TIME:1.537 seconds
+		PAGE: bouer.local/display			 TIME:0.361 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.184 seconds
+
+	Accuracy Level:196
+		PAGE: bouer.local/login			 TIME:2.805 seconds
+		PAGE: bouer.local/display			 TIME:0.242 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.227 seconds
+
+	Accuracy Level:197
+		PAGE: bouer.local/login			 TIME:0.971 seconds
+		PAGE: bouer.local/display			 TIME:0.254 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.204 seconds
+
+	Accuracy Level:198
+		PAGE: bouer.local/login			 TIME:1.878 seconds
+		PAGE: bouer.local/display			 TIME:0.299 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.222 seconds
+
+	Accuracy Level:199
+		PAGE: bouer.local/login			 TIME:1.932 seconds
+		PAGE: bouer.local/display			 TIME:29.355 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.188 seconds
+
+	Accuracy Level:200
+		PAGE: bouer.local/login			 TIME:1.628 seconds
+		PAGE: bouer.local/display			 TIME:0.252 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.271 seconds
+
+	Accuracy Level:201
+		PAGE: bouer.local/login			 TIME:2.866 seconds
+		PAGE: bouer.local/display			 TIME:0.234 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.191 seconds
+
+	Accuracy Level:202
+		PAGE: bouer.local/login			 TIME:1.385 seconds
+		PAGE: bouer.local/display			 TIME:0.234 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.24 seconds
+
+	Accuracy Level:203
+		PAGE: bouer.local/login			 TIME:1.682 seconds
+		PAGE: bouer.local/display			 TIME:0.291 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.21 seconds
+
+	Accuracy Level:204
+		PAGE: bouer.local/login			 TIME:1.912 seconds
+		PAGE: bouer.local/display			 TIME:0.297 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.261 seconds
+
+	Accuracy Level:205
+		PAGE: bouer.local/login			 TIME:1.816 seconds
+		PAGE: bouer.local/display			 TIME:0.209 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.184 seconds
+
+	Accuracy Level:206
+		PAGE: bouer.local/login			 TIME:1.596 seconds
+		PAGE: bouer.local/display			 TIME:0.223 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.187 seconds
+
+	Accuracy Level:207
+		PAGE: bouer.local/login			 TIME:1.977 seconds
+		PAGE: bouer.local/display			 TIME:0.303 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.27 seconds
+
+	Accuracy Level:208
+		PAGE: bouer.local/login			 TIME:2.855 seconds
+		PAGE: bouer.local/display			 TIME:0.405 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.231 seconds
+
+	Accuracy Level:209
+		PAGE: bouer.local/login			 TIME:1.339 seconds
+		PAGE: bouer.local/display			 TIME:0.259 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.118 seconds
+
+	Accuracy Level:210
+		PAGE: bouer.local/login			 TIME:1.664 seconds
+		PAGE: bouer.local/display			 TIME:0.291 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.196 seconds
+
+	Accuracy Level:211
+		PAGE: bouer.local/login			 TIME:2.037 seconds
+		PAGE: bouer.local/display			 TIME:0.358 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.217 seconds
+
+	Accuracy Level:212
+		PAGE: bouer.local/login			 TIME:1.848 seconds
+		PAGE: bouer.local/display			 TIME:0.248 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.2 seconds
+
+	Accuracy Level:213
+		PAGE: bouer.local/login			 TIME:1.474 seconds
+		PAGE: bouer.local/display			 TIME:0.249 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.191 seconds
+
+	Accuracy Level:214
+		PAGE: bouer.local/login			 TIME:1.682 seconds
+		PAGE: bouer.local/display			 TIME:0.376 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.262 seconds
+
+	Accuracy Level:215
+		PAGE: bouer.local/login			 TIME:2.157 seconds
+		PAGE: bouer.local/display			 TIME:0.419 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.198 seconds
+
+	Accuracy Level:216
+		PAGE: bouer.local/login			 TIME:1.754 seconds
+		PAGE: bouer.local/display			 TIME:0.285 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.192 seconds
+
+	Accuracy Level:217
+		PAGE: bouer.local/login			 TIME:1.776 seconds
+		PAGE: bouer.local/display			 TIME:0.251 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.233 seconds
+
+	Accuracy Level:218
+		PAGE: bouer.local/login			 TIME:2.374 seconds
+		PAGE: bouer.local/display			 TIME:0.409 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.279 seconds
+
+	Accuracy Level:219
+		PAGE: bouer.local/login			 TIME:1.539 seconds
+		PAGE: bouer.local/display			 TIME:0.249 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.22 seconds
+
+	Accuracy Level:220
+		PAGE: bouer.local/login			 TIME:1.593 seconds
+		PAGE: bouer.local/display			 TIME:0.282 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.237 seconds
+
+	Accuracy Level:221
+		PAGE: bouer.local/login			 TIME:1.955 seconds
+		PAGE: bouer.local/display			 TIME:0.39 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.265 seconds
+
+	Accuracy Level:222
+		PAGE: bouer.local/login			 TIME:1.999 seconds
+		PAGE: bouer.local/display			 TIME:0.269 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.229 seconds
+
+	Accuracy Level:223
+		PAGE: bouer.local/login			 TIME:1.931 seconds
+		PAGE: bouer.local/display			 TIME:0.258 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.177 seconds
+
+	Accuracy Level:224
+		PAGE: bouer.local/login			 TIME:1.294 seconds
+		PAGE: bouer.local/display			 TIME:0.142 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.196 seconds
+
+	Accuracy Level:225
+		PAGE: bouer.local/login			 TIME:1.891 seconds
+		PAGE: bouer.local/display			 TIME:0.386 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.231 seconds
+
+	Accuracy Level:226
+		PAGE: bouer.local/login			 TIME:2.354 seconds
+		PAGE: bouer.local/display			 TIME:0.363 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.253 seconds
+
+	Accuracy Level:227
+		PAGE: bouer.local/login			 TIME:1.77 seconds
+		PAGE: bouer.local/display			 TIME:0.232 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.241 seconds
+
+	Accuracy Level:228
+		PAGE: bouer.local/login			 TIME:1.763 seconds
+		PAGE: bouer.local/display			 TIME:0.385 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.285 seconds
+
+	Accuracy Level:229
+		PAGE: bouer.local/login			 TIME:2.415 seconds
+		PAGE: bouer.local/display			 TIME:0.324 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.267 seconds
+
+	Accuracy Level:230
+		PAGE: bouer.local/login			 TIME:1.852 seconds
+		PAGE: bouer.local/display			 TIME:0.347 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.188 seconds
+
+	Accuracy Level:231
+		PAGE: bouer.local/login			 TIME:2.604 seconds
+		PAGE: bouer.local/display			 TIME:0.333 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.304 seconds
+
+	Accuracy Level:232
+		PAGE: bouer.local/login			 TIME:2.047 seconds
+		PAGE: bouer.local/display			 TIME:0.264 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.208 seconds
+
+	Accuracy Level:233
+		PAGE: bouer.local/login			 TIME:1.121 seconds
+		PAGE: bouer.local/display			 TIME:0.437 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.253 seconds
+
+	Accuracy Level:234
+		PAGE: bouer.local/login			 TIME:1.732 seconds
+		PAGE: bouer.local/display			 TIME:0.279 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.303 seconds
+
+	Accuracy Level:235
+		PAGE: bouer.local/login			 TIME:2.427 seconds
+		PAGE: bouer.local/display			 TIME:0.406 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.385 seconds
+
+	Accuracy Level:236
+		PAGE: bouer.local/login			 TIME:1.804 seconds
+		PAGE: bouer.local/display			 TIME:0.389 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.193 seconds
+
+	Accuracy Level:237
+		PAGE: bouer.local/login			 TIME:1.247 seconds
+		PAGE: bouer.local/display			 TIME:2.011 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.171 seconds
+
+	Accuracy Level:238
+		PAGE: bouer.local/login			 TIME:1.443 seconds
+		PAGE: bouer.local/display			 TIME:0.211 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.159 seconds
+
+	Accuracy Level:239
+		PAGE: bouer.local/login			 TIME:1.905 seconds
+		PAGE: bouer.local/display			 TIME:0.315 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.181 seconds
+
+	Accuracy Level:240
+		PAGE: bouer.local/login			 TIME:2.381 seconds
+		PAGE: bouer.local/display			 TIME:0.34 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.279 seconds
+
+	Accuracy Level:241
+		PAGE: bouer.local/login			 TIME:1.835 seconds
+		PAGE: bouer.local/display			 TIME:0.225 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.197 seconds
+
+	Accuracy Level:242
+		PAGE: bouer.local/login			 TIME:2.247 seconds
+		PAGE: bouer.local/display			 TIME:0.233 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.199 seconds
+
+	Accuracy Level:243
+		PAGE: bouer.local/login			 TIME:2.179 seconds
+		PAGE: bouer.local/display			 TIME:0.257 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.276 seconds
+
+	Accuracy Level:244
+		PAGE: bouer.local/login			 TIME:2.068 seconds
+		PAGE: bouer.local/display			 TIME:0.358 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.214 seconds
+
+	Accuracy Level:245
+		PAGE: bouer.local/login			 TIME:1.214 seconds
+		PAGE: bouer.local/display			 TIME:0.213 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.179 seconds
+
+	Accuracy Level:246
+		PAGE: bouer.local/login			 TIME:1.947 seconds
+		PAGE: bouer.local/display			 TIME:32.059 seconds
+		PAGE: bouer.local/dashboard			 TIME:30.496 seconds
+
+	Accuracy Level:247
+		PAGE: bouer.local/login			 TIME:2.491 seconds
+		PAGE: bouer.local/display			 TIME:0.257 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.22 seconds
+
+	Accuracy Level:248
+		PAGE: bouer.local/login			 TIME:1.751 seconds
+		PAGE: bouer.local/display			 TIME:0.339 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.304 seconds
+
+	Accuracy Level:249
+		PAGE: bouer.local/login			 TIME:2.152 seconds
+		PAGE: bouer.local/display			 TIME:0.379 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.197 seconds
+
+	Accuracy Level:250
+		PAGE: bouer.local/login			 TIME:1.979 seconds
+		PAGE: bouer.local/display			 TIME:0.198 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.234 seconds
+
+	Accuracy Level:251
+		PAGE: bouer.local/login			 TIME:2.713 seconds
+		PAGE: bouer.local/display			 TIME:0.331 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.214 seconds
+
+	Accuracy Level:252
+		PAGE: bouer.local/login			 TIME:1.969 seconds
+		PAGE: bouer.local/display			 TIME:0.21 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.197 seconds
+
+	Accuracy Level:253
+		PAGE: bouer.local/login			 TIME:2.051 seconds
+		PAGE: bouer.local/display			 TIME:0.291 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.287 seconds
+
+	Accuracy Level:254
+		PAGE: bouer.local/login			 TIME:2.312 seconds
+		PAGE: bouer.local/display			 TIME:0.354 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.47 seconds
+
+	Accuracy Level:255
+		PAGE: bouer.local/login			 TIME:1.757 seconds
+		PAGE: bouer.local/display			 TIME:0.269 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.208 seconds
+
+	Accuracy Level:256
+		PAGE: bouer.local/login			 TIME:1.755 seconds
+		PAGE: bouer.local/display			 TIME:0.248 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.179 seconds
+
+	Accuracy Level:257
+		PAGE: bouer.local/login			 TIME:2.557 seconds
+		PAGE: bouer.local/display			 TIME:0.364 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.337 seconds
+
+	Accuracy Level:258
+		PAGE: bouer.local/login			 TIME:1.412 seconds
+		PAGE: bouer.local/display			 TIME:0.249 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.14 seconds
+
+	Accuracy Level:259
+		PAGE: bouer.local/login			 TIME:2.71 seconds
+		PAGE: bouer.local/display			 TIME:0.263 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.224 seconds
+
+	Accuracy Level:260
+		PAGE: bouer.local/login			 TIME:2.731 seconds
+		PAGE: bouer.local/display			 TIME:0.312 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.25 seconds
+
+	Accuracy Level:261
+		PAGE: bouer.local/login			 TIME:1.719 seconds
+		PAGE: bouer.local/display			 TIME:0.262 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.208 seconds
+
+	Accuracy Level:262
+		PAGE: bouer.local/login			 TIME:2.768 seconds
+		PAGE: bouer.local/display			 TIME:0.336 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.22 seconds
+
+	Accuracy Level:263
+		PAGE: bouer.local/login			 TIME:2.129 seconds
+		PAGE: bouer.local/display			 TIME:0.297 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.218 seconds
+
+	Accuracy Level:264
+		PAGE: bouer.local/login			 TIME:2.022 seconds
+		PAGE: bouer.local/display			 TIME:32.394 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.198 seconds
+
+	Accuracy Level:265
+		PAGE: bouer.local/login			 TIME:2.379 seconds
+		PAGE: bouer.local/display			 TIME:0.372 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.258 seconds
+
+	Accuracy Level:266
+		PAGE: bouer.local/login			 TIME:1.889 seconds
+		PAGE: bouer.local/display			 TIME:0.326 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.162 seconds
+
+	Accuracy Level:267
+		PAGE: bouer.local/login			 TIME:3.456 seconds
+		PAGE: bouer.local/display			 TIME:0.312 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.32 seconds
+
+	Accuracy Level:268
+		PAGE: bouer.local/login			 TIME:1.678 seconds
+		PAGE: bouer.local/display			 TIME:1.014 seconds
+		PAGE: bouer.local/dashboard			 TIME:1.674 seconds
+
+	Accuracy Level:269
+		PAGE: bouer.local/login			 TIME:1.537 seconds
+		PAGE: bouer.local/display			 TIME:0.2 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.191 seconds
+
+	Accuracy Level:270
+		PAGE: bouer.local/login			 TIME:1.722 seconds
+		PAGE: bouer.local/display			 TIME:0.239 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.158 seconds
+
+	Accuracy Level:271
+		PAGE: bouer.local/login			 TIME:1.539 seconds
+		PAGE: bouer.local/display			 TIME:0.271 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.24 seconds
+
+	Accuracy Level:272
+		PAGE: bouer.local/login			 TIME:1.939 seconds
+		PAGE: bouer.local/display			 TIME:0.585 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.316 seconds
+
+	Accuracy Level:273
+		PAGE: bouer.local/login			 TIME:2.535 seconds
+		PAGE: bouer.local/display			 TIME:0.337 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.203 seconds
+
+	Accuracy Level:274
+		PAGE: bouer.local/login			 TIME:1.871 seconds
+		PAGE: bouer.local/display			 TIME:0.203 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.138 seconds
+
+	Accuracy Level:275
+		PAGE: bouer.local/login			 TIME:1.86 seconds
+		PAGE: bouer.local/display			 TIME:0.287 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.269 seconds
+
+	Accuracy Level:276
+		PAGE: bouer.local/login			 TIME:2.445 seconds
+		PAGE: bouer.local/display			 TIME:0.413 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.291 seconds
+
+	Accuracy Level:277
+		PAGE: bouer.local/login			 TIME:2.14 seconds
+		PAGE: bouer.local/display			 TIME:0.227 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.22 seconds
+
+	Accuracy Level:278
+		PAGE: bouer.local/login			 TIME:1.923 seconds
+		PAGE: bouer.local/display			 TIME:0.243 seconds
+		PAGE: bouer.local/dashboard			 TIME:29.923 seconds
+
+	Accuracy Level:279
+		PAGE: bouer.local/login			 TIME:2.19 seconds
+		PAGE: bouer.local/display			 TIME:0.252 seconds
+		PAGE: bouer.local/dashboard			 TIME:31.965 seconds
+
+	Accuracy Level:280
+		PAGE: bouer.local/login			 TIME:2.051 seconds
+		PAGE: bouer.local/display			 TIME:0.347 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.207 seconds
+
+	Accuracy Level:281
+		PAGE: bouer.local/login			 TIME:2.396 seconds
+		PAGE: bouer.local/display			 TIME:0.587 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.218 seconds
+
+	Accuracy Level:282
+		PAGE: bouer.local/login			 TIME:2.484 seconds
+		PAGE: bouer.local/display			 TIME:0.195 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.178 seconds
+
+	Accuracy Level:283
+		PAGE: bouer.local/login			 TIME:3.128 seconds
+		PAGE: bouer.local/display			 TIME:0.284 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.274 seconds
+
+	Accuracy Level:284
+		PAGE: bouer.local/login			 TIME:3.01 seconds
+		PAGE: bouer.local/display			 TIME:0.253 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.157 seconds
+
+	Accuracy Level:285
+		PAGE: bouer.local/login			 TIME:2.191 seconds
+		PAGE: bouer.local/display			 TIME:0.339 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.256 seconds
+
+	Accuracy Level:286
+		PAGE: bouer.local/login			 TIME:2.212 seconds
+		PAGE: bouer.local/display			 TIME:0.268 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.249 seconds
+
+	Accuracy Level:287
+		PAGE: bouer.local/login			 TIME:2.051 seconds
+		PAGE: bouer.local/display			 TIME:0.205 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.179 seconds
+
+	Accuracy Level:288
+		PAGE: bouer.local/login			 TIME:2.23 seconds
+		PAGE: bouer.local/display			 TIME:0.405 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.249 seconds
+
+	Accuracy Level:289
+		PAGE: bouer.local/login			 TIME:1.994 seconds
+		PAGE: bouer.local/display			 TIME:0.265 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.279 seconds
+
+	Accuracy Level:290
+		PAGE: bouer.local/login			 TIME:1.92 seconds
+		PAGE: bouer.local/display			 TIME:0.218 seconds
+		PAGE: bouer.local/dashboard			 TIME:29.215 seconds
+
+	Accuracy Level:291
+		PAGE: bouer.local/login			 TIME:1.987 seconds
+		PAGE: bouer.local/display			 TIME:0.328 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.423 seconds
+
+	Accuracy Level:292
+		PAGE: bouer.local/login			 TIME:2.079 seconds
+		PAGE: bouer.local/display			 TIME:0.218 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.13 seconds
+
+	Accuracy Level:293
+		PAGE: bouer.local/login			 TIME:32.304 seconds
+		PAGE: bouer.local/display			 TIME:0.328 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.529 seconds
+
+	Accuracy Level:294
+		PAGE: bouer.local/login			 TIME:2.13 seconds
+		PAGE: bouer.local/display			 TIME:0.278 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.194 seconds
+
+	Accuracy Level:295
+		PAGE: bouer.local/login			 TIME:2.111 seconds
+		PAGE: bouer.local/display			 TIME:0.266 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.238 seconds
+
+	Accuracy Level:296
+		PAGE: bouer.local/login			 TIME:2.21 seconds
+		PAGE: bouer.local/display			 TIME:0.375 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.269 seconds
+
+	Accuracy Level:297
+		PAGE: bouer.local/login			 TIME:35.091 seconds
+		PAGE: bouer.local/display			 TIME:0.216 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.161 seconds
+
+	Accuracy Level:298
+		PAGE: bouer.local/login			 TIME:2.12 seconds
+		PAGE: bouer.local/display			 TIME:0.324 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.224 seconds
+
+	Accuracy Level:299
+		PAGE: bouer.local/login			 TIME:1.984 seconds
+		PAGE: bouer.local/display			 TIME:0.309 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.288 seconds
+
+	Accuracy Level:300
+		PAGE: bouer.local/login			 TIME:2.64 seconds
+		PAGE: bouer.local/display			 TIME:0.355 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.193 seconds
+
+	Accuracy Level:301
+		PAGE: bouer.local/login			 TIME:2.032 seconds
+		PAGE: bouer.local/display			 TIME:34.695 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.305 seconds
+
+	Accuracy Level:302
+		PAGE: bouer.local/login			 TIME:2.093 seconds
+		PAGE: bouer.local/display			 TIME:0.276 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.169 seconds
+
+	Accuracy Level:303
+		PAGE: bouer.local/login			 TIME:2.769 seconds
+		PAGE: bouer.local/display			 TIME:0.283 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.231 seconds
+
+	Accuracy Level:304
+		PAGE: bouer.local/login			 TIME:3.162 seconds
+		PAGE: bouer.local/display			 TIME:0.379 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.306 seconds
+
+	Accuracy Level:305
+		PAGE: bouer.local/login			 TIME:2.133 seconds
+		PAGE: bouer.local/display			 TIME:0.195 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.191 seconds
+
+	Accuracy Level:306
+		PAGE: bouer.local/login			 TIME:2.969 seconds
+		PAGE: bouer.local/display			 TIME:0.293 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.222 seconds
+
+	Accuracy Level:307
+		PAGE: bouer.local/login			 TIME:2.516 seconds
+		PAGE: bouer.local/display			 TIME:0.196 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.172 seconds
+
+	Accuracy Level:308
+		PAGE: bouer.local/login			 TIME:2.235 seconds
+		PAGE: bouer.local/display			 TIME:0.248 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.217 seconds
+
+	Accuracy Level:309
+		PAGE: bouer.local/login			 TIME:2.759 seconds
+		PAGE: bouer.local/display			 TIME:0.311 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.232 seconds
+
+	Accuracy Level:310
+		PAGE: bouer.local/login			 TIME:1.819 seconds
+		PAGE: bouer.local/display			 TIME:0.251 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.14 seconds
+
+	Accuracy Level:311
+		PAGE: bouer.local/login			 TIME:2.032 seconds
+		PAGE: bouer.local/display			 TIME:0.287 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.277 seconds
+
+	Accuracy Level:312
+		PAGE: bouer.local/login			 TIME:3.013 seconds
+		PAGE: bouer.local/display			 TIME:0.348 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.631 seconds
+
+	Accuracy Level:313
+		PAGE: bouer.local/login			 TIME:2.234 seconds
+		PAGE: bouer.local/display			 TIME:0.201 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.216 seconds
+
+	Accuracy Level:314
+		PAGE: bouer.local/login			 TIME:2.157 seconds
+		PAGE: bouer.local/display			 TIME:0.299 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.226 seconds
+
+	Accuracy Level:315
+		PAGE: bouer.local/login			 TIME:2.865 seconds
+		PAGE: bouer.local/display			 TIME:0.288 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.218 seconds
+
+	Accuracy Level:316
+		PAGE: bouer.local/login			 TIME:1.859 seconds
+		PAGE: bouer.local/display			 TIME:0.288 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.181 seconds
+
+	Accuracy Level:317
+		PAGE: bouer.local/login			 TIME:2.527 seconds
+		PAGE: bouer.local/display			 TIME:0.284 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.229 seconds
+
+	Accuracy Level:318
+		PAGE: bouer.local/login			 TIME:2.693 seconds
+		PAGE: bouer.local/display			 TIME:0.222 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.203 seconds
+
+	Accuracy Level:319
+		PAGE: bouer.local/login			 TIME:2.212 seconds
+		PAGE: bouer.local/display			 TIME:0.28 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.161 seconds
+
+	Accuracy Level:320
+		PAGE: bouer.local/login			 TIME:2.878 seconds
+		PAGE: bouer.local/display			 TIME:0.302 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.259 seconds
+
+	Accuracy Level:321
+		PAGE: bouer.local/login			 TIME:2.368 seconds
+		PAGE: bouer.local/display			 TIME:0.25 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.188 seconds
+
+	Accuracy Level:322
+		PAGE: bouer.local/login			 TIME:2.631 seconds
+		PAGE: bouer.local/display			 TIME:0.364 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.218 seconds
+
+	Accuracy Level:323
+		PAGE: bouer.local/login			 TIME:2.318 seconds
+		PAGE: bouer.local/display			 TIME:0.235 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.201 seconds
+
+	Accuracy Level:324
+		PAGE: bouer.local/login			 TIME:2.383 seconds
+		PAGE: bouer.local/display			 TIME:0.361 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.241 seconds
+
+	Accuracy Level:325
+		PAGE: bouer.local/login			 TIME:1.784 seconds
+		PAGE: bouer.local/display			 TIME:0.349 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.285 seconds
+
+	Accuracy Level:326
+		PAGE: bouer.local/login			 TIME:2.551 seconds
+		PAGE: bouer.local/display			 TIME:0.29 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.188 seconds
+
+	Accuracy Level:327
+		PAGE: bouer.local/login			 TIME:2.449 seconds
+		PAGE: bouer.local/display			 TIME:0.269 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.395 seconds
+
+	Accuracy Level:328
+		PAGE: bouer.local/login			 TIME:2.504 seconds
+		PAGE: bouer.local/display			 TIME:0.199 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.165 seconds
+
+	Accuracy Level:329
+		PAGE: bouer.local/login			 TIME:1.924 seconds
+		PAGE: bouer.local/display			 TIME:0.297 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.219 seconds
+
+	Accuracy Level:330
+		PAGE: bouer.local/login			 TIME:2.847 seconds
+		PAGE: bouer.local/display			 TIME:0.329 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.226 seconds
+
+	Accuracy Level:331
+		PAGE: bouer.local/login			 TIME:3.072 seconds
+		PAGE: bouer.local/display			 TIME:0.426 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.218 seconds
+
+	Accuracy Level:332
+		PAGE: bouer.local/login			 TIME:2.7 seconds
+		PAGE: bouer.local/display			 TIME:0.335 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.263 seconds
+
+	Accuracy Level:333
+		PAGE: bouer.local/login			 TIME:2.55 seconds
+		PAGE: bouer.local/display			 TIME:0.294 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.185 seconds
+
+	Accuracy Level:334
+		PAGE: bouer.local/login			 TIME:2.133 seconds
+		PAGE: bouer.local/display			 TIME:0.364 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.136 seconds
+
+	Accuracy Level:335
+		PAGE: bouer.local/login			 TIME:3.266 seconds
+		PAGE: bouer.local/display			 TIME:0.369 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.355 seconds
+
+	Accuracy Level:336
+		PAGE: bouer.local/login			 TIME:2.883 seconds
+		PAGE: bouer.local/display			 TIME:0.326 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.208 seconds
+
+	Accuracy Level:337
+		PAGE: bouer.local/login			 TIME:2.792 seconds
+		PAGE: bouer.local/display			 TIME:0.378 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.188 seconds
+
+	Accuracy Level:338
+		PAGE: bouer.local/login			 TIME:2.647 seconds
+		PAGE: bouer.local/display			 TIME:0.381 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.194 seconds
+
+	Accuracy Level:339
+		PAGE: bouer.local/login			 TIME:2.718 seconds
+		PAGE: bouer.local/display			 TIME:0.277 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.258 seconds
+
+	Accuracy Level:340
+		PAGE: bouer.local/login			 TIME:2.782 seconds
+		PAGE: bouer.local/display			 TIME:0.267 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.261 seconds
+
+	Accuracy Level:341
+		PAGE: bouer.local/login			 TIME:2.172 seconds
+		PAGE: bouer.local/display			 TIME:0.208 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.198 seconds
+
+	Accuracy Level:342
+		PAGE: bouer.local/login			 TIME:2.207 seconds
+		PAGE: bouer.local/display			 TIME:0.328 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.238 seconds
+
+	Accuracy Level:343
+		PAGE: bouer.local/login			 TIME:2.179 seconds
+		PAGE: bouer.local/display			 TIME:0.358 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.282 seconds
+
+	Accuracy Level:344
+		PAGE: bouer.local/login			 TIME:2.106 seconds
+		PAGE: bouer.local/display			 TIME:0.315 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.138 seconds
+
+	Accuracy Level:345
+		PAGE: bouer.local/login			 TIME:2.287 seconds
+		PAGE: bouer.local/display			 TIME:0.259 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.285 seconds
+
+	Accuracy Level:346
+		PAGE: bouer.local/login			 TIME:2.848 seconds
+		PAGE: bouer.local/display			 TIME:0.27 seconds
+		PAGE: bouer.local/dashboard			 TIME:29.845 seconds
+
+	Accuracy Level:347
+		PAGE: bouer.local/login			 TIME:2.155 seconds
+		PAGE: bouer.local/display			 TIME:0.286 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.178 seconds
+
+	Accuracy Level:348
+		PAGE: bouer.local/login			 TIME:2.984 seconds
+		PAGE: bouer.local/display			 TIME:0.497 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.863 seconds
+
+	Accuracy Level:349
+		PAGE: bouer.local/login			 TIME:2.006 seconds
+		PAGE: bouer.local/display			 TIME:0.259 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.215 seconds
+
+	Accuracy Level:350
+		PAGE: bouer.local/login			 TIME:2.324 seconds
+		PAGE: bouer.local/display			 TIME:0.344 seconds
+		PAGE: bouer.local/dashboard			 TIME:30.536 seconds
+
+	Accuracy Level:351
+		PAGE: bouer.local/login			 TIME:4.879 seconds
+		PAGE: bouer.local/display			 TIME:0.278 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.186 seconds
+
+	Accuracy Level:352
+		PAGE: bouer.local/login			 TIME:2.134 seconds
+		PAGE: bouer.local/display			 TIME:0.369 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.209 seconds
+
+	Accuracy Level:353
+		PAGE: bouer.local/login			 TIME:2.602 seconds
+		PAGE: bouer.local/display			 TIME:0.362 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.207 seconds
+
+	Accuracy Level:354
+		PAGE: bouer.local/login			 TIME:2.81 seconds
+		PAGE: bouer.local/display			 TIME:0.29 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.186 seconds
+
+	Accuracy Level:355
+		PAGE: bouer.local/login			 TIME:2.722 seconds
+		PAGE: bouer.local/display			 TIME:0.346 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.285 seconds
+
+	Accuracy Level:356
+		PAGE: bouer.local/login			 TIME:31.604 seconds
+		PAGE: bouer.local/display			 TIME:0.31 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.241 seconds
+
+	Accuracy Level:357
+		PAGE: bouer.local/login			 TIME:2.921 seconds
+		PAGE: bouer.local/display			 TIME:0.358 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.143 seconds
+
+	Accuracy Level:358
+		PAGE: bouer.local/login			 TIME:2.427 seconds
+		PAGE: bouer.local/display			 TIME:0.236 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.202 seconds
+
+	Accuracy Level:359
+		PAGE: bouer.local/login			 TIME:3.7 seconds
+		PAGE: bouer.local/display			 TIME:0.326 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.192 seconds
+
+	Accuracy Level:360
+		PAGE: bouer.local/login			 TIME:2.314 seconds
+		PAGE: bouer.local/display			 TIME:0.269 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.197 seconds
+
+	Accuracy Level:361
+		PAGE: bouer.local/login			 TIME:3.355 seconds
+		PAGE: bouer.local/display			 TIME:0.346 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.228 seconds
+
+	Accuracy Level:362
+		PAGE: bouer.local/login			 TIME:2.563 seconds
+		PAGE: bouer.local/display			 TIME:0.512 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.362 seconds
+
+	Accuracy Level:363
+		PAGE: bouer.local/login			 TIME:2.174 seconds
+		PAGE: bouer.local/display			 TIME:0.328 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.209 seconds
+
+	Accuracy Level:364
+		PAGE: bouer.local/login			 TIME:3.168 seconds
+		PAGE: bouer.local/display			 TIME:0.321 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.252 seconds
+
+	Accuracy Level:365
+		PAGE: bouer.local/login			 TIME:2.392 seconds
+		PAGE: bouer.local/display			 TIME:0.307 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.189 seconds
+
+	Accuracy Level:366
+		PAGE: bouer.local/login			 TIME:3.267 seconds
+		PAGE: bouer.local/display			 TIME:0.347 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.225 seconds
+
+	Accuracy Level:367
+		PAGE: bouer.local/login			 TIME:2.823 seconds
+		PAGE: bouer.local/display			 TIME:33.843 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.24 seconds
+
+	Accuracy Level:368
+		PAGE: bouer.local/login			 TIME:3.325 seconds
+		PAGE: bouer.local/display			 TIME:0.363 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.177 seconds
+
+	Accuracy Level:369
+		PAGE: bouer.local/login			 TIME:2.984 seconds
+		PAGE: bouer.local/display			 TIME:0.335 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.199 seconds
+
+	Accuracy Level:370
+		PAGE: bouer.local/login			 TIME:3.025 seconds
+		PAGE: bouer.local/display			 TIME:0.376 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.269 seconds
+
+	Accuracy Level:371
+		PAGE: bouer.local/login			 TIME:3.516 seconds
+		PAGE: bouer.local/display			 TIME:0.308 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.191 seconds
+
+	Accuracy Level:372
+		PAGE: bouer.local/login			 TIME:2.481 seconds
+		PAGE: bouer.local/display			 TIME:0.331 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.212 seconds
+
+	Accuracy Level:373
+		PAGE: bouer.local/login			 TIME:3.437 seconds
+		PAGE: bouer.local/display			 TIME:0.427 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.295 seconds
+
+	Accuracy Level:374
+		PAGE: bouer.local/login			 TIME:2.466 seconds
+		PAGE: bouer.local/display			 TIME:0.332 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.182 seconds
+
+	Accuracy Level:375
+		PAGE: bouer.local/login			 TIME:2.458 seconds
+		PAGE: bouer.local/display			 TIME:0.359 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.276 seconds
+
+	Accuracy Level:376
+		PAGE: bouer.local/login			 TIME:2.619 seconds
+		PAGE: bouer.local/display			 TIME:0.239 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.139 seconds
+
+	Accuracy Level:377
+		PAGE: bouer.local/login			 TIME:2.084 seconds
+		PAGE: bouer.local/display			 TIME:0.297 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.13 seconds
+
+	Accuracy Level:378
+		PAGE: bouer.local/login			 TIME:3.745 seconds
+		PAGE: bouer.local/display			 TIME:0.337 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.251 seconds
+
+	Accuracy Level:379
+		PAGE: bouer.local/login			 TIME:2.311 seconds
+		PAGE: bouer.local/display			 TIME:0.242 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.193 seconds
+
+	Accuracy Level:380
+		PAGE: bouer.local/login			 TIME:3.076 seconds
+		PAGE: bouer.local/display			 TIME:0.407 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.231 seconds
+
+	Accuracy Level:381
+		PAGE: bouer.local/login			 TIME:2.806 seconds
+		PAGE: bouer.local/display			 TIME:0.29 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.27 seconds
+
+	Accuracy Level:382
+		PAGE: bouer.local/login			 TIME:3.087 seconds
+		PAGE: bouer.local/display			 TIME:0.365 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.216 seconds
+
+	Accuracy Level:383
+		PAGE: bouer.local/login			 TIME:3.037 seconds
+		PAGE: bouer.local/display			 TIME:0.191 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.24 seconds
+
+	Accuracy Level:384
+		PAGE: bouer.local/login			 TIME:2.328 seconds
+		PAGE: bouer.local/display			 TIME:0.312 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.218 seconds
+
+	Accuracy Level:385
+		PAGE: bouer.local/login			 TIME:2.967 seconds
+		PAGE: bouer.local/display			 TIME:0.42 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.239 seconds
+
+	Accuracy Level:386
+		PAGE: bouer.local/login			 TIME:2.166 seconds
+		PAGE: bouer.local/display			 TIME:0.276 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.227 seconds
+
+	Accuracy Level:387
+		PAGE: bouer.local/login			 TIME:2.896 seconds
+		PAGE: bouer.local/display			 TIME:0.443 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.236 seconds
+
+	Accuracy Level:388
+		PAGE: bouer.local/login			 TIME:2.67 seconds
+		PAGE: bouer.local/display			 TIME:0.283 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.168 seconds
+
+	Accuracy Level:389
+		PAGE: bouer.local/login			 TIME:1.968 seconds
+		PAGE: bouer.local/display			 TIME:0.22 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.296 seconds
+
+	Accuracy Level:390
+		PAGE: bouer.local/login			 TIME:3.164 seconds
+		PAGE: bouer.local/display			 TIME:0.329 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.362 seconds
+
+	Accuracy Level:391
+		PAGE: bouer.local/login			 TIME:3.268 seconds
+		PAGE: bouer.local/display			 TIME:0.305 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.17 seconds
+
+	Accuracy Level:392
+		PAGE: bouer.local/login			 TIME:3.204 seconds
+		PAGE: bouer.local/display			 TIME:0.401 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.165 seconds
+
+	Accuracy Level:393
+		PAGE: bouer.local/login			 TIME:2.551 seconds
+		PAGE: bouer.local/display			 TIME:0.283 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.19 seconds
+
+	Accuracy Level:394
+		PAGE: bouer.local/login			 TIME:3.001 seconds
+		PAGE: bouer.local/display			 TIME:0.551 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.285 seconds
+
+	Accuracy Level:395
+		PAGE: bouer.local/login			 TIME:3.14 seconds
+		PAGE: bouer.local/display			 TIME:0.506 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.232 seconds
+
+	Accuracy Level:396
+		PAGE: bouer.local/login			 TIME:2.851 seconds
+		PAGE: bouer.local/display			 TIME:0.576 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.243 seconds
+
+	Accuracy Level:397
+		PAGE: bouer.local/login			 TIME:3.734 seconds
+		PAGE: bouer.local/display			 TIME:0.321 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.2 seconds
+
+	Accuracy Level:398
+		PAGE: bouer.local/login			 TIME:3.229 seconds
+		PAGE: bouer.local/display			 TIME:0.328 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.257 seconds
+
+	Accuracy Level:399
+		PAGE: bouer.local/login			 TIME:3.279 seconds
+		PAGE: bouer.local/display			 TIME:0.303 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.21 seconds
+
+	Accuracy Level:400
+		PAGE: bouer.local/login			 TIME:4.543 seconds
+		PAGE: bouer.local/display			 TIME:0.331 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.17 seconds
+
+	Accuracy Level:401
+		PAGE: bouer.local/login			 TIME:2.589 seconds
+		PAGE: bouer.local/display			 TIME:0.299 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.206 seconds
+
+	Accuracy Level:402
+		PAGE: bouer.local/login			 TIME:3.106 seconds
+		PAGE: bouer.local/display			 TIME:0.208 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.15 seconds
+
+	Accuracy Level:403
+		PAGE: bouer.local/login			 TIME:3.545 seconds
+		PAGE: bouer.local/display			 TIME:0.272 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.318 seconds
+
+	Accuracy Level:404
+		PAGE: bouer.local/login			 TIME:2.75 seconds
+		PAGE: bouer.local/display			 TIME:0.243 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.155 seconds
+
+	Accuracy Level:405
+		PAGE: bouer.local/login			 TIME:3.314 seconds
+		PAGE: bouer.local/display			 TIME:0.279 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.199 seconds
+
+	Accuracy Level:406
+		PAGE: bouer.local/login			 TIME:3.495 seconds
+		PAGE: bouer.local/display			 TIME:0.26 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.211 seconds
+
+	Accuracy Level:407
+		PAGE: bouer.local/login			 TIME:2.535 seconds
+		PAGE: bouer.local/display			 TIME:0.27 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.251 seconds
+
+	Accuracy Level:408
+		PAGE: bouer.local/login			 TIME:3.264 seconds
+		PAGE: bouer.local/display			 TIME:0.345 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.258 seconds
+
+	Accuracy Level:409
+		PAGE: bouer.local/login			 TIME:2.029 seconds
+		PAGE: bouer.local/display			 TIME:0.208 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.209 seconds
+
+	Accuracy Level:410
+		PAGE: bouer.local/login			 TIME:2.838 seconds
+		PAGE: bouer.local/display			 TIME:0.342 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.295 seconds
+
+	Accuracy Level:411
+		PAGE: bouer.local/login			 TIME:3.009 seconds
+		PAGE: bouer.local/display			 TIME:0.227 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.249 seconds
+
+	Accuracy Level:412
+		PAGE: bouer.local/login			 TIME:2.768 seconds
+		PAGE: bouer.local/display			 TIME:0.311 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.284 seconds
+
+	Accuracy Level:413
+		PAGE: bouer.local/login			 TIME:3.75 seconds
+		PAGE: bouer.local/display			 TIME:0.22 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.158 seconds
+
+	Accuracy Level:414
+		PAGE: bouer.local/login			 TIME:2.203 seconds
+		PAGE: bouer.local/display			 TIME:0.313 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.213 seconds
+
+	Accuracy Level:415
+		PAGE: bouer.local/login			 TIME:2.719 seconds
+		PAGE: bouer.local/display			 TIME:0.279 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.237 seconds
+
+	Accuracy Level:416
+		PAGE: bouer.local/login			 TIME:3.186 seconds
+		PAGE: bouer.local/display			 TIME:0.248 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.159 seconds
+
+	Accuracy Level:417
+		PAGE: bouer.local/login			 TIME:2.806 seconds
+		PAGE: bouer.local/display			 TIME:0.241 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.19 seconds
+
+	Accuracy Level:418
+		PAGE: bouer.local/login			 TIME:3.5 seconds
+		PAGE: bouer.local/display			 TIME:0.392 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.268 seconds
+
+	Accuracy Level:419
+		PAGE: bouer.local/login			 TIME:2.737 seconds
+		PAGE: bouer.local/display			 TIME:0.378 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.191 seconds
+
+	Accuracy Level:420
+		PAGE: bouer.local/login			 TIME:3.272 seconds
+		PAGE: bouer.local/display			 TIME:29.691 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.384 seconds
+
+	Accuracy Level:421
+		PAGE: bouer.local/login			 TIME:3.002 seconds
+		PAGE: bouer.local/display			 TIME:0.308 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.169 seconds
+
+	Accuracy Level:422
+		PAGE: bouer.local/login			 TIME:2.644 seconds
+		PAGE: bouer.local/display			 TIME:0.3 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.208 seconds
+
+	Accuracy Level:423
+		PAGE: bouer.local/login			 TIME:2.554 seconds
+		PAGE: bouer.local/display			 TIME:0.352 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.242 seconds
+
+	Accuracy Level:424
+		PAGE: bouer.local/login			 TIME:3.27 seconds
+		PAGE: bouer.local/display			 TIME:0.263 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.199 seconds
+
+	Accuracy Level:425
+		PAGE: bouer.local/login			 TIME:3.098 seconds
+		PAGE: bouer.local/display			 TIME:0.311 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.281 seconds
+
+	Accuracy Level:426
+		PAGE: bouer.local/login			 TIME:3.19 seconds
+		PAGE: bouer.local/display			 TIME:0.247 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.187 seconds
+
+	Accuracy Level:427
+		PAGE: bouer.local/login			 TIME:2.686 seconds
+		PAGE: bouer.local/display			 TIME:0.352 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.211 seconds
+
+	Accuracy Level:428
+		PAGE: bouer.local/login			 TIME:3.152 seconds
+		PAGE: bouer.local/display			 TIME:0.335 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.221 seconds
+
+	Accuracy Level:429
+		PAGE: bouer.local/login			 TIME:2.407 seconds
+		PAGE: bouer.local/display			 TIME:0.433 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.227 seconds
+
+	Accuracy Level:430
+		PAGE: bouer.local/login			 TIME:3.309 seconds
+		PAGE: bouer.local/display			 TIME:0.371 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.225 seconds
+
+	Accuracy Level:431
+		PAGE: bouer.local/login			 TIME:2.285 seconds
+		PAGE: bouer.local/display			 TIME:0.199 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.164 seconds
+
+	Accuracy Level:432
+		PAGE: bouer.local/login			 TIME:2.93 seconds
+		PAGE: bouer.local/display			 TIME:0.27 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.258 seconds
+
+	Accuracy Level:433
+		PAGE: bouer.local/login			 TIME:3.385 seconds
+		PAGE: bouer.local/display			 TIME:0.347 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.188 seconds
+
+	Accuracy Level:434
+		PAGE: bouer.local/login			 TIME:2.501 seconds
+		PAGE: bouer.local/display			 TIME:0.257 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.178 seconds
+
+	Accuracy Level:435
+		PAGE: bouer.local/login			 TIME:3.008 seconds
+		PAGE: bouer.local/display			 TIME:0.307 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.197 seconds
+
+	Accuracy Level:436
+		PAGE: bouer.local/login			 TIME:2.806 seconds
+		PAGE: bouer.local/display			 TIME:0.201 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.18 seconds
+
+	Accuracy Level:437
+		PAGE: bouer.local/login			 TIME:2.552 seconds
+		PAGE: bouer.local/display			 TIME:0.346 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.205 seconds
+
+	Accuracy Level:438
+		PAGE: bouer.local/login			 TIME:3.217 seconds
+		PAGE: bouer.local/display			 TIME:0.349 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.308 seconds
+
+	Accuracy Level:439
+		PAGE: bouer.local/login			 TIME:3.371 seconds
+		PAGE: bouer.local/display			 TIME:0.398 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.287 seconds
+
+	Accuracy Level:440
+		PAGE: bouer.local/login			 TIME:3.249 seconds
+		PAGE: bouer.local/display			 TIME:0.289 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.206 seconds
+
+	Accuracy Level:441
+		PAGE: bouer.local/login			 TIME:2.649 seconds
+		PAGE: bouer.local/display			 TIME:0.328 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.265 seconds
+
+	Accuracy Level:442
+		PAGE: bouer.local/login			 TIME:3.084 seconds
+		PAGE: bouer.local/display			 TIME:0.401 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.248 seconds
+
+	Accuracy Level:443
+		PAGE: bouer.local/login			 TIME:2.959 seconds
+		PAGE: bouer.local/display			 TIME:0.318 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.265 seconds
+
+	Accuracy Level:444
+		PAGE: bouer.local/login			 TIME:3.186 seconds
+		PAGE: bouer.local/display			 TIME:0.287 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.208 seconds
+
+	Accuracy Level:445
+		PAGE: bouer.local/login			 TIME:2.728 seconds
+		PAGE: bouer.local/display			 TIME:0.336 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.205 seconds
+
+	Accuracy Level:446
+		PAGE: bouer.local/login			 TIME:3.662 seconds
+		PAGE: bouer.local/display			 TIME:0.293 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.168 seconds
+
+	Accuracy Level:447
+		PAGE: bouer.local/login			 TIME:2.453 seconds
+		PAGE: bouer.local/display			 TIME:0.341 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.236 seconds
+
+	Accuracy Level:448
+		PAGE: bouer.local/login			 TIME:3.646 seconds
+		PAGE: bouer.local/display			 TIME:0.344 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.275 seconds
+
+	Accuracy Level:449
+		PAGE: bouer.local/login			 TIME:3.199 seconds
+		PAGE: bouer.local/display			 TIME:0.739 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.208 seconds
+
+	Accuracy Level:450
+		PAGE: bouer.local/login			 TIME:2.956 seconds
+		PAGE: bouer.local/display			 TIME:0.204 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.201 seconds
+
+	Accuracy Level:451
+		PAGE: bouer.local/login			 TIME:3.558 seconds
+		PAGE: bouer.local/display			 TIME:0.325 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.253 seconds
+
+	Accuracy Level:452
+		PAGE: bouer.local/login			 TIME:2.415 seconds
+		PAGE: bouer.local/display			 TIME:0.24 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.209 seconds
+
+	Accuracy Level:453
+		PAGE: bouer.local/login			 TIME:3.604 seconds
+		PAGE: bouer.local/display			 TIME:0.362 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.24 seconds
+
+	Accuracy Level:454
+		PAGE: bouer.local/login			 TIME:2.985 seconds
+		PAGE: bouer.local/display			 TIME:0.291 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.336 seconds
+
+	Accuracy Level:455
+		PAGE: bouer.local/login			 TIME:3.479 seconds
+		PAGE: bouer.local/display			 TIME:0.264 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.156 seconds
+
+	Accuracy Level:456
+		PAGE: bouer.local/login			 TIME:3.678 seconds
+		PAGE: bouer.local/display			 TIME:0.371 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.261 seconds
+
+	Accuracy Level:457
+		PAGE: bouer.local/login			 TIME:2.633 seconds
+		PAGE: bouer.local/display			 TIME:0.268 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.241 seconds
+
+	Accuracy Level:458
+		PAGE: bouer.local/login			 TIME:3.747 seconds
+		PAGE: bouer.local/display			 TIME:0.267 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.328 seconds
+
+	Accuracy Level:459
+		PAGE: bouer.local/login			 TIME:2.289 seconds
+		PAGE: bouer.local/display			 TIME:0.25 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.236 seconds
+
+	Accuracy Level:460
+		PAGE: bouer.local/login			 TIME:3.205 seconds
+		PAGE: bouer.local/display			 TIME:0.433 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.247 seconds
+
+	Accuracy Level:461
+		PAGE: bouer.local/login			 TIME:2.493 seconds
+		PAGE: bouer.local/display			 TIME:0.263 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.149 seconds
+
+	Accuracy Level:462
+		PAGE: bouer.local/login			 TIME:2.764 seconds
+		PAGE: bouer.local/display			 TIME:0.402 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.3 seconds
+
+	Accuracy Level:463
+		PAGE: bouer.local/login			 TIME:2.634 seconds
+		PAGE: bouer.local/display			 TIME:0.292 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.241 seconds
+
+	Accuracy Level:464
+		PAGE: bouer.local/login			 TIME:3.781 seconds
+		PAGE: bouer.local/display			 TIME:0.186 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.2 seconds
+
+	Accuracy Level:465
+		PAGE: bouer.local/login			 TIME:3.901 seconds
+		PAGE: bouer.local/display			 TIME:0.337 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.199 seconds
+
+	Accuracy Level:466
+		PAGE: bouer.local/login			 TIME:2.601 seconds
+		PAGE: bouer.local/display			 TIME:0.306 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.205 seconds
+
+	Accuracy Level:467
+		PAGE: bouer.local/login			 TIME:3.125 seconds
+		PAGE: bouer.local/display			 TIME:0.351 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.261 seconds
+
+	Accuracy Level:468
+		PAGE: bouer.local/login			 TIME:3.972 seconds
+		PAGE: bouer.local/display			 TIME:0.136 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.173 seconds
+
+	Accuracy Level:469
+		PAGE: bouer.local/login			 TIME:2.272 seconds
+		PAGE: bouer.local/display			 TIME:0.33 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.205 seconds
+
+	Accuracy Level:470
+		PAGE: bouer.local/login			 TIME:3.38 seconds
+		PAGE: bouer.local/display			 TIME:0.278 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.26 seconds
+
+	Accuracy Level:471
+		PAGE: bouer.local/login			 TIME:2.966 seconds
+		PAGE: bouer.local/display			 TIME:0.214 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.155 seconds
+
+	Accuracy Level:472
+		PAGE: bouer.local/login			 TIME:2.657 seconds
+		PAGE: bouer.local/display			 TIME:0.311 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.215 seconds
+
+	Accuracy Level:473
+		PAGE: bouer.local/login			 TIME:3.549 seconds
+		PAGE: bouer.local/display			 TIME:0.211 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.161 seconds
+
+	Accuracy Level:474
+		PAGE: bouer.local/login			 TIME:2.761 seconds
+		PAGE: bouer.local/display			 TIME:0.357 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.248 seconds
+
+	Accuracy Level:475
+		PAGE: bouer.local/login			 TIME:3.317 seconds
+		PAGE: bouer.local/display			 TIME:29.766 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.266 seconds
+
+	Accuracy Level:476
+		PAGE: bouer.local/login			 TIME:2.98 seconds
+		PAGE: bouer.local/display			 TIME:0.238 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.198 seconds
+
+	Accuracy Level:477
+		PAGE: bouer.local/login			 TIME:4.601 seconds
+		PAGE: bouer.local/display			 TIME:0.268 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.205 seconds
+
+	Accuracy Level:478
+		PAGE: bouer.local/login			 TIME:2.892 seconds
+		PAGE: bouer.local/display			 TIME:0.246 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.175 seconds
+
+	Accuracy Level:479
+		PAGE: bouer.local/login			 TIME:3.162 seconds
+		PAGE: bouer.local/display			 TIME:0.337 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.198 seconds
+
+	Accuracy Level:480
+		PAGE: bouer.local/login			 TIME:3.571 seconds
+		PAGE: bouer.local/display			 TIME:0.269 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.2 seconds
+
+	Accuracy Level:481
+		PAGE: bouer.local/login			 TIME:3.431 seconds
+		PAGE: bouer.local/display			 TIME:0.315 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.246 seconds
+
+	Accuracy Level:482
+		PAGE: bouer.local/login			 TIME:3.03 seconds
+		PAGE: bouer.local/display			 TIME:0.275 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.18 seconds
+
+	Accuracy Level:483
+		PAGE: bouer.local/login			 TIME:3.718 seconds
+		PAGE: bouer.local/display			 TIME:0.426 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.252 seconds
+
+	Accuracy Level:484
+		PAGE: bouer.local/login			 TIME:3.344 seconds
+		PAGE: bouer.local/display			 TIME:0.262 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.207 seconds
+
+	Accuracy Level:485
+		PAGE: bouer.local/login			 TIME:2.969 seconds
+		PAGE: bouer.local/display			 TIME:0.397 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.198 seconds
+
+	Accuracy Level:486
+		PAGE: bouer.local/login			 TIME:5.075 seconds
+		PAGE: bouer.local/display			 TIME:0.261 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.139 seconds
+
+	Accuracy Level:487
+		PAGE: bouer.local/login			 TIME:2.73 seconds
+		PAGE: bouer.local/display			 TIME:0.267 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.265 seconds
+
+	Accuracy Level:488
+		PAGE: bouer.local/login			 TIME:3.239 seconds
+		PAGE: bouer.local/display			 TIME:0.263 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.322 seconds
+
+	Accuracy Level:489
+		PAGE: bouer.local/login			 TIME:4.07 seconds
+		PAGE: bouer.local/display			 TIME:0.311 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.169 seconds
+
+	Accuracy Level:490
+		PAGE: bouer.local/login			 TIME:2.432 seconds
+		PAGE: bouer.local/display			 TIME:0.286 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.24 seconds
+
+	Accuracy Level:491
+		PAGE: bouer.local/login			 TIME:3.278 seconds
+		PAGE: bouer.local/display			 TIME:0.347 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.248 seconds
+
+	Accuracy Level:492
+		PAGE: bouer.local/login			 TIME:2.292 seconds
+		PAGE: bouer.local/display			 TIME:0.313 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.17 seconds
+
+	Accuracy Level:493
+		PAGE: bouer.local/login			 TIME:3.188 seconds
+		PAGE: bouer.local/display			 TIME:0.368 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.246 seconds
+
+	Accuracy Level:494
+		PAGE: bouer.local/login			 TIME:3.049 seconds
+		PAGE: bouer.local/display			 TIME:0.369 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.23 seconds
+
+	Accuracy Level:495
+		PAGE: bouer.local/login			 TIME:3.751 seconds
+		PAGE: bouer.local/display			 TIME:0.327 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.27 seconds
+
+	Accuracy Level:496
+		PAGE: bouer.local/login			 TIME:2.65 seconds
+		PAGE: bouer.local/display			 TIME:0.191 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.241 seconds
+
+	Accuracy Level:497
+		PAGE: bouer.local/login			 TIME:3.885 seconds
+		PAGE: bouer.local/display			 TIME:0.365 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.241 seconds
+
+	Accuracy Level:498
+		PAGE: bouer.local/login			 TIME:2.546 seconds
+		PAGE: bouer.local/display			 TIME:0.293 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.17 seconds
+
+	Accuracy Level:499
+		PAGE: bouer.local/login			 TIME:3.599 seconds
+		PAGE: bouer.local/display			 TIME:0.391 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.314 seconds
+
+	Accuracy Level:500
+		PAGE: bouer.local/login			 TIME:2.968 seconds
+		PAGE: bouer.local/display			 TIME:0.156 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.179 seconds
+
+	Accuracy Level:501
+		PAGE: bouer.local/login			 TIME:4.273 seconds
+		PAGE: bouer.local/display			 TIME:0.673 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.25 seconds
+
+	Accuracy Level:502
+		PAGE: bouer.local/login			 TIME:3.855 seconds
+		PAGE: bouer.local/display			 TIME:29.491 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.203 seconds
+
+	Accuracy Level:503
+		PAGE: bouer.local/login			 TIME:3.077 seconds
+		PAGE: bouer.local/display			 TIME:0.299 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.229 seconds
+
+	Accuracy Level:504
+		PAGE: bouer.local/login			 TIME:3.853 seconds
+		PAGE: bouer.local/display			 TIME:0.334 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.203 seconds
+
+	Accuracy Level:505
+		PAGE: bouer.local/login			 TIME:3.128 seconds
+		PAGE: bouer.local/display			 TIME:0.374 seconds
+		PAGE: bouer.local/dashboard			 TIME:34.611 seconds
+
+	Accuracy Level:506
+		PAGE: bouer.local/login			 TIME:3.273 seconds
+		PAGE: bouer.local/display			 TIME:0.282 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.262 seconds
+
+	Accuracy Level:507
+		PAGE: bouer.local/login			 TIME:2.89 seconds
+		PAGE: bouer.local/display			 TIME:0.221 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.203 seconds
+
+	Accuracy Level:508
+		PAGE: bouer.local/login			 TIME:4.051 seconds
+		PAGE: bouer.local/display			 TIME:0.303 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.25 seconds
+
+	Accuracy Level:509
+		PAGE: bouer.local/login			 TIME:3.036 seconds
+		PAGE: bouer.local/display			 TIME:0.253 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.237 seconds
+
+	Accuracy Level:510
+		PAGE: bouer.local/login			 TIME:3.367 seconds
+		PAGE: bouer.local/display			 TIME:0.304 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.21 seconds
+
+	Accuracy Level:511
+		PAGE: bouer.local/login			 TIME:3.446 seconds
+		PAGE: bouer.local/display			 TIME:0.24 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.17 seconds
+
+	Accuracy Level:512
+		PAGE: bouer.local/login			 TIME:3.529 seconds
+		PAGE: bouer.local/display			 TIME:0.403 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.233 seconds
+
+	Accuracy Level:513
+		PAGE: bouer.local/login			 TIME:3.198 seconds
+		PAGE: bouer.local/display			 TIME:0.218 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.169 seconds
+
+	Accuracy Level:514
+		PAGE: bouer.local/login			 TIME:3.383 seconds
+		PAGE: bouer.local/display			 TIME:0.388 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.289 seconds
+
+	Accuracy Level:515
+		PAGE: bouer.local/login			 TIME:3.079 seconds
+		PAGE: bouer.local/display			 TIME:0.211 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.158 seconds
+
+	Accuracy Level:516
+		PAGE: bouer.local/login			 TIME:4.302 seconds
+		PAGE: bouer.local/display			 TIME:0.385 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.272 seconds
+
+	Accuracy Level:517
+		PAGE: bouer.local/login			 TIME:3.107 seconds
+		PAGE: bouer.local/display			 TIME:0.268 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.258 seconds
+
+	Accuracy Level:518
+		PAGE: bouer.local/login			 TIME:4.309 seconds
+		PAGE: bouer.local/display			 TIME:0.326 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.239 seconds
+
+	Accuracy Level:519
+		PAGE: bouer.local/login			 TIME:3.191 seconds
+		PAGE: bouer.local/display			 TIME:0.297 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.18 seconds
+
+	Accuracy Level:520
+		PAGE: bouer.local/login			 TIME:4.117 seconds
+		PAGE: bouer.local/display			 TIME:0.564 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.267 seconds
+
+	Accuracy Level:521
+		PAGE: bouer.local/login			 TIME:3.679 seconds
+		PAGE: bouer.local/display			 TIME:0.354 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.293 seconds
+
+	Accuracy Level:522
+		PAGE: bouer.local/login			 TIME:4.847 seconds
+		PAGE: bouer.local/display			 TIME:0.298 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.232 seconds
+
+	Accuracy Level:523
+		PAGE: bouer.local/login			 TIME:3.915 seconds
+		PAGE: bouer.local/display			 TIME:0.408 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.21 seconds
+
+	Accuracy Level:524
+		PAGE: bouer.local/login			 TIME:3.869 seconds
+		PAGE: bouer.local/display			 TIME:0.246 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.208 seconds
+
+	Accuracy Level:525
+		PAGE: bouer.local/login			 TIME:3.543 seconds
+		PAGE: bouer.local/display			 TIME:0.343 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.347 seconds
+
+	Accuracy Level:526
+		PAGE: bouer.local/login			 TIME:3.693 seconds
+		PAGE: bouer.local/display			 TIME:0.353 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.202 seconds
+
+	Accuracy Level:527
+		PAGE: bouer.local/login			 TIME:2.449 seconds
+		PAGE: bouer.local/display			 TIME:0.308 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.254 seconds
+
+	Accuracy Level:528
+		PAGE: bouer.local/login			 TIME:4.003 seconds
+		PAGE: bouer.local/display			 TIME:0.222 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.191 seconds
+
+	Accuracy Level:529
+		PAGE: bouer.local/login			 TIME:2.496 seconds
+		PAGE: bouer.local/display			 TIME:0.311 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.166 seconds
+
+	Accuracy Level:530
+		PAGE: bouer.local/login			 TIME:3.355 seconds
+		PAGE: bouer.local/display			 TIME:0.417 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.33 seconds
+
+	Accuracy Level:531
+		PAGE: bouer.local/login			 TIME:2.885 seconds
+		PAGE: bouer.local/display			 TIME:0.198 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.171 seconds
+
+	Accuracy Level:532
+		PAGE: bouer.local/login			 TIME:3.591 seconds
+		PAGE: bouer.local/display			 TIME:0.387 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.309 seconds
+
+	Accuracy Level:533
+		PAGE: bouer.local/login			 TIME:3.582 seconds
+		PAGE: bouer.local/display			 TIME:0.384 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.189 seconds
+
+	Accuracy Level:534
+		PAGE: bouer.local/login			 TIME:5.34 seconds
+		PAGE: bouer.local/display			 TIME:0.341 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.205 seconds
+
+	Accuracy Level:535
+		PAGE: bouer.local/login			 TIME:2.832 seconds
+		PAGE: bouer.local/display			 TIME:0.295 seconds
+		PAGE: bouer.local/dashboard			 TIME:1.039 seconds
+
+	Accuracy Level:536
+		PAGE: bouer.local/login			 TIME:3.36 seconds
+		PAGE: bouer.local/display			 TIME:0.306 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.25 seconds
+
+	Accuracy Level:537
+		PAGE: bouer.local/login			 TIME:3.219 seconds
+		PAGE: bouer.local/display			 TIME:0.315 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.26 seconds
+
+	Accuracy Level:538
+		PAGE: bouer.local/login			 TIME:2.963 seconds
+		PAGE: bouer.local/display			 TIME:0.251 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.174 seconds
+
+	Accuracy Level:539
+		PAGE: bouer.local/login			 TIME:3.587 seconds
+		PAGE: bouer.local/display			 TIME:1.51 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.228 seconds
+
+	Accuracy Level:540
+		PAGE: bouer.local/login			 TIME:2.723 seconds
+		PAGE: bouer.local/display			 TIME:0.291 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.229 seconds
+
+	Accuracy Level:541
+		PAGE: bouer.local/login			 TIME:3.707 seconds
+		PAGE: bouer.local/display			 TIME:0.427 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.319 seconds
+
+	Accuracy Level:542
+		PAGE: bouer.local/login			 TIME:3.713 seconds
+		PAGE: bouer.local/display			 TIME:0.387 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.224 seconds
+
+	Accuracy Level:543
+		PAGE: bouer.local/login			 TIME:3.601 seconds
+		PAGE: bouer.local/display			 TIME:0.279 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.266 seconds
+
+	Accuracy Level:544
+		PAGE: bouer.local/login			 TIME:3.58 seconds
+		PAGE: bouer.local/display			 TIME:0.324 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.153 seconds
+
+	Accuracy Level:545
+		PAGE: bouer.local/login			 TIME:3.435 seconds
+		PAGE: bouer.local/display			 TIME:0.499 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.185 seconds
+
+	Accuracy Level:546
+		PAGE: bouer.local/login			 TIME:3.525 seconds
+		PAGE: bouer.local/display			 TIME:0.207 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.216 seconds
+
+	Accuracy Level:547
+		PAGE: bouer.local/login			 TIME:3.887 seconds
+		PAGE: bouer.local/display			 TIME:28.208 seconds
+		PAGE: bouer.local/dashboard			 TIME:31.354 seconds
+
+	Accuracy Level:548
+		PAGE: bouer.local/login			 TIME:4.264 seconds
+		PAGE: bouer.local/display			 TIME:0.267 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.151 seconds
+
+	Accuracy Level:549
+		PAGE: bouer.local/login			 TIME:3.446 seconds
+		PAGE: bouer.local/display			 TIME:0.361 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.291 seconds
+
+	Accuracy Level:550
+		PAGE: bouer.local/login			 TIME:32.956 seconds
+		PAGE: bouer.local/display			 TIME:0.394 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.216 seconds
+
+	Accuracy Level:551
+		PAGE: bouer.local/login			 TIME:2.457 seconds
+		PAGE: bouer.local/display			 TIME:0.355 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.154 seconds
+
+	Accuracy Level:552
+		PAGE: bouer.local/login			 TIME:4.23 seconds
+		PAGE: bouer.local/display			 TIME:0.299 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.176 seconds
+
+	Accuracy Level:553
+		PAGE: bouer.local/login			 TIME:3.664 seconds
+		PAGE: bouer.local/display			 TIME:0.376 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.284 seconds
+
+	Accuracy Level:554
+		PAGE: bouer.local/login			 TIME:3.691 seconds
+		PAGE: bouer.local/display			 TIME:0.27 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.19 seconds
+
+	Accuracy Level:555
+		PAGE: bouer.local/login			 TIME:3.184 seconds
+		PAGE: bouer.local/display			 TIME:0.491 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.262 seconds
+
+	Accuracy Level:556
+		PAGE: bouer.local/login			 TIME:3.666 seconds
+		PAGE: bouer.local/display			 TIME:0.23 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.168 seconds
+
+	Accuracy Level:557
+		PAGE: bouer.local/login			 TIME:3.797 seconds
+		PAGE: bouer.local/display			 TIME:0.376 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.257 seconds
+
+	Accuracy Level:558
+		PAGE: bouer.local/login			 TIME:4.282 seconds
+		PAGE: bouer.local/display			 TIME:0.246 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.201 seconds
+
+	Accuracy Level:559
+		PAGE: bouer.local/login			 TIME:4.2 seconds
+		PAGE: bouer.local/display			 TIME:0.475 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.277 seconds
+
+	Accuracy Level:560
+		PAGE: bouer.local/login			 TIME:3.622 seconds
+		PAGE: bouer.local/display			 TIME:0.299 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.237 seconds
+
+	Accuracy Level:561
+		PAGE: bouer.local/login			 TIME:3.707 seconds
+		PAGE: bouer.local/display			 TIME:29.442 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.182 seconds
+
+	Accuracy Level:562
+		PAGE: bouer.local/login			 TIME:3.721 seconds
+		PAGE: bouer.local/display			 TIME:0.383 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.284 seconds
+
+	Accuracy Level:563
+		PAGE: bouer.local/login			 TIME:3.292 seconds
+		PAGE: bouer.local/display			 TIME:0.277 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.169 seconds
+
+	Accuracy Level:564
+		PAGE: bouer.local/login			 TIME:3.77 seconds
+		PAGE: bouer.local/display			 TIME:0.386 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.245 seconds
+
+	Accuracy Level:565
+		PAGE: bouer.local/login			 TIME:4.753 seconds
+		PAGE: bouer.local/display			 TIME:0.28 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.234 seconds
+
+	Accuracy Level:566
+		PAGE: bouer.local/login			 TIME:4.151 seconds
+		PAGE: bouer.local/display			 TIME:0.549 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.21 seconds
+
+	Accuracy Level:567
+		PAGE: bouer.local/login			 TIME:3.104 seconds
+		PAGE: bouer.local/display			 TIME:0.283 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.23 seconds
+
+	Accuracy Level:568
+		PAGE: bouer.local/login			 TIME:4.243 seconds
+		PAGE: bouer.local/display			 TIME:0.301 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.263 seconds
+
+	Accuracy Level:569
+		PAGE: bouer.local/login			 TIME:2.981 seconds
+		PAGE: bouer.local/display			 TIME:0.383 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.275 seconds
+
+	Accuracy Level:570
+		PAGE: bouer.local/login			 TIME:4.66 seconds
+		PAGE: bouer.local/display			 TIME:0.281 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.175 seconds
+
+	Accuracy Level:571
+		PAGE: bouer.local/login			 TIME:3.003 seconds
+		PAGE: bouer.local/display			 TIME:0.3 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.242 seconds
+
+	Accuracy Level:572
+		PAGE: bouer.local/login			 TIME:4.221 seconds
+		PAGE: bouer.local/display			 TIME:0.195 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.189 seconds
+
+	Accuracy Level:573
+		PAGE: bouer.local/login			 TIME:31.426 seconds
+		PAGE: bouer.local/display			 TIME:0.347 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.159 seconds
+
+	Accuracy Level:574
+		PAGE: bouer.local/login			 TIME:3.608 seconds
+		PAGE: bouer.local/display			 TIME:0.474 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.306 seconds
+
+	Accuracy Level:575
+		PAGE: bouer.local/login			 TIME:3.918 seconds
+		PAGE: bouer.local/display			 TIME:0.456 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.218 seconds
+
+	Accuracy Level:576
+		PAGE: bouer.local/login			 TIME:4.566 seconds
+		PAGE: bouer.local/display			 TIME:0.368 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.269 seconds
+
+	Accuracy Level:577
+		PAGE: bouer.local/login			 TIME:3.364 seconds
+		PAGE: bouer.local/display			 TIME:0.343 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.312 seconds
+
+	Accuracy Level:578
+		PAGE: bouer.local/login			 TIME:4.239 seconds
+		PAGE: bouer.local/display			 TIME:0.26 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.136 seconds
+
+	Accuracy Level:579
+		PAGE: bouer.local/login			 TIME:4.24 seconds
+		PAGE: bouer.local/display			 TIME:0.331 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.272 seconds
+
+	Accuracy Level:580
+		PAGE: bouer.local/login			 TIME:3.482 seconds
+		PAGE: bouer.local/display			 TIME:0.4 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.204 seconds
+
+	Accuracy Level:581
+		PAGE: bouer.local/login			 TIME:3.673 seconds
+		PAGE: bouer.local/display			 TIME:29.479 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.215 seconds
+
+	Accuracy Level:582
+		PAGE: bouer.local/login			 TIME:3.187 seconds
+		PAGE: bouer.local/display			 TIME:0.359 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.268 seconds
+
+	Accuracy Level:583
+		PAGE: bouer.local/login			 TIME:4.162 seconds
+		PAGE: bouer.local/display			 TIME:0.259 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.21 seconds
+
+	Accuracy Level:584
+		PAGE: bouer.local/login			 TIME:3.078 seconds
+		PAGE: bouer.local/display			 TIME:0.395 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.254 seconds
+
+	Accuracy Level:585
+		PAGE: bouer.local/login			 TIME:4.272 seconds
+		PAGE: bouer.local/display			 TIME:0.247 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.202 seconds
+
+	Accuracy Level:586
+		PAGE: bouer.local/login			 TIME:3.669 seconds
+		PAGE: bouer.local/display			 TIME:0.302 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.222 seconds
+
+	Accuracy Level:587
+		PAGE: bouer.local/login			 TIME:3.431 seconds
+		PAGE: bouer.local/display			 TIME:0.222 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.173 seconds
+
+	Accuracy Level:588
+		PAGE: bouer.local/login			 TIME:4.396 seconds
+		PAGE: bouer.local/display			 TIME:0.407 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.25 seconds
+
+	Accuracy Level:589
+		PAGE: bouer.local/login			 TIME:3.545 seconds
+		PAGE: bouer.local/display			 TIME:0.305 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.167 seconds
+
+	Accuracy Level:590
+		PAGE: bouer.local/login			 TIME:4.689 seconds
+		PAGE: bouer.local/display			 TIME:0.333 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.174 seconds
+
+	Accuracy Level:591
+		PAGE: bouer.local/login			 TIME:3.815 seconds
+		PAGE: bouer.local/display			 TIME:0.414 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.234 seconds
+
+	Accuracy Level:592
+		PAGE: bouer.local/login			 TIME:4.183 seconds
+		PAGE: bouer.local/display			 TIME:0.238 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.168 seconds
+
+	Accuracy Level:593
+		PAGE: bouer.local/login			 TIME:3.524 seconds
+		PAGE: bouer.local/display			 TIME:0.405 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.143 seconds
+
+	Accuracy Level:594
+		PAGE: bouer.local/login			 TIME:4.111 seconds
+		PAGE: bouer.local/display			 TIME:0.3 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.177 seconds
+
+	Accuracy Level:595
+		PAGE: bouer.local/login			 TIME:3.59 seconds
+		PAGE: bouer.local/display			 TIME:0.416 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.2 seconds
+
+	Accuracy Level:596
+		PAGE: bouer.local/login			 TIME:4.387 seconds
+		PAGE: bouer.local/display			 TIME:0.311 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.167 seconds
+
+	Accuracy Level:597
+		PAGE: bouer.local/login			 TIME:5.48 seconds
+		PAGE: bouer.local/display			 TIME:0.292 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.195 seconds
+
+	Accuracy Level:598
+		PAGE: bouer.local/login			 TIME:4.223 seconds
+		PAGE: bouer.local/display			 TIME:0.325 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.258 seconds
+
+	Accuracy Level:599
+		PAGE: bouer.local/login			 TIME:4.305 seconds
+		PAGE: bouer.local/display			 TIME:0.27 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.175 seconds
+
+	Accuracy Level:600
+		PAGE: bouer.local/login			 TIME:4.052 seconds
+		PAGE: bouer.local/display			 TIME:0.326 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.338 seconds
+
+	Accuracy Level:601
+		PAGE: bouer.local/login			 TIME:3.274 seconds
+		PAGE: bouer.local/display			 TIME:0.326 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.214 seconds
+
+	Accuracy Level:602
+		PAGE: bouer.local/login			 TIME:4.298 seconds
+		PAGE: bouer.local/display			 TIME:0.208 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.187 seconds
+
+	Accuracy Level:603
+		PAGE: bouer.local/login			 TIME:4.491 seconds
+		PAGE: bouer.local/display			 TIME:0.385 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.252 seconds
+
+	Accuracy Level:604
+		PAGE: bouer.local/login			 TIME:3.497 seconds
+		PAGE: bouer.local/display			 TIME:0.257 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.147 seconds
+
+	Accuracy Level:605
+		PAGE: bouer.local/login			 TIME:4.39 seconds
+		PAGE: bouer.local/display			 TIME:0.323 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.24 seconds
+
+	Accuracy Level:606
+		PAGE: bouer.local/login			 TIME:3.499 seconds
+		PAGE: bouer.local/display			 TIME:0.294 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.187 seconds
+
+	Accuracy Level:607
+		PAGE: bouer.local/login			 TIME:4.112 seconds
+		PAGE: bouer.local/display			 TIME:0.369 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.129 seconds
+
+	Accuracy Level:608
+		PAGE: bouer.local/login			 TIME:5.093 seconds
+		PAGE: bouer.local/display			 TIME:0.216 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.279 seconds
+
+	Accuracy Level:609
+		PAGE: bouer.local/login			 TIME:3.16 seconds
+		PAGE: bouer.local/display			 TIME:0.418 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.236 seconds
+
+	Accuracy Level:610
+		PAGE: bouer.local/login			 TIME:3.957 seconds
+		PAGE: bouer.local/display			 TIME:0.33 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.252 seconds
+
+	Accuracy Level:611
+		PAGE: bouer.local/login			 TIME:4.19 seconds
+		PAGE: bouer.local/display			 TIME:0.497 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.256 seconds
+
+	Accuracy Level:612
+		PAGE: bouer.local/login			 TIME:4.255 seconds
+		PAGE: bouer.local/display			 TIME:0.31 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.268 seconds
+
+	Accuracy Level:613
+		PAGE: bouer.local/login			 TIME:4.059 seconds
+		PAGE: bouer.local/display			 TIME:0.386 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.227 seconds
+
+	Accuracy Level:614
+		PAGE: bouer.local/login			 TIME:3.951 seconds
+		PAGE: bouer.local/display			 TIME:0.32 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.258 seconds
+
+	Accuracy Level:615
+		PAGE: bouer.local/login			 TIME:4.242 seconds
+		PAGE: bouer.local/display			 TIME:0.395 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.243 seconds
+
+	Accuracy Level:616
+		PAGE: bouer.local/login			 TIME:3.264 seconds
+		PAGE: bouer.local/display			 TIME:0.244 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.208 seconds
+
+	Accuracy Level:617
+		PAGE: bouer.local/login			 TIME:3.474 seconds
+		PAGE: bouer.local/display			 TIME:0.343 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.227 seconds
+
+	Accuracy Level:618
+		PAGE: bouer.local/login			 TIME:3.681 seconds
+		PAGE: bouer.local/display			 TIME:0.261 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.165 seconds
+
+	Accuracy Level:619
+		PAGE: bouer.local/login			 TIME:4.426 seconds
+		PAGE: bouer.local/display			 TIME:0.371 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.284 seconds
+
+	Accuracy Level:620
+		PAGE: bouer.local/login			 TIME:3.504 seconds
+		PAGE: bouer.local/display			 TIME:0.278 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.17 seconds
+
+	Accuracy Level:621
+		PAGE: bouer.local/login			 TIME:4.639 seconds
+		PAGE: bouer.local/display			 TIME:0.296 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.177 seconds
+
+	Accuracy Level:622
+		PAGE: bouer.local/login			 TIME:3.792 seconds
+		PAGE: bouer.local/display			 TIME:0.287 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.342 seconds
+
+	Accuracy Level:623
+		PAGE: bouer.local/login			 TIME:3.878 seconds
+		PAGE: bouer.local/display			 TIME:0.238 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.198 seconds
+
+	Accuracy Level:624
+		PAGE: bouer.local/login			 TIME:4.97 seconds
+		PAGE: bouer.local/display			 TIME:0.314 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.195 seconds
+
+	Accuracy Level:625
+		PAGE: bouer.local/login			 TIME:2.897 seconds
+		PAGE: bouer.local/display			 TIME:0.373 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.232 seconds
+
+	Accuracy Level:626
+		PAGE: bouer.local/login			 TIME:4.767 seconds
+		PAGE: bouer.local/display			 TIME:0.262 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.22 seconds
+
+	Accuracy Level:627
+		PAGE: bouer.local/login			 TIME:3.346 seconds
+		PAGE: bouer.local/display			 TIME:0.287 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.269 seconds
+
+	Accuracy Level:628
+		PAGE: bouer.local/login			 TIME:4.61 seconds
+		PAGE: bouer.local/display			 TIME:0.266 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.163 seconds
+
+	Accuracy Level:629
+		PAGE: bouer.local/login			 TIME:3.036 seconds
+		PAGE: bouer.local/display			 TIME:0.281 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.232 seconds
+
+	Accuracy Level:630
+		PAGE: bouer.local/login			 TIME:4.417 seconds
+		PAGE: bouer.local/display			 TIME:1.806 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.215 seconds
+
+	Accuracy Level:631
+		PAGE: bouer.local/login			 TIME:3.314 seconds
+		PAGE: bouer.local/display			 TIME:0.396 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.245 seconds
+
+	Accuracy Level:632
+		PAGE: bouer.local/login			 TIME:3.447 seconds
+		PAGE: bouer.local/display			 TIME:0.219 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.193 seconds
+
+	Accuracy Level:633
+		PAGE: bouer.local/login			 TIME:4.009 seconds
+		PAGE: bouer.local/display			 TIME:0.325 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.215 seconds
+
+	Accuracy Level:634
+		PAGE: bouer.local/login			 TIME:4.369 seconds
+		PAGE: bouer.local/display			 TIME:0.159 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.168 seconds
+
+	Accuracy Level:635
+		PAGE: bouer.local/login			 TIME:4.389 seconds
+		PAGE: bouer.local/display			 TIME:0.369 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.254 seconds
+
+	Accuracy Level:636
+		PAGE: bouer.local/login			 TIME:3.762 seconds
+		PAGE: bouer.local/display			 TIME:0.441 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.227 seconds
+
+	Accuracy Level:637
+		PAGE: bouer.local/login			 TIME:4.473 seconds
+		PAGE: bouer.local/display			 TIME:0.446 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.218 seconds
+
+	Accuracy Level:638
+		PAGE: bouer.local/login			 TIME:4.163 seconds
+		PAGE: bouer.local/display			 TIME:0.835 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.346 seconds
+
+	Accuracy Level:639
+		PAGE: bouer.local/login			 TIME:3.823 seconds
+		PAGE: bouer.local/display			 TIME:1.091 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.194 seconds
+
+	Accuracy Level:640
+		PAGE: bouer.local/login			 TIME:3.628 seconds
+		PAGE: bouer.local/display			 TIME:0.335 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.336 seconds
+
+	Accuracy Level:641
+		PAGE: bouer.local/login			 TIME:4.132 seconds
+		PAGE: bouer.local/display			 TIME:0.26 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.177 seconds
+
+	Accuracy Level:642
+		PAGE: bouer.local/login			 TIME:4.795 seconds
+		PAGE: bouer.local/display			 TIME:0.581 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.282 seconds
+
+	Accuracy Level:643
+		PAGE: bouer.local/login			 TIME:4.55 seconds
+		PAGE: bouer.local/display			 TIME:0.274 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.266 seconds
+
+	Accuracy Level:644
+		PAGE: bouer.local/login			 TIME:4.924 seconds
+		PAGE: bouer.local/display			 TIME:0.299 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.188 seconds
+
+	Accuracy Level:645
+		PAGE: bouer.local/login			 TIME:4.621 seconds
+		PAGE: bouer.local/display			 TIME:0.357 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.213 seconds
+
+	Accuracy Level:646
+		PAGE: bouer.local/login			 TIME:3.822 seconds
+		PAGE: bouer.local/display			 TIME:0.614 seconds
+		PAGE: bouer.local/dashboard			 TIME:30.526 seconds
+
+	Accuracy Level:647
+		PAGE: bouer.local/login			 TIME:4.287 seconds
+		PAGE: bouer.local/display			 TIME:0.317 seconds
+		PAGE: bouer.local/dashboard			 TIME:1.006 seconds
+
+	Accuracy Level:648
+		PAGE: bouer.local/login			 TIME:4.961 seconds
+		PAGE: bouer.local/display			 TIME:0.461 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.258 seconds
+
+	Accuracy Level:649
+		PAGE: bouer.local/login			 TIME:3.677 seconds
+		PAGE: bouer.local/display			 TIME:0.221 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.19 seconds
+
+	Accuracy Level:650
+		PAGE: bouer.local/login			 TIME:4.348 seconds
+		PAGE: bouer.local/display			 TIME:0.45 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.28 seconds
+
+	Accuracy Level:651
+		PAGE: bouer.local/login			 TIME:2.387 seconds
+		PAGE: bouer.local/display			 TIME:0.242 seconds
+		PAGE: bouer.local/dashboard			 TIME:27.712 seconds
+
+	Accuracy Level:652
+		PAGE: bouer.local/login			 TIME:4.245 seconds
+		PAGE: bouer.local/display			 TIME:0.217 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.188 seconds
+
+	Accuracy Level:653
+		PAGE: bouer.local/login			 TIME:4.18 seconds
+		PAGE: bouer.local/display			 TIME:0.325 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.23 seconds
+
+	Accuracy Level:654
+		PAGE: bouer.local/login			 TIME:3.469 seconds
+		PAGE: bouer.local/display			 TIME:0.337 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.2 seconds
+
+	Accuracy Level:655
+		PAGE: bouer.local/login			 TIME:4.216 seconds
+		PAGE: bouer.local/display			 TIME:0.504 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.247 seconds
+
+	Accuracy Level:656
+		PAGE: bouer.local/login			 TIME:3.687 seconds
+		PAGE: bouer.local/display			 TIME:0.332 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.282 seconds
+
+	Accuracy Level:657
+		PAGE: bouer.local/login			 TIME:3.854 seconds
+		PAGE: bouer.local/display			 TIME:0.271 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.175 seconds
+
+	Accuracy Level:658
+		PAGE: bouer.local/login			 TIME:3.78 seconds
+		PAGE: bouer.local/display			 TIME:0.384 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.222 seconds
+
+	Accuracy Level:659
+		PAGE: bouer.local/login			 TIME:3.559 seconds
+		PAGE: bouer.local/display			 TIME:0.286 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.18 seconds
+
+	Accuracy Level:660
+		PAGE: bouer.local/login			 TIME:3.964 seconds
+		PAGE: bouer.local/display			 TIME:0.432 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.27 seconds
+
+	Accuracy Level:661
+		PAGE: bouer.local/login			 TIME:3.926 seconds
+		PAGE: bouer.local/display			 TIME:0.32 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.222 seconds
+
+	Accuracy Level:662
+		PAGE: bouer.local/login			 TIME:38.361 seconds
+		PAGE: bouer.local/display			 TIME:0.34 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.194 seconds
+
+	Accuracy Level:663
+		PAGE: bouer.local/login			 TIME:4.401 seconds
+		PAGE: bouer.local/display			 TIME:0.334 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.276 seconds
+
+	Accuracy Level:664
+		PAGE: bouer.local/login			 TIME:4.335 seconds
+		PAGE: bouer.local/display			 TIME:0.234 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.219 seconds
+
+	Accuracy Level:665
+		PAGE: bouer.local/login			 TIME:3.937 seconds
+		PAGE: bouer.local/display			 TIME:0.408 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.264 seconds
+
+	Accuracy Level:666
+		PAGE: bouer.local/login			 TIME:4.336 seconds
+		PAGE: bouer.local/display			 TIME:0.202 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.255 seconds
+
+	Accuracy Level:667
+		PAGE: bouer.local/login			 TIME:5.273 seconds
+		PAGE: bouer.local/display			 TIME:0.441 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.269 seconds
+
+	Accuracy Level:668
+		PAGE: bouer.local/login			 TIME:3.42 seconds
+		PAGE: bouer.local/display			 TIME:0.178 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.211 seconds
+
+	Accuracy Level:669
+		PAGE: bouer.local/login			 TIME:4.525 seconds
+		PAGE: bouer.local/display			 TIME:0.418 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.182 seconds
+
+	Accuracy Level:670
+		PAGE: bouer.local/login			 TIME:3.596 seconds
+		PAGE: bouer.local/display			 TIME:0.316 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.201 seconds
+
+	Accuracy Level:671
+		PAGE: bouer.local/login			 TIME:4.991 seconds
+		PAGE: bouer.local/display			 TIME:0.248 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.179 seconds
+
+	Accuracy Level:672
+		PAGE: bouer.local/login			 TIME:3.791 seconds
+		PAGE: bouer.local/display			 TIME:0.327 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.2 seconds
+
+	Accuracy Level:673
+		PAGE: bouer.local/login			 TIME:4.199 seconds
+		PAGE: bouer.local/display			 TIME:0.386 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.219 seconds
+
+	Accuracy Level:674
+		PAGE: bouer.local/login			 TIME:4.871 seconds
+		PAGE: bouer.local/display			 TIME:0.286 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.22 seconds
+
+	Accuracy Level:675
+		PAGE: bouer.local/login			 TIME:5.665 seconds
+		PAGE: bouer.local/display			 TIME:0.338 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.276 seconds
+
+	Accuracy Level:676
+		PAGE: bouer.local/login			 TIME:2.853 seconds
+		PAGE: bouer.local/display			 TIME:0.295 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.223 seconds
+
+	Accuracy Level:677
+		PAGE: bouer.local/login			 TIME:5.053 seconds
+		PAGE: bouer.local/display			 TIME:0.329 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.239 seconds
+
+	Accuracy Level:678
+		PAGE: bouer.local/login			 TIME:4.281 seconds
+		PAGE: bouer.local/display			 TIME:0.532 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.257 seconds
+
+	Accuracy Level:679
+		PAGE: bouer.local/login			 TIME:5.973 seconds
+		PAGE: bouer.local/display			 TIME:0.36 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.224 seconds
+
+	Accuracy Level:680
+		PAGE: bouer.local/login			 TIME:3.59 seconds
+		PAGE: bouer.local/display			 TIME:0.319 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.221 seconds
+
+	Accuracy Level:681
+		PAGE: bouer.local/login			 TIME:4.562 seconds
+		PAGE: bouer.local/display			 TIME:0.327 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.233 seconds
+
+	Accuracy Level:682
+		PAGE: bouer.local/login			 TIME:6.131 seconds
+		PAGE: bouer.local/display			 TIME:26.513 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.325 seconds
+
+	Accuracy Level:683
+		PAGE: bouer.local/login			 TIME:4.3 seconds
+		PAGE: bouer.local/display			 TIME:0.282 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.242 seconds
+
+	Accuracy Level:684
+		PAGE: bouer.local/login			 TIME:4.325 seconds
+		PAGE: bouer.local/display			 TIME:0.404 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.204 seconds
+
+	Accuracy Level:685
+		PAGE: bouer.local/login			 TIME:3.447 seconds
+		PAGE: bouer.local/display			 TIME:0.333 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.171 seconds
+
+	Accuracy Level:686
+		PAGE: bouer.local/login			 TIME:4.955 seconds
+		PAGE: bouer.local/display			 TIME:0.391 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.268 seconds
+
+	Accuracy Level:687
+		PAGE: bouer.local/login			 TIME:4.2 seconds
+		PAGE: bouer.local/display			 TIME:0.362 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.281 seconds
+
+	Accuracy Level:688
+		PAGE: bouer.local/login			 TIME:4.316 seconds
+		PAGE: bouer.local/display			 TIME:0.228 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.2 seconds
+
+	Accuracy Level:689
+		PAGE: bouer.local/login			 TIME:3.76 seconds
+		PAGE: bouer.local/display			 TIME:0.36 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.252 seconds
+
+	Accuracy Level:690
+		PAGE: bouer.local/login			 TIME:4.353 seconds
+		PAGE: bouer.local/display			 TIME:0.286 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.203 seconds
+
+	Accuracy Level:691
+		PAGE: bouer.local/login			 TIME:6.536 seconds
+		PAGE: bouer.local/display			 TIME:0.286 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.17 seconds
+
+	Accuracy Level:692
+		PAGE: bouer.local/login			 TIME:3.615 seconds
+		PAGE: bouer.local/display			 TIME:0.432 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.202 seconds
+
+	Accuracy Level:693
+		PAGE: bouer.local/login			 TIME:4.332 seconds
+		PAGE: bouer.local/display			 TIME:0.21 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.21 seconds
+
+	Accuracy Level:694
+		PAGE: bouer.local/login			 TIME:3.98 seconds
+		PAGE: bouer.local/display			 TIME:0.399 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.288 seconds
+
+	Accuracy Level:695
+		PAGE: bouer.local/login			 TIME:4.729 seconds
+		PAGE: bouer.local/display			 TIME:0.291 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.195 seconds
+
+	Accuracy Level:696
+		PAGE: bouer.local/login			 TIME:6.116 seconds
+		PAGE: bouer.local/display			 TIME:0.378 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.22 seconds
+
+	Accuracy Level:697
+		PAGE: bouer.local/login			 TIME:4.199 seconds
+		PAGE: bouer.local/display			 TIME:0.307 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.299 seconds
+
+	Accuracy Level:698
+		PAGE: bouer.local/login			 TIME:4.851 seconds
+		PAGE: bouer.local/display			 TIME:0.332 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.216 seconds
+
+	Accuracy Level:699
+		PAGE: bouer.local/login			 TIME:3.222 seconds
+		PAGE: bouer.local/display			 TIME:0.351 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.211 seconds
+
+	Accuracy Level:700
+		PAGE: bouer.local/login			 TIME:4.653 seconds
+		PAGE: bouer.local/display			 TIME:0.378 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.248 seconds
+
+	Accuracy Level:701
+		PAGE: bouer.local/login			 TIME:4.811 seconds
+		PAGE: bouer.local/display			 TIME:0.488 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.312 seconds
+
+	Accuracy Level:702
+		PAGE: bouer.local/login			 TIME:4.257 seconds
+		PAGE: bouer.local/display			 TIME:0.219 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.181 seconds
+
+	Accuracy Level:703
+		PAGE: bouer.local/login			 TIME:4.793 seconds
+		PAGE: bouer.local/display			 TIME:0.2 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.165 seconds
+
+	Accuracy Level:704
+		PAGE: bouer.local/login			 TIME:36.043 seconds
+		PAGE: bouer.local/display			 TIME:0.288 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.241 seconds
+
+	Accuracy Level:705
+		PAGE: bouer.local/login			 TIME:5.193 seconds
+		PAGE: bouer.local/display			 TIME:0.278 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.256 seconds
+
+	Accuracy Level:706
+		PAGE: bouer.local/login			 TIME:3.956 seconds
+		PAGE: bouer.local/display			 TIME:0.375 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.164 seconds
+
+	Accuracy Level:707
+		PAGE: bouer.local/login			 TIME:4.17 seconds
+		PAGE: bouer.local/display			 TIME:0.268 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.225 seconds
+
+	Accuracy Level:708
+		PAGE: bouer.local/login			 TIME:3.689 seconds
+		PAGE: bouer.local/display			 TIME:1.451 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.317 seconds
+
+	Accuracy Level:709
+		PAGE: bouer.local/login			 TIME:3.964 seconds
+		PAGE: bouer.local/display			 TIME:0.375 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.272 seconds
+
+	Accuracy Level:710
+		PAGE: bouer.local/login			 TIME:5.793 seconds
+		PAGE: bouer.local/display			 TIME:26.663 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.178 seconds
+
+	Accuracy Level:711
+		PAGE: bouer.local/login			 TIME:4.49 seconds
+		PAGE: bouer.local/display			 TIME:29.127 seconds
+		PAGE: bouer.local/dashboard			 TIME:29.932 seconds
+
+	Accuracy Level:712
+		PAGE: bouer.local/login			 TIME:3.418 seconds
+		PAGE: bouer.local/display			 TIME:0.276 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.229 seconds
+
+	Accuracy Level:713
+		PAGE: bouer.local/login			 TIME:4.792 seconds
+		PAGE: bouer.local/display			 TIME:0.322 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.232 seconds
+
+	Accuracy Level:714
+		PAGE: bouer.local/login			 TIME:3.575 seconds
+		PAGE: bouer.local/display			 TIME:0.419 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.252 seconds
+
+	Accuracy Level:715
+		PAGE: bouer.local/login			 TIME:4.234 seconds
+		PAGE: bouer.local/display			 TIME:0.31 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.221 seconds
+
+	Accuracy Level:716
+		PAGE: bouer.local/login			 TIME:4.609 seconds
+		PAGE: bouer.local/display			 TIME:0.262 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.168 seconds
+
+	Accuracy Level:717
+		PAGE: bouer.local/login			 TIME:3.691 seconds
+		PAGE: bouer.local/display			 TIME:0.293 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.281 seconds
+
+	Accuracy Level:718
+		PAGE: bouer.local/login			 TIME:4.318 seconds
+		PAGE: bouer.local/display			 TIME:0.238 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.231 seconds
+
+	Accuracy Level:719
+		PAGE: bouer.local/login			 TIME:4.425 seconds
+		PAGE: bouer.local/display			 TIME:0.44 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.228 seconds
+
+	Accuracy Level:720
+		PAGE: bouer.local/login			 TIME:5.253 seconds
+		PAGE: bouer.local/display			 TIME:0.288 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.21 seconds
+
+	Accuracy Level:721
+		PAGE: bouer.local/login			 TIME:4.861 seconds
+		PAGE: bouer.local/display			 TIME:0.249 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.228 seconds
+
+	Accuracy Level:722
+		PAGE: bouer.local/login			 TIME:5.227 seconds
+		PAGE: bouer.local/display			 TIME:0.456 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.25 seconds
+
+	Accuracy Level:723
+		PAGE: bouer.local/login			 TIME:4.967 seconds
+		PAGE: bouer.local/display			 TIME:0.364 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.229 seconds
+
+	Accuracy Level:724
+		PAGE: bouer.local/login			 TIME:5.092 seconds
+		PAGE: bouer.local/display			 TIME:0.369 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.231 seconds
+
+	Accuracy Level:725
+		PAGE: bouer.local/login			 TIME:4.131 seconds
+		PAGE: bouer.local/display			 TIME:0.355 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.3 seconds
+
+	Accuracy Level:726
+		PAGE: bouer.local/login			 TIME:5.014 seconds
+		PAGE: bouer.local/display			 TIME:0.293 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.181 seconds
+
+	Accuracy Level:727
+		PAGE: bouer.local/login			 TIME:5.119 seconds
+		PAGE: bouer.local/display			 TIME:0.319 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.142 seconds
+
+	Accuracy Level:728
+		PAGE: bouer.local/login			 TIME:4.123 seconds
+		PAGE: bouer.local/display			 TIME:0.306 seconds
+		PAGE: bouer.local/dashboard			 TIME:27.53 seconds
+
+	Accuracy Level:729
+		PAGE: bouer.local/login			 TIME:4.929 seconds
+		PAGE: bouer.local/display			 TIME:0.333 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.25 seconds
+
+	Accuracy Level:730
+		PAGE: bouer.local/login			 TIME:3.627 seconds
+		PAGE: bouer.local/display			 TIME:28.361 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.187 seconds
+
+	Accuracy Level:731
+		PAGE: bouer.local/login			 TIME:5.385 seconds
+		PAGE: bouer.local/display			 TIME:0.332 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.228 seconds
+
+	Accuracy Level:732
+		PAGE: bouer.local/login			 TIME:3.675 seconds
+		PAGE: bouer.local/display			 TIME:0.287 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.237 seconds
+
+	Accuracy Level:733
+		PAGE: bouer.local/login			 TIME:4.656 seconds
+		PAGE: bouer.local/display			 TIME:0.312 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.169 seconds
+
+	Accuracy Level:734
+		PAGE: bouer.local/login			 TIME:4.419 seconds
+		PAGE: bouer.local/display			 TIME:0.4 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.213 seconds
+
+	Accuracy Level:735
+		PAGE: bouer.local/login			 TIME:4.033 seconds
+		PAGE: bouer.local/display			 TIME:0.305 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.118 seconds
+
+	Accuracy Level:736
+		PAGE: bouer.local/login			 TIME:5.314 seconds
+		PAGE: bouer.local/display			 TIME:0.456 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.234 seconds
+
+	Accuracy Level:737
+		PAGE: bouer.local/login			 TIME:3.6 seconds
+		PAGE: bouer.local/display			 TIME:0.393 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.24 seconds
+
+	Accuracy Level:738
+		PAGE: bouer.local/login			 TIME:4.315 seconds
+		PAGE: bouer.local/display			 TIME:0.341 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.278 seconds
+
+	Accuracy Level:739
+		PAGE: bouer.local/login			 TIME:5.116 seconds
+		PAGE: bouer.local/display			 TIME:0.32 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.202 seconds
+
+	Accuracy Level:740
+		PAGE: bouer.local/login			 TIME:6.037 seconds
+		PAGE: bouer.local/display			 TIME:0.368 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.186 seconds
+
+	Accuracy Level:741
+		PAGE: bouer.local/login			 TIME:3.815 seconds
+		PAGE: bouer.local/display			 TIME:0.284 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.262 seconds
+
+	Accuracy Level:742
+		PAGE: bouer.local/login			 TIME:5.017 seconds
+		PAGE: bouer.local/display			 TIME:0.285 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.194 seconds
+
+	Accuracy Level:743
+		PAGE: bouer.local/login			 TIME:4.352 seconds
+		PAGE: bouer.local/display			 TIME:0.314 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.217 seconds
+
+	Accuracy Level:744
+		PAGE: bouer.local/login			 TIME:4.526 seconds
+		PAGE: bouer.local/display			 TIME:0.193 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.199 seconds
+
+	Accuracy Level:745
+		PAGE: bouer.local/login			 TIME:4.913 seconds
+		PAGE: bouer.local/display			 TIME:0.306 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.199 seconds
+
+	Accuracy Level:746
+		PAGE: bouer.local/login			 TIME:4.431 seconds
+		PAGE: bouer.local/display			 TIME:0.296 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.229 seconds
+
+	Accuracy Level:747
+		PAGE: bouer.local/login			 TIME:4.641 seconds
+		PAGE: bouer.local/display			 TIME:0.407 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.218 seconds
+
+	Accuracy Level:748
+		PAGE: bouer.local/login			 TIME:5.293 seconds
+		PAGE: bouer.local/display			 TIME:0.228 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.224 seconds
+
+	Accuracy Level:749
+		PAGE: bouer.local/login			 TIME:5.124 seconds
+		PAGE: bouer.local/display			 TIME:0.36 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.189 seconds
+
+	Accuracy Level:750
+		PAGE: bouer.local/login			 TIME:33.139 seconds
+		PAGE: bouer.local/display			 TIME:0.335 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.178 seconds
+
+	Accuracy Level:751
+		PAGE: bouer.local/login			 TIME:4.87 seconds
+		PAGE: bouer.local/display			 TIME:0.335 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.29 seconds
+
+	Accuracy Level:752
+		PAGE: bouer.local/login			 TIME:4.356 seconds
+		PAGE: bouer.local/display			 TIME:0.31 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.273 seconds
+
+	Accuracy Level:753
+		PAGE: bouer.local/login			 TIME:5.069 seconds
+		PAGE: bouer.local/display			 TIME:0.345 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.232 seconds
+
+	Accuracy Level:754
+		PAGE: bouer.local/login			 TIME:4.392 seconds
+		PAGE: bouer.local/display			 TIME:0.382 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.294 seconds
+
+	Accuracy Level:755
+		PAGE: bouer.local/login			 TIME:4.999 seconds
+		PAGE: bouer.local/display			 TIME:29.495 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.234 seconds
+
+	Accuracy Level:756
+		PAGE: bouer.local/login			 TIME:4.573 seconds
+		PAGE: bouer.local/display			 TIME:0.358 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.159 seconds
+
+	Accuracy Level:757
+		PAGE: bouer.local/login			 TIME:5.204 seconds
+		PAGE: bouer.local/display			 TIME:0.343 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.19 seconds
+
+	Accuracy Level:758
+		PAGE: bouer.local/login			 TIME:3.101 seconds
+		PAGE: bouer.local/display			 TIME:0.403 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.218 seconds
+
+	Accuracy Level:759
+		PAGE: bouer.local/login			 TIME:4.615 seconds
+		PAGE: bouer.local/display			 TIME:0.27 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.24 seconds
+
+	Accuracy Level:760
+		PAGE: bouer.local/login			 TIME:4.137 seconds
+		PAGE: bouer.local/display			 TIME:0.3 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.217 seconds
+
+	Accuracy Level:761
+		PAGE: bouer.local/login			 TIME:5.127 seconds
+		PAGE: bouer.local/display			 TIME:0.232 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.162 seconds
+
+	Accuracy Level:762
+		PAGE: bouer.local/login			 TIME:4.101 seconds
+		PAGE: bouer.local/display			 TIME:0.347 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.254 seconds
+
+	Accuracy Level:763
+		PAGE: bouer.local/login			 TIME:4.993 seconds
+		PAGE: bouer.local/display			 TIME:0.195 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.223 seconds
+
+	Accuracy Level:764
+		PAGE: bouer.local/login			 TIME:5.162 seconds
+		PAGE: bouer.local/display			 TIME:0.465 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.22 seconds
+
+	Accuracy Level:765
+		PAGE: bouer.local/login			 TIME:4.046 seconds
+		PAGE: bouer.local/display			 TIME:0.337 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.237 seconds
+
+	Accuracy Level:766
+		PAGE: bouer.local/login			 TIME:5.383 seconds
+		PAGE: bouer.local/display			 TIME:0.256 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.167 seconds
+
+	Accuracy Level:767
+		PAGE: bouer.local/login			 TIME:4.708 seconds
+		PAGE: bouer.local/display			 TIME:0.36 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.323 seconds
+
+	Accuracy Level:768
+		PAGE: bouer.local/login			 TIME:4.162 seconds
+		PAGE: bouer.local/display			 TIME:0.299 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.269 seconds
+
+	Accuracy Level:769
+		PAGE: bouer.local/login			 TIME:5.044 seconds
+		PAGE: bouer.local/display			 TIME:0.375 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.201 seconds
+
+	Accuracy Level:770
+		PAGE: bouer.local/login			 TIME:5.191 seconds
+		PAGE: bouer.local/display			 TIME:0.476 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.284 seconds
+
+	Accuracy Level:771
+		PAGE: bouer.local/login			 TIME:3.236 seconds
+		PAGE: bouer.local/display			 TIME:0.376 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.206 seconds
+
+	Accuracy Level:772
+		PAGE: bouer.local/login			 TIME:4.36 seconds
+		PAGE: bouer.local/display			 TIME:0.345 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.255 seconds
+
+	Accuracy Level:773
+		PAGE: bouer.local/login			 TIME:4.715 seconds
+		PAGE: bouer.local/display			 TIME:0.315 seconds
+		PAGE: bouer.local/dashboard			 TIME:29.583 seconds
+
+	Accuracy Level:774
+		PAGE: bouer.local/login			 TIME:3.927 seconds
+		PAGE: bouer.local/display			 TIME:0.27 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.259 seconds
+
+	Accuracy Level:775
+		PAGE: bouer.local/login			 TIME:5.201 seconds
+		PAGE: bouer.local/display			 TIME:0.211 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.184 seconds
+
+	Accuracy Level:776
+		PAGE: bouer.local/login			 TIME:5.203 seconds
+		PAGE: bouer.local/display			 TIME:0.326 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.254 seconds
+
+	Accuracy Level:777
+		PAGE: bouer.local/login			 TIME:4.657 seconds
+		PAGE: bouer.local/display			 TIME:0.288 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.229 seconds
+
+	Accuracy Level:778
+		PAGE: bouer.local/login			 TIME:5.024 seconds
+		PAGE: bouer.local/display			 TIME:0.307 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.175 seconds
+
+	Accuracy Level:779
+		PAGE: bouer.local/login			 TIME:4.914 seconds
+		PAGE: bouer.local/display			 TIME:0.388 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.217 seconds
+
+	Accuracy Level:780
+		PAGE: bouer.local/login			 TIME:4.858 seconds
+		PAGE: bouer.local/display			 TIME:0.487 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.266 seconds
+
+	Accuracy Level:781
+		PAGE: bouer.local/login			 TIME:5.852 seconds
+		PAGE: bouer.local/display			 TIME:1.543 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.26 seconds
+
+	Accuracy Level:782
+		PAGE: bouer.local/login			 TIME:4.583 seconds
+		PAGE: bouer.local/display			 TIME:0.403 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.185 seconds
+
+	Accuracy Level:783
+		PAGE: bouer.local/login			 TIME:4.874 seconds
+		PAGE: bouer.local/display			 TIME:0.273 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.197 seconds
+
+	Accuracy Level:784
+		PAGE: bouer.local/login			 TIME:4.319 seconds
+		PAGE: bouer.local/display			 TIME:0.434 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.299 seconds
+
+	Accuracy Level:785
+		PAGE: bouer.local/login			 TIME:4.356 seconds
+		PAGE: bouer.local/display			 TIME:0.29 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.172 seconds
+
+	Accuracy Level:786
+		PAGE: bouer.local/login			 TIME:5.211 seconds
+		PAGE: bouer.local/display			 TIME:0.292 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.228 seconds
+
+	Accuracy Level:787
+		PAGE: bouer.local/login			 TIME:4.395 seconds
+		PAGE: bouer.local/display			 TIME:0.586 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.223 seconds
+
+	Accuracy Level:788
+		PAGE: bouer.local/login			 TIME:5.238 seconds
+		PAGE: bouer.local/display			 TIME:0.396 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.229 seconds
+
+	Accuracy Level:789
+		PAGE: bouer.local/login			 TIME:5.187 seconds
+		PAGE: bouer.local/display			 TIME:0.295 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.247 seconds
+
+	Accuracy Level:790
+		PAGE: bouer.local/login			 TIME:4.496 seconds
+		PAGE: bouer.local/display			 TIME:0.416 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.246 seconds
+
+	Accuracy Level:791
+		PAGE: bouer.local/login			 TIME:4.799 seconds
+		PAGE: bouer.local/display			 TIME:0.376 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.248 seconds
+
+	Accuracy Level:792
+		PAGE: bouer.local/login			 TIME:4.491 seconds
+		PAGE: bouer.local/display			 TIME:0.331 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.237 seconds
+
+	Accuracy Level:793
+		PAGE: bouer.local/login			 TIME:3.988 seconds
+		PAGE: bouer.local/display			 TIME:0.427 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.284 seconds
+
+	Accuracy Level:794
+		PAGE: bouer.local/login			 TIME:5.055 seconds
+		PAGE: bouer.local/display			 TIME:0.287 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.241 seconds
+
+	Accuracy Level:795
+		PAGE: bouer.local/login			 TIME:5.844 seconds
+		PAGE: bouer.local/display			 TIME:0.375 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.21 seconds
+
+	Accuracy Level:796
+		PAGE: bouer.local/login			 TIME:5.958 seconds
+		PAGE: bouer.local/display			 TIME:0.356 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.193 seconds
+
+	Accuracy Level:797
+		PAGE: bouer.local/login			 TIME:5.317 seconds
+		PAGE: bouer.local/display			 TIME:0.57 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.247 seconds
+
+	Accuracy Level:798
+		PAGE: bouer.local/login			 TIME:3.516 seconds
+		PAGE: bouer.local/display			 TIME:0.375 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.22 seconds
+
+	Accuracy Level:799
+		PAGE: bouer.local/login			 TIME:5.898 seconds
+		PAGE: bouer.local/display			 TIME:0.448 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.224 seconds
+
+	Accuracy Level:800
+		PAGE: bouer.local/login			 TIME:5.688 seconds
+		PAGE: bouer.local/display			 TIME:0.347 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.225 seconds
+
+	Accuracy Level:801
+		PAGE: bouer.local/login			 TIME:4.605 seconds
+		PAGE: bouer.local/display			 TIME:0.364 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.248 seconds
+
+	Accuracy Level:802
+		PAGE: bouer.local/login			 TIME:5.604 seconds
+		PAGE: bouer.local/display			 TIME:0.239 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.196 seconds
+
+	Accuracy Level:803
+		PAGE: bouer.local/login			 TIME:4.909 seconds
+		PAGE: bouer.local/display			 TIME:0.386 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.198 seconds
+
+	Accuracy Level:804
+		PAGE: bouer.local/login			 TIME:5.068 seconds
+		PAGE: bouer.local/display			 TIME:0.2 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.206 seconds
+
+	Accuracy Level:805
+		PAGE: bouer.local/login			 TIME:4.45 seconds
+		PAGE: bouer.local/display			 TIME:0.345 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.22 seconds
+
+	Accuracy Level:806
+		PAGE: bouer.local/login			 TIME:5.263 seconds
+		PAGE: bouer.local/display			 TIME:0.413 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.214 seconds
+
+	Accuracy Level:807
+		PAGE: bouer.local/login			 TIME:4.428 seconds
+		PAGE: bouer.local/display			 TIME:0.382 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.248 seconds
+
+	Accuracy Level:808
+		PAGE: bouer.local/login			 TIME:5.366 seconds
+		PAGE: bouer.local/display			 TIME:0.391 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.224 seconds
+
+	Accuracy Level:809
+		PAGE: bouer.local/login			 TIME:5.462 seconds
+		PAGE: bouer.local/display			 TIME:0.321 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.165 seconds
+
+	Accuracy Level:810
+		PAGE: bouer.local/login			 TIME:4.277 seconds
+		PAGE: bouer.local/display			 TIME:0.327 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.221 seconds
+
+	Accuracy Level:811
+		PAGE: bouer.local/login			 TIME:5.141 seconds
+		PAGE: bouer.local/display			 TIME:0.323 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.222 seconds
+
+	Accuracy Level:812
+		PAGE: bouer.local/login			 TIME:4.479 seconds
+		PAGE: bouer.local/display			 TIME:0.398 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.164 seconds
+
+	Accuracy Level:813
+		PAGE: bouer.local/login			 TIME:4.867 seconds
+		PAGE: bouer.local/display			 TIME:0.441 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.326 seconds
+
+	Accuracy Level:814
+		PAGE: bouer.local/login			 TIME:5.53 seconds
+		PAGE: bouer.local/display			 TIME:0.313 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.201 seconds
+
+	Accuracy Level:815
+		PAGE: bouer.local/login			 TIME:5.98 seconds
+		PAGE: bouer.local/display			 TIME:0.21 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.118 seconds
+
+	Accuracy Level:816
+		PAGE: bouer.local/login			 TIME:5.44 seconds
+		PAGE: bouer.local/display			 TIME:0.387 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.271 seconds
+
+	Accuracy Level:817
+		PAGE: bouer.local/login			 TIME:3.997 seconds
+		PAGE: bouer.local/display			 TIME:0.347 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.167 seconds
+
+	Accuracy Level:818
+		PAGE: bouer.local/login			 TIME:5.359 seconds
+		PAGE: bouer.local/display			 TIME:0.318 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.183 seconds
+
+	Accuracy Level:819
+		PAGE: bouer.local/login			 TIME:5.083 seconds
+		PAGE: bouer.local/display			 TIME:0.356 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.254 seconds
+
+	Accuracy Level:820
+		PAGE: bouer.local/login			 TIME:4.821 seconds
+		PAGE: bouer.local/display			 TIME:0.278 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.21 seconds
+
+	Accuracy Level:821
+		PAGE: bouer.local/login			 TIME:4.903 seconds
+		PAGE: bouer.local/display			 TIME:0.248 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.189 seconds
+
+	Accuracy Level:822
+		PAGE: bouer.local/login			 TIME:3.924 seconds
+		PAGE: bouer.local/display			 TIME:0.364 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.191 seconds
+
+	Accuracy Level:823
+		PAGE: bouer.local/login			 TIME:4.97 seconds
+		PAGE: bouer.local/display			 TIME:0.508 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.232 seconds
+
+	Accuracy Level:824
+		PAGE: bouer.local/login			 TIME:5.631 seconds
+		PAGE: bouer.local/display			 TIME:0.344 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.279 seconds
+
+	Accuracy Level:825
+		PAGE: bouer.local/login			 TIME:5.02 seconds
+		PAGE: bouer.local/display			 TIME:0.697 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.224 seconds
+
+	Accuracy Level:826
+		PAGE: bouer.local/login			 TIME:5.489 seconds
+		PAGE: bouer.local/display			 TIME:0.379 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.282 seconds
+
+	Accuracy Level:827
+		PAGE: bouer.local/login			 TIME:4.788 seconds
+		PAGE: bouer.local/display			 TIME:0.517 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.286 seconds
+
+	Accuracy Level:828
+		PAGE: bouer.local/login			 TIME:4.061 seconds
+		PAGE: bouer.local/display			 TIME:0.293 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.229 seconds
+
+	Accuracy Level:829
+		PAGE: bouer.local/login			 TIME:5.514 seconds
+		PAGE: bouer.local/display			 TIME:0.226 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.17 seconds
+
+	Accuracy Level:830
+		PAGE: bouer.local/login			 TIME:4.735 seconds
+		PAGE: bouer.local/display			 TIME:0.406 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.287 seconds
+
+	Accuracy Level:831
+		PAGE: bouer.local/login			 TIME:4.867 seconds
+		PAGE: bouer.local/display			 TIME:0.209 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.233 seconds
+
+	Accuracy Level:832
+		PAGE: bouer.local/login			 TIME:5.657 seconds
+		PAGE: bouer.local/display			 TIME:0.267 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.246 seconds
+
+	Accuracy Level:833
+		PAGE: bouer.local/login			 TIME:4.861 seconds
+		PAGE: bouer.local/display			 TIME:0.417 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.208 seconds
+
+	Accuracy Level:834
+		PAGE: bouer.local/login			 TIME:6.433 seconds
+		PAGE: bouer.local/display			 TIME:0.792 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.195 seconds
+
+	Accuracy Level:835
+		PAGE: bouer.local/login			 TIME:4.439 seconds
+		PAGE: bouer.local/display			 TIME:0.396 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.189 seconds
+
+	Accuracy Level:836
+		PAGE: bouer.local/login			 TIME:5.133 seconds
+		PAGE: bouer.local/display			 TIME:0.346 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.229 seconds
+
+	Accuracy Level:837
+		PAGE: bouer.local/login			 TIME:5.212 seconds
+		PAGE: bouer.local/display			 TIME:0.265 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.153 seconds
+
+	Accuracy Level:838
+		PAGE: bouer.local/login			 TIME:4.983 seconds
+		PAGE: bouer.local/display			 TIME:0.336 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.211 seconds
+
+	Accuracy Level:839
+		PAGE: bouer.local/login			 TIME:4.288 seconds
+		PAGE: bouer.local/display			 TIME:0.34 seconds
+		PAGE: bouer.local/dashboard			 TIME:31.501 seconds
+
+	Accuracy Level:840
+		PAGE: bouer.local/login			 TIME:5.977 seconds
+		PAGE: bouer.local/display			 TIME:0.366 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.311 seconds
+
+	Accuracy Level:841
+		PAGE: bouer.local/login			 TIME:6.301 seconds
+		PAGE: bouer.local/display			 TIME:0.363 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.212 seconds
+
+	Accuracy Level:842
+		PAGE: bouer.local/login			 TIME:6.346 seconds
+		PAGE: bouer.local/display			 TIME:0.358 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.255 seconds
+
+	Accuracy Level:843
+		PAGE: bouer.local/login			 TIME:5.117 seconds
+		PAGE: bouer.local/display			 TIME:0.336 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.373 seconds
+
+	Accuracy Level:844
+		PAGE: bouer.local/login			 TIME:4.777 seconds
+		PAGE: bouer.local/display			 TIME:26.267 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.265 seconds
+
+	Accuracy Level:845
+		PAGE: bouer.local/login			 TIME:5.219 seconds
+		PAGE: bouer.local/display			 TIME:27.366 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.267 seconds
+
+	Accuracy Level:846
+		PAGE: bouer.local/login			 TIME:4.974 seconds
+		PAGE: bouer.local/display			 TIME:0.252 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.144 seconds
+
+	Accuracy Level:847
+		PAGE: bouer.local/login			 TIME:6.597 seconds
+		PAGE: bouer.local/display			 TIME:0.202 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.143 seconds
+
+	Accuracy Level:848
+		PAGE: bouer.local/login			 TIME:5.031 seconds
+		PAGE: bouer.local/display			 TIME:0.562 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.329 seconds
+
+	Accuracy Level:849
+		PAGE: bouer.local/login			 TIME:5.342 seconds
+		PAGE: bouer.local/display			 TIME:0.369 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.233 seconds
+
+	Accuracy Level:850
+		PAGE: bouer.local/login			 TIME:5.969 seconds
+		PAGE: bouer.local/display			 TIME:0.384 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.189 seconds
+
+	Accuracy Level:851
+		PAGE: bouer.local/login			 TIME:4.877 seconds
+		PAGE: bouer.local/display			 TIME:0.425 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.221 seconds
+
+	Accuracy Level:852
+		PAGE: bouer.local/login			 TIME:7.081 seconds
+		PAGE: bouer.local/display			 TIME:0.316 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.204 seconds
+
+	Accuracy Level:853
+		PAGE: bouer.local/login			 TIME:5.726 seconds
+		PAGE: bouer.local/display			 TIME:0.634 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.304 seconds
+
+	Accuracy Level:854
+		PAGE: bouer.local/login			 TIME:5.543 seconds
+		PAGE: bouer.local/display			 TIME:0.438 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.216 seconds
+
+	Accuracy Level:855
+		PAGE: bouer.local/login			 TIME:7.465 seconds
+		PAGE: bouer.local/display			 TIME:0.424 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.246 seconds
+
+	Accuracy Level:856
+		PAGE: bouer.local/login			 TIME:5.266 seconds
+		PAGE: bouer.local/display			 TIME:0.421 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.229 seconds
+
+	Accuracy Level:857
+		PAGE: bouer.local/login			 TIME:5.255 seconds
+		PAGE: bouer.local/display			 TIME:0.316 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.223 seconds
+
+	Accuracy Level:858
+		PAGE: bouer.local/login			 TIME:5.944 seconds
+		PAGE: bouer.local/display			 TIME:0.26 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.164 seconds
+
+	Accuracy Level:859
+		PAGE: bouer.local/login			 TIME:4.555 seconds
+		PAGE: bouer.local/display			 TIME:0.32 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.136 seconds
+
+	Accuracy Level:860
+		PAGE: bouer.local/login			 TIME:4.84 seconds
+		PAGE: bouer.local/display			 TIME:0.496 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.262 seconds
+
+	Accuracy Level:861
+		PAGE: bouer.local/login			 TIME:6.588 seconds
+		PAGE: bouer.local/display			 TIME:0.293 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.122 seconds
+
+	Accuracy Level:862
+		PAGE: bouer.local/login			 TIME:4.763 seconds
+		PAGE: bouer.local/display			 TIME:0.429 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.268 seconds
+
+	Accuracy Level:863
+		PAGE: bouer.local/login			 TIME:5.051 seconds
+		PAGE: bouer.local/display			 TIME:0.309 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.209 seconds
+
+	Accuracy Level:864
+		PAGE: bouer.local/login			 TIME:5.735 seconds
+		PAGE: bouer.local/display			 TIME:0.256 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.189 seconds
+
+	Accuracy Level:865
+		PAGE: bouer.local/login			 TIME:5.49 seconds
+		PAGE: bouer.local/display			 TIME:0.281 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.186 seconds
+
+	Accuracy Level:866
+		PAGE: bouer.local/login			 TIME:5.351 seconds
+		PAGE: bouer.local/display			 TIME:29.211 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.189 seconds
+
+	Accuracy Level:867
+		PAGE: bouer.local/login			 TIME:5.841 seconds
+		PAGE: bouer.local/display			 TIME:0.485 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.287 seconds
+
+	Accuracy Level:868
+		PAGE: bouer.local/login			 TIME:6.134 seconds
+		PAGE: bouer.local/display			 TIME:0.528 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.27 seconds
+
+	Accuracy Level:869
+		PAGE: bouer.local/login			 TIME:6.039 seconds
+		PAGE: bouer.local/display			 TIME:0.402 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.157 seconds
+
+	Accuracy Level:870
+		PAGE: bouer.local/login			 TIME:5.733 seconds
+		PAGE: bouer.local/display			 TIME:0.386 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.198 seconds
+
+	Accuracy Level:871
+		PAGE: bouer.local/login			 TIME:5.875 seconds
+		PAGE: bouer.local/display			 TIME:0.247 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.167 seconds
+
+	Accuracy Level:872
+		PAGE: bouer.local/login			 TIME:5.964 seconds
+		PAGE: bouer.local/display			 TIME:0.226 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.199 seconds
+
+	Accuracy Level:873
+		PAGE: bouer.local/login			 TIME:3.639 seconds
+		PAGE: bouer.local/display			 TIME:0.286 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.181 seconds
+
+	Accuracy Level:874
+		PAGE: bouer.local/login			 TIME:5.105 seconds
+		PAGE: bouer.local/display			 TIME:0.428 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.165 seconds
+
+	Accuracy Level:875
+		PAGE: bouer.local/login			 TIME:4.708 seconds
+		PAGE: bouer.local/display			 TIME:0.426 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.3 seconds
+
+	Accuracy Level:876
+		PAGE: bouer.local/login			 TIME:4.503 seconds
+		PAGE: bouer.local/display			 TIME:0.263 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.173 seconds
+
+	Accuracy Level:877
+		PAGE: bouer.local/login			 TIME:4.993 seconds
+		PAGE: bouer.local/display			 TIME:0.407 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.309 seconds
+
+	Accuracy Level:878
+		PAGE: bouer.local/login			 TIME:5.54 seconds
+		PAGE: bouer.local/display			 TIME:0.316 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.277 seconds
+
+	Accuracy Level:879
+		PAGE: bouer.local/login			 TIME:5.787 seconds
+		PAGE: bouer.local/display			 TIME:0.402 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.21 seconds
+
+	Accuracy Level:880
+		PAGE: bouer.local/login			 TIME:5.001 seconds
+		PAGE: bouer.local/display			 TIME:0.738 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.205 seconds
+
+	Accuracy Level:881
+		PAGE: bouer.local/login			 TIME:5.961 seconds
+		PAGE: bouer.local/display			 TIME:0.358 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.241 seconds
+
+	Accuracy Level:882
+		PAGE: bouer.local/login			 TIME:5.631 seconds
+		PAGE: bouer.local/display			 TIME:0.373 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.207 seconds
+
+	Accuracy Level:883
+		PAGE: bouer.local/login			 TIME:5.41 seconds
+		PAGE: bouer.local/display			 TIME:0.352 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.221 seconds
+
+	Accuracy Level:884
+		PAGE: bouer.local/login			 TIME:5.271 seconds
+		PAGE: bouer.local/display			 TIME:0.467 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.229 seconds
+
+	Accuracy Level:885
+		PAGE: bouer.local/login			 TIME:5.99 seconds
+		PAGE: bouer.local/display			 TIME:0.31 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.176 seconds
+
+	Accuracy Level:886
+		PAGE: bouer.local/login			 TIME:6.302 seconds
+		PAGE: bouer.local/display			 TIME:0.379 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.181 seconds
+
+	Accuracy Level:887
+		PAGE: bouer.local/login			 TIME:5.203 seconds
+		PAGE: bouer.local/display			 TIME:0.288 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.187 seconds
+
+	Accuracy Level:888
+		PAGE: bouer.local/login			 TIME:5.358 seconds
+		PAGE: bouer.local/display			 TIME:0.374 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.137 seconds
+
+	Accuracy Level:889
+		PAGE: bouer.local/login			 TIME:4.556 seconds
+		PAGE: bouer.local/display			 TIME:0.247 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.179 seconds
+
+	Accuracy Level:890
+		PAGE: bouer.local/login			 TIME:6.547 seconds
+		PAGE: bouer.local/display			 TIME:0.6 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.179 seconds
+
+	Accuracy Level:891
+		PAGE: bouer.local/login			 TIME:5.561 seconds
+		PAGE: bouer.local/display			 TIME:0.326 seconds
+		PAGE: bouer.local/dashboard			 TIME:26.174 seconds
+
+	Accuracy Level:892
+		PAGE: bouer.local/login			 TIME:5.67 seconds
+		PAGE: bouer.local/display			 TIME:0.446 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.276 seconds
+
+	Accuracy Level:893
+		PAGE: bouer.local/login			 TIME:5.164 seconds
+		PAGE: bouer.local/display			 TIME:0.302 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.223 seconds
+
+	Accuracy Level:894
+		PAGE: bouer.local/login			 TIME:5.658 seconds
+		PAGE: bouer.local/display			 TIME:0.307 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.196 seconds
+
+	Accuracy Level:895
+		PAGE: bouer.local/login			 TIME:6.106 seconds
+		PAGE: bouer.local/display			 TIME:0.331 seconds
+		PAGE: bouer.local/dashboard			 TIME:26.934 seconds
+
+	Accuracy Level:896
+		PAGE: bouer.local/login			 TIME:5.491 seconds
+		PAGE: bouer.local/display			 TIME:26.909 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.209 seconds
+
+	Accuracy Level:897
+		PAGE: bouer.local/login			 TIME:5.412 seconds
+		PAGE: bouer.local/display			 TIME:0.306 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.189 seconds
+
+	Accuracy Level:898
+		PAGE: bouer.local/login			 TIME:6.443 seconds
+		PAGE: bouer.local/display			 TIME:0.244 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.154 seconds
+
+	Accuracy Level:899
+		PAGE: bouer.local/login			 TIME:5.058 seconds
+		PAGE: bouer.local/display			 TIME:0.326 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.254 seconds
+
+	Accuracy Level:900
+		PAGE: bouer.local/login			 TIME:4.913 seconds
+		PAGE: bouer.local/display			 TIME:0.34 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.256 seconds
+
+	Accuracy Level:901
+		PAGE: bouer.local/login			 TIME:5.238 seconds
+		PAGE: bouer.local/display			 TIME:0.344 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.242 seconds
+
+	Accuracy Level:902
+		PAGE: bouer.local/login			 TIME:6.22 seconds
+		PAGE: bouer.local/display			 TIME:0.277 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.188 seconds
+
+	Accuracy Level:903
+		PAGE: bouer.local/login			 TIME:6.557 seconds
+		PAGE: bouer.local/display			 TIME:0.295 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.201 seconds
+
+	Accuracy Level:904
+		PAGE: bouer.local/login			 TIME:5.647 seconds
+		PAGE: bouer.local/display			 TIME:0.384 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.263 seconds
+
+	Accuracy Level:905
+		PAGE: bouer.local/login			 TIME:5.589 seconds
+		PAGE: bouer.local/display			 TIME:0.721 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.267 seconds
+
+	Accuracy Level:906
+		PAGE: bouer.local/login			 TIME:5.554 seconds
+		PAGE: bouer.local/display			 TIME:0.438 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.258 seconds
+
+	Accuracy Level:907
+		PAGE: bouer.local/login			 TIME:5.755 seconds
+		PAGE: bouer.local/display			 TIME:0.286 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.179 seconds
+
+	Accuracy Level:908
+		PAGE: bouer.local/login			 TIME:5.988 seconds
+		PAGE: bouer.local/display			 TIME:0.43 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.2 seconds
+
+	Accuracy Level:909
+		PAGE: bouer.local/login			 TIME:6.074 seconds
+		PAGE: bouer.local/display			 TIME:0.316 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.185 seconds
+
+	Accuracy Level:910
+		PAGE: bouer.local/login			 TIME:6.097 seconds
+		PAGE: bouer.local/display			 TIME:0.464 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.213 seconds
+
+	Accuracy Level:911
+		PAGE: bouer.local/login			 TIME:6.01 seconds
+		PAGE: bouer.local/display			 TIME:0.345 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.235 seconds
+
+	Accuracy Level:912
+		PAGE: bouer.local/login			 TIME:5.975 seconds
+		PAGE: bouer.local/display			 TIME:0.292 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.296 seconds
+
+	Accuracy Level:913
+		PAGE: bouer.local/login			 TIME:5.427 seconds
+		PAGE: bouer.local/display			 TIME:0.371 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.231 seconds
+
+	Accuracy Level:914
+		PAGE: bouer.local/login			 TIME:5.771 seconds
+		PAGE: bouer.local/display			 TIME:0.308 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.213 seconds
+
+	Accuracy Level:915
+		PAGE: bouer.local/login			 TIME:6.589 seconds
+		PAGE: bouer.local/display			 TIME:0.817 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.147 seconds
+
+	Accuracy Level:916
+		PAGE: bouer.local/login			 TIME:4.911 seconds
+		PAGE: bouer.local/display			 TIME:0.412 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.199 seconds
+
+	Accuracy Level:917
+		PAGE: bouer.local/login			 TIME:5.925 seconds
+		PAGE: bouer.local/display			 TIME:0.307 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.169 seconds
+
+	Accuracy Level:918
+		PAGE: bouer.local/login			 TIME:6.092 seconds
+		PAGE: bouer.local/display			 TIME:0.306 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.201 seconds
+
+	Accuracy Level:919
+		PAGE: bouer.local/login			 TIME:5.739 seconds
+		PAGE: bouer.local/display			 TIME:0.292 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.166 seconds
+
+	Accuracy Level:920
+		PAGE: bouer.local/login			 TIME:6.062 seconds
+		PAGE: bouer.local/display			 TIME:0.387 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.208 seconds
+
+	Accuracy Level:921
+		PAGE: bouer.local/login			 TIME:4.416 seconds
+		PAGE: bouer.local/display			 TIME:0.401 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.212 seconds
+
+	Accuracy Level:922
+		PAGE: bouer.local/login			 TIME:5.726 seconds
+		PAGE: bouer.local/display			 TIME:0.449 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.223 seconds
+
+	Accuracy Level:923
+		PAGE: bouer.local/login			 TIME:7.247 seconds
+		PAGE: bouer.local/display			 TIME:0.29 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.244 seconds
+
+	Accuracy Level:924
+		PAGE: bouer.local/login			 TIME:5.425 seconds
+		PAGE: bouer.local/display			 TIME:0.348 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.186 seconds
+
+	Accuracy Level:925
+		PAGE: bouer.local/login			 TIME:5.946 seconds
+		PAGE: bouer.local/display			 TIME:0.816 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.265 seconds
+
+	Accuracy Level:926
+		PAGE: bouer.local/login			 TIME:5.105 seconds
+		PAGE: bouer.local/display			 TIME:0.629 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.355 seconds
+
+	Accuracy Level:927
+		PAGE: bouer.local/login			 TIME:4.735 seconds
+		PAGE: bouer.local/display			 TIME:0.331 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.206 seconds
+
+	Accuracy Level:928
+		PAGE: bouer.local/login			 TIME:6.025 seconds
+		PAGE: bouer.local/display			 TIME:0.374 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.153 seconds
+
+	Accuracy Level:929
+		PAGE: bouer.local/login			 TIME:33.791 seconds
+		PAGE: bouer.local/display			 TIME:0.287 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.222 seconds
+
+	Accuracy Level:930
+		PAGE: bouer.local/login			 TIME:6.764 seconds
+		PAGE: bouer.local/display			 TIME:0.316 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.227 seconds
+
+	Accuracy Level:931
+		PAGE: bouer.local/login			 TIME:6.497 seconds
+		PAGE: bouer.local/display			 TIME:0.297 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.232 seconds
+
+	Accuracy Level:932
+		PAGE: bouer.local/login			 TIME:4.831 seconds
+		PAGE: bouer.local/display			 TIME:0.403 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.251 seconds
+
+	Accuracy Level:933
+		PAGE: bouer.local/login			 TIME:6.803 seconds
+		PAGE: bouer.local/display			 TIME:0.435 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.206 seconds
+
+	Accuracy Level:934
+		PAGE: bouer.local/login			 TIME:4.992 seconds
+		PAGE: bouer.local/display			 TIME:0.315 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.277 seconds
+
+	Accuracy Level:935
+		PAGE: bouer.local/login			 TIME:5.436 seconds
+		PAGE: bouer.local/display			 TIME:0.322 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.242 seconds
+
+	Accuracy Level:936
+		PAGE: bouer.local/login			 TIME:5.301 seconds
+		PAGE: bouer.local/display			 TIME:0.288 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.186 seconds
+
+	Accuracy Level:937
+		PAGE: bouer.local/login			 TIME:5.976 seconds
+		PAGE: bouer.local/display			 TIME:0.368 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.197 seconds
+
+	Accuracy Level:938
+		PAGE: bouer.local/login			 TIME:4.918 seconds
+		PAGE: bouer.local/display			 TIME:0.493 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.211 seconds
+
+	Accuracy Level:939
+		PAGE: bouer.local/login			 TIME:5.611 seconds
+		PAGE: bouer.local/display			 TIME:0.287 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.237 seconds
+
+	Accuracy Level:940
+		PAGE: bouer.local/login			 TIME:6.194 seconds
+		PAGE: bouer.local/display			 TIME:0.291 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.188 seconds
+
+	Accuracy Level:941
+		PAGE: bouer.local/login			 TIME:4.695 seconds
+		PAGE: bouer.local/display			 TIME:0.254 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.21 seconds
+
+	Accuracy Level:942
+		PAGE: bouer.local/login			 TIME:5.209 seconds
+		PAGE: bouer.local/display			 TIME:0.36 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.265 seconds
+
+	Accuracy Level:943
+		PAGE: bouer.local/login			 TIME:6.6 seconds
+		PAGE: bouer.local/display			 TIME:0.232 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.283 seconds
+
+	Accuracy Level:944
+		PAGE: bouer.local/login			 TIME:5.985 seconds
+		PAGE: bouer.local/display			 TIME:0.443 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.292 seconds
+
+	Accuracy Level:945
+		PAGE: bouer.local/login			 TIME:5.058 seconds
+		PAGE: bouer.local/display			 TIME:28.29 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.262 seconds
+
+	Accuracy Level:946
+		PAGE: bouer.local/login			 TIME:5.494 seconds
+		PAGE: bouer.local/display			 TIME:0.349 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.216 seconds
+
+	Accuracy Level:947
+		PAGE: bouer.local/login			 TIME:7.667 seconds
+		PAGE: bouer.local/display			 TIME:0.306 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.195 seconds
+
+	Accuracy Level:948
+		PAGE: bouer.local/login			 TIME:5.071 seconds
+		PAGE: bouer.local/display			 TIME:0.349 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.225 seconds
+
+	Accuracy Level:949
+		PAGE: bouer.local/login			 TIME:6.383 seconds
+		PAGE: bouer.local/display			 TIME:0.43 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.289 seconds
+
+	Accuracy Level:950
+		PAGE: bouer.local/login			 TIME:7.567 seconds
+		PAGE: bouer.local/display			 TIME:0.399 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.253 seconds
+
+	Accuracy Level:951
+		PAGE: bouer.local/login			 TIME:5.167 seconds
+		PAGE: bouer.local/display			 TIME:0.378 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.27 seconds
+
+	Accuracy Level:952
+		PAGE: bouer.local/login			 TIME:6.024 seconds
+		PAGE: bouer.local/display			 TIME:0.339 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.169 seconds
+
+	Accuracy Level:953
+		PAGE: bouer.local/login			 TIME:5.91 seconds
+		PAGE: bouer.local/display			 TIME:0.23 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.228 seconds
+
+	Accuracy Level:954
+		PAGE: bouer.local/login			 TIME:5.744 seconds
+		PAGE: bouer.local/display			 TIME:0.277 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.19 seconds
+
+	Accuracy Level:955
+		PAGE: bouer.local/login			 TIME:4.077 seconds
+		PAGE: bouer.local/display			 TIME:0.376 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.231 seconds
+
+	Accuracy Level:956
+		PAGE: bouer.local/login			 TIME:6.183 seconds
+		PAGE: bouer.local/display			 TIME:0.417 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.116 seconds
+
+	Accuracy Level:957
+		PAGE: bouer.local/login			 TIME:6.47 seconds
+		PAGE: bouer.local/display			 TIME:0.36 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.198 seconds
+
+	Accuracy Level:958
+		PAGE: bouer.local/login			 TIME:6.532 seconds
+		PAGE: bouer.local/display			 TIME:0.398 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.244 seconds
+
+	Accuracy Level:959
+		PAGE: bouer.local/login			 TIME:4.424 seconds
+		PAGE: bouer.local/display			 TIME:0.369 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.241 seconds
+
+	Accuracy Level:960
+		PAGE: bouer.local/login			 TIME:5.211 seconds
+		PAGE: bouer.local/display			 TIME:1.986 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.156 seconds
+
+	Accuracy Level:961
+		PAGE: bouer.local/login			 TIME:5.552 seconds
+		PAGE: bouer.local/display			 TIME:0.378 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.203 seconds
+
+	Accuracy Level:962
+		PAGE: bouer.local/login			 TIME:5.512 seconds
+		PAGE: bouer.local/display			 TIME:0.313 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.236 seconds
+
+	Accuracy Level:963
+		PAGE: bouer.local/login			 TIME:6.152 seconds
+		PAGE: bouer.local/display			 TIME:0.361 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.174 seconds
+
+	Accuracy Level:964
+		PAGE: bouer.local/login			 TIME:6.273 seconds
+		PAGE: bouer.local/display			 TIME:0.224 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.214 seconds
+
+	Accuracy Level:965
+		PAGE: bouer.local/login			 TIME:6.831 seconds
+		PAGE: bouer.local/display			 TIME:0.258 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.169 seconds
+
+	Accuracy Level:966
+		PAGE: bouer.local/login			 TIME:5.26 seconds
+		PAGE: bouer.local/display			 TIME:0.461 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.209 seconds
+
+	Accuracy Level:967
+		PAGE: bouer.local/login			 TIME:5.264 seconds
+		PAGE: bouer.local/display			 TIME:27.312 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.194 seconds
+
+	Accuracy Level:968
+		PAGE: bouer.local/login			 TIME:4.86 seconds
+		PAGE: bouer.local/display			 TIME:0.434 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.217 seconds
+
+	Accuracy Level:969
+		PAGE: bouer.local/login			 TIME:6.208 seconds
+		PAGE: bouer.local/display			 TIME:0.326 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.224 seconds
+
+	Accuracy Level:970
+		PAGE: bouer.local/login			 TIME:6.286 seconds
+		PAGE: bouer.local/display			 TIME:0.455 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.198 seconds
+
+	Accuracy Level:971
+		PAGE: bouer.local/login			 TIME:5.827 seconds
+		PAGE: bouer.local/display			 TIME:0.364 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.17 seconds
+
+	Accuracy Level:972
+		PAGE: bouer.local/login			 TIME:7.052 seconds
+		PAGE: bouer.local/display			 TIME:0.307 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.189 seconds
+
+	Accuracy Level:973
+		PAGE: bouer.local/login			 TIME:6.307 seconds
+		PAGE: bouer.local/display			 TIME:0.293 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.186 seconds
+
+	Accuracy Level:974
+		PAGE: bouer.local/login			 TIME:6.275 seconds
+		PAGE: bouer.local/display			 TIME:0.312 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.26 seconds
+
+	Accuracy Level:975
+		PAGE: bouer.local/login			 TIME:5.567 seconds
+		PAGE: bouer.local/display			 TIME:0.433 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.257 seconds
+
+	Accuracy Level:976
+		PAGE: bouer.local/login			 TIME:5.183 seconds
+		PAGE: bouer.local/display			 TIME:0.327 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.252 seconds
+
+	Accuracy Level:977
+		PAGE: bouer.local/login			 TIME:7.029 seconds
+		PAGE: bouer.local/display			 TIME:0.369 seconds
+		PAGE: bouer.local/dashboard			 TIME:27.682 seconds
+
+	Accuracy Level:978
+		PAGE: bouer.local/login			 TIME:6.983 seconds
+		PAGE: bouer.local/display			 TIME:0.426 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.229 seconds
+
+	Accuracy Level:979
+		PAGE: bouer.local/login			 TIME:5.097 seconds
+		PAGE: bouer.local/display			 TIME:0.446 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.278 seconds
+
+	Accuracy Level:980
+		PAGE: bouer.local/login			 TIME:5.289 seconds
+		PAGE: bouer.local/display			 TIME:0.438 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.269 seconds
+
+	Accuracy Level:981
+		PAGE: bouer.local/login			 TIME:6.763 seconds
+		PAGE: bouer.local/display			 TIME:0.423 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.29 seconds
+
+	Accuracy Level:982
+		PAGE: bouer.local/login			 TIME:8.298 seconds
+		PAGE: bouer.local/display			 TIME:0.512 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.276 seconds
+
+	Accuracy Level:983
+		PAGE: bouer.local/login			 TIME:7.471 seconds
+		PAGE: bouer.local/display			 TIME:0.315 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.207 seconds
+
+	Accuracy Level:984
+		PAGE: bouer.local/login			 TIME:5.913 seconds
+		PAGE: bouer.local/display			 TIME:0.461 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.242 seconds
+
+	Accuracy Level:985
+		PAGE: bouer.local/login			 TIME:5.649 seconds
+		PAGE: bouer.local/display			 TIME:0.393 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.193 seconds
+
+	Accuracy Level:986
+		PAGE: bouer.local/login			 TIME:5.563 seconds
+		PAGE: bouer.local/display			 TIME:0.261 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.209 seconds
+
+	Accuracy Level:987
+		PAGE: bouer.local/login			 TIME:6.54 seconds
+		PAGE: bouer.local/display			 TIME:0.281 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.149 seconds
+
+	Accuracy Level:988
+		PAGE: bouer.local/login			 TIME:5.434 seconds
+		PAGE: bouer.local/display			 TIME:0.264 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.171 seconds
+
+	Accuracy Level:989
+		PAGE: bouer.local/login			 TIME:5.385 seconds
+		PAGE: bouer.local/display			 TIME:0.367 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.181 seconds
+
+	Accuracy Level:990
+		PAGE: bouer.local/login			 TIME:4.367 seconds
+		PAGE: bouer.local/display			 TIME:0.406 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.247 seconds
+
+	Accuracy Level:991
+		PAGE: bouer.local/login			 TIME:5.373 seconds
+		PAGE: bouer.local/display			 TIME:0.307 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.168 seconds
+
+	Accuracy Level:992
+		PAGE: bouer.local/login			 TIME:5.204 seconds
+		PAGE: bouer.local/display			 TIME:0.205 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.167 seconds
+
+	Accuracy Level:993
+		PAGE: bouer.local/login			 TIME:5.426 seconds
+		PAGE: bouer.local/display			 TIME:0.261 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.186 seconds
+
+	Accuracy Level:994
+		PAGE: bouer.local/login			 TIME:4.967 seconds
+		PAGE: bouer.local/display			 TIME:0.41 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.196 seconds
+
+	Accuracy Level:995
+		PAGE: bouer.local/login			 TIME:5.091 seconds
+		PAGE: bouer.local/display			 TIME:0.317 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.165 seconds
+
+	Accuracy Level:996
+		PAGE: bouer.local/login			 TIME:5.603 seconds
+		PAGE: bouer.local/display			 TIME:0.386 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.216 seconds
+
+	Accuracy Level:997
+		PAGE: bouer.local/login			 TIME:4.937 seconds
+		PAGE: bouer.local/display			 TIME:0.438 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.306 seconds
+
+	Accuracy Level:998
+		PAGE: bouer.local/login			 TIME:5.435 seconds
+		PAGE: bouer.local/display			 TIME:0.316 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.228 seconds
+
+	Accuracy Level:999
+		PAGE: bouer.local/login			 TIME:4.872 seconds
+		PAGE: bouer.local/display			 TIME:0.227 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.157 seconds
+
+	Accuracy Level:1000
+		PAGE: bouer.local/login			 TIME:5.802 seconds
+		PAGE: bouer.local/display			 TIME:0.307 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.181 seconds
+
+AVERAGE TIME:			5.70726700 seconds
