@@ -1,0 +1,123 @@
+SESSION:	UnsafeThread
+NO PAGES:	2
+	Accuracy Level:1
+		PAGE: 10.5.1.42/display			 TIME:0.654 seconds
+		PAGE: 10.5.1.42/login			 TIME:0.957 seconds
+
+	Accuracy Level:2
+		PAGE: 10.5.1.42/display			 TIME:1.084 seconds
+		PAGE: 10.5.1.42/login			 TIME:1.645 seconds
+
+	Accuracy Level:3
+		PAGE: 10.5.1.42/display			 TIME:1.982 seconds
+		PAGE: 10.5.1.42/login			 TIME:3.474 seconds
+
+	Accuracy Level:4
+		PAGE: 10.5.1.42/display			 TIME:3.647 seconds
+		PAGE: 10.5.1.42/login			 TIME:4.089 seconds
+
+	Accuracy Level:5
+		PAGE: 10.5.1.42/display			 TIME:4.196 seconds
+		PAGE: 10.5.1.42/login			 TIME:4.704 seconds
+
+	Accuracy Level:6
+		PAGE: 10.5.1.42/display			 TIME:4.851 seconds
+		PAGE: 10.5.1.42/login			 TIME:5.457 seconds
+
+	Accuracy Level:7
+		PAGE: 10.5.1.42/display			 TIME:5.586 seconds
+		PAGE: 10.5.1.42/login			 TIME:35.825 seconds
+
+	Accuracy Level:8
+		PAGE: 10.5.1.42/display			 TIME:36.0 seconds
+		PAGE: 10.5.1.42/login			 TIME:60.245 seconds
+
+	Accuracy Level:9
+		PAGE: 10.5.1.42/display			 TIME:60.358 seconds
+		PAGE: 10.5.1.42/login			 TIME:60.839 seconds
+
+	Accuracy Level:10
+		PAGE: 10.5.1.42/display			 TIME:60.991 seconds
+		PAGE: 10.5.1.42/login			 TIME:61.571 seconds
+
+	Accuracy Level:11
+		PAGE: 10.5.1.42/display			 TIME:61.751 seconds
+		PAGE: 10.5.1.42/login			 TIME:62.151 seconds
+
+	Accuracy Level:12
+		PAGE: 10.5.1.42/display			 TIME:62.281 seconds
+		PAGE: 10.5.1.42/login			 TIME:62.613 seconds
+
+	Accuracy Level:13
+		PAGE: 10.5.1.42/display			 TIME:62.774 seconds
+		PAGE: 10.5.1.42/login			 TIME:63.18 seconds
+
+	Accuracy Level:14
+		PAGE: 10.5.1.42/display			 TIME:63.309 seconds
+		PAGE: 10.5.1.42/login			 TIME:63.614 seconds
+
+	Accuracy Level:15
+		PAGE: 10.5.1.42/display			 TIME:63.737 seconds
+		PAGE: 10.5.1.42/login			 TIME:64.147 seconds
+
+	Accuracy Level:16
+		PAGE: 10.5.1.42/display			 TIME:64.29 seconds
+		PAGE: 10.5.1.42/login			 TIME:64.635 seconds
+
+	Accuracy Level:17
+		PAGE: 10.5.1.42/display			 TIME:64.714 seconds
+		PAGE: 10.5.1.42/login			 TIME:64.947 seconds
+
+	Accuracy Level:18
+		PAGE: 10.5.1.42/display			 TIME:65.077 seconds
+		PAGE: 10.5.1.42/login			 TIME:65.361 seconds
+
+	Accuracy Level:19
+		PAGE: 10.5.1.42/display			 TIME:65.49 seconds
+		PAGE: 10.5.1.42/login			 TIME:65.884 seconds
+
+	Accuracy Level:20
+		PAGE: 10.5.1.42/display			 TIME:65.998 seconds
+		PAGE: 10.5.1.42/login			 TIME:66.339 seconds
+
+	Accuracy Level:21
+		PAGE: 10.5.1.42/display			 TIME:85.21 seconds
+		PAGE: 10.5.1.42/login			 TIME:85.683 seconds
+
+	Accuracy Level:22
+		PAGE: 10.5.1.42/display			 TIME:85.836 seconds
+		PAGE: 10.5.1.42/login			 TIME:87.127 seconds
+
+	Accuracy Level:23
+		PAGE: 10.5.1.42/display			 TIME:87.301 seconds
+		PAGE: 10.5.1.42/login			 TIME:87.767 seconds
+
+	Accuracy Level:24
+		PAGE: 10.5.1.42/display			 TIME:87.932 seconds
+		PAGE: 10.5.1.42/login			 TIME:88.31 seconds
+
+	Accuracy Level:25
+		PAGE: 10.5.1.42/display			 TIME:88.463 seconds
+		PAGE: 10.5.1.42/login			 TIME:88.863 seconds
+
+	Accuracy Level:26
+		PAGE: 10.5.1.42/display			 TIME:88.977 seconds
+		PAGE: 10.5.1.42/login			 TIME:89.357 seconds
+
+	Accuracy Level:27
+		PAGE: 10.5.1.42/display			 TIME:89.458 seconds
+		PAGE: 10.5.1.42/login			 TIME:89.839 seconds
+
+	Accuracy Level:28
+		PAGE: 10.5.1.42/display			 TIME:89.956 seconds
+		PAGE: 10.5.1.42/login			 TIME:90.831 seconds
+
+	Accuracy Level:29
+		PAGE: 10.5.1.42/display			 TIME:90.941 seconds
+		PAGE: 10.5.1.42/login			 TIME:109.831 seconds
+
+	Accuracy Level:30
+		PAGE: 10.5.1.42/display			 TIME:109.992 seconds
+		PAGE: 10.5.1.42/login			 TIME:110.461 seconds
+
+AVERAGE TIME:			3.68210000 seconds

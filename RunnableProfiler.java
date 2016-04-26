@@ -78,12 +78,12 @@ class RunnableProfiler implements Runnable {
                               tcp_start = new java.util.Date().getTime(); //start of the request
 
                               for(int j=0; j < pages.length; j++){
-                                  micro_page_start += new java.util.Date().getTime(); //start of the request
+                                  micro_page_start = new java.util.Date().getTime(); //start of the request
                                   page=secured?"https://"+pages[j]:"http://"+pages[j];
                                   String command="curl -o /dev/null --insecure -s -w %{time_connect},%{time_starttransfer},%{time_total},%{time_appconnect},%{time_namelookup},%{time_pretransfer},%{time_redirect} "+page;
                                   String results=te.runCommand(command,true);
-                                  micro_page_end += new java.util.Date().getTime(); //start of the request
-                                  osw.write("\t\tPAGE: "+pages[j]+"\t\t\t TIME:"+(micro_page_end-micro_page_start)+"\n");
+                                  micro_page_end = new java.util.Date().getTime(); //start of the request
+                                  osw.write("\t\tPAGE: "+pages[j]+"\t\t\t TIME:"+(micro_page_end-micro_page_start)/1000+" seconds\n");
                               
                               } 
                                   
@@ -93,9 +93,9 @@ class RunnableProfiler implements Runnable {
                               osw.write("\n");
                           }
 
-                          System.out.println(threadName+","+pages[0]+", "+String.format("%.8f",(tcp_time/accuracy)/1000)+", "+new java.util.Date().getTime());
+                          System.out.println(threadName+","+pages[0]+", "+String.format("%.8f",(tcp_time/accuracy)/1000)+" seconds, "+new java.util.Date().getTime());
                             
-                          osw.write(threadName+"\t\t\t"+String.format("%.8f",(tcp_time/accuracy)/1000)+"\n");
+                          osw.write("AVERAGE TIME:\t\t\t"+String.format("%.8f",(tcp_time/accuracy)/1000)+" seconds\n");
                           
                           osw.close();
 

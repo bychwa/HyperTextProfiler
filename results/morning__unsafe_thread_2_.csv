@@ -1,0 +1,163 @@
+SESSION:	UnsafeThread
+NO PAGES:	2
+	Accuracy Level:1
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:118.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:235.0
+
+	Accuracy Level:2
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:386.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:548.0
+
+	Accuracy Level:3
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:733.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:851.0
+
+	Accuracy Level:4
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:986.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:1125.0
+
+	Accuracy Level:5
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:1255.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:1347.0
+
+	Accuracy Level:6
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:1464.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:1591.0
+
+	Accuracy Level:7
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:1736.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:1893.0
+
+	Accuracy Level:8
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:2045.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:2195.0
+
+	Accuracy Level:9
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:2415.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:2551.0
+
+	Accuracy Level:10
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:2692.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:2784.0
+
+	Accuracy Level:11
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:2876.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:3006.0
+
+	Accuracy Level:12
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:3126.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:3240.0
+
+	Accuracy Level:13
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:3352.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:3500.0
+
+	Accuracy Level:14
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:3639.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:3753.0
+
+	Accuracy Level:15
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:3925.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:4007.0
+
+	Accuracy Level:16
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:4134.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:4206.0
+
+	Accuracy Level:17
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:4334.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:4479.0
+
+	Accuracy Level:18
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:4585.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:4710.0
+
+	Accuracy Level:19
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:4816.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:4953.0
+
+	Accuracy Level:20
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:5104.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:5302.0
+
+	Accuracy Level:21
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:5409.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:5581.0
+
+	Accuracy Level:22
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:5697.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:5770.0
+
+	Accuracy Level:23
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:5871.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:6006.0
+
+	Accuracy Level:24
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:6098.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:6260.0
+
+	Accuracy Level:25
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:6372.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:6472.0
+
+	Accuracy Level:26
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:6592.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:6730.0
+
+	Accuracy Level:27
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:6865.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:7038.0
+
+	Accuracy Level:28
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:7139.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:7271.0
+
+	Accuracy Level:29
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:7386.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:7488.0
+
+	Accuracy Level:30
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:7621.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:7784.0
+
+	Accuracy Level:31
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:7876.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:7990.0
+
+	Accuracy Level:32
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:8132.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:8244.0
+
+	Accuracy Level:33
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:8339.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:8481.0
+
+	Accuracy Level:34
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:8664.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:8830.0
+
+	Accuracy Level:35
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:8961.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:9092.0
+
+	Accuracy Level:36
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:9206.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:9367.0
+
+	Accuracy Level:37
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:9520.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:9650.0
+
+	Accuracy Level:38
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:9790.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:9972.0
+
+	Accuracy Level:39
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:10144.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:10278.0
+
+	Accuracy Level:40
+		PAGE: 10.5.1.42/get_response?size=100			 TIME:10393.0
+		PAGE: 10.5.1.42/get_response?size=80			 TIME:10543.0
+
+UnsafeThread			0.26367500

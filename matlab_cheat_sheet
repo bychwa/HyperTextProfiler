@@ -1,0 +1,4 @@
+#MATLAB CHEAT SHEET
+
+# 1. Convert unix time 
+date = datestr(unix_time/86400/1000 + datenum(1970,1,1))
