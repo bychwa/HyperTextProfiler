@@ -1,7 +1,4 @@
 ThreadName, t_PayloadSize, t_NameLookup, t_AppConnect, t_Redirect, t_Connect, t_Pretransfer, t_Transfer, t_Total,t_OveralTotal, t_Timestamp
-ThreadName, t_PayloadSize, t_NameLookup, t_AppConnect, t_Redirect, t_Connect, t_Pretransfer, t_Transfer, t_Total,t_OveralTotal, t_Timestamp
-ThreadName, t_PayloadSize, t_NameLookup, t_AppConnect, t_Redirect, t_Connect, t_Pretransfer, t_Transfer, t_Total,t_OveralTotal, t_Timestamp
-ThreadName, t_PayloadSize, t_NameLookup, t_AppConnect, t_Redirect, t_Connect, t_Pretransfer, t_Transfer, t_Total,t_OveralTotal, t_Timestamp
 UnsafeThread-1, 512, 0.00000000, 0.00000000, 0.00000000, 0.00660100, 0.00000000, 0.06743200, 0.06761300,0.11010000, 1461344343919
 UnsafeThread-2, 512, 0.00000000, 0.00000000, 0.00000000, 0.00689500, 0.00000000, 0.06734400, 0.06754000,0.11007700, 1461344343919
 SafeThread-2, 512, 0.06726200, 0.06726200, 0.06726200, 0.00666500, 0.06726200, 0.13621100, 0.13632800,0.18062800, 1461344414219

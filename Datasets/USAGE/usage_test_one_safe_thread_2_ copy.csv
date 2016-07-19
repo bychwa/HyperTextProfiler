@@ -1,0 +1,23 @@
+SESSION:	SafeThread
+NO PAGES:	3
+	Iteration no:1
+		PAGE: bouer.local/login			 TIME:1.342 seconds
+		PAGE: bouer.local/display			 TIME:0.504 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.42 seconds
+
+	Iteration no:2
+		PAGE: bouer.local/login			 TIME:0.763 seconds
+		PAGE: bouer.local/display			 TIME:0.436 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.309 seconds
+
+	Iteration no:3
+		PAGE: bouer.local/login			 TIME:0.918 seconds
+		PAGE: bouer.local/display			 TIME:0.397 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.442 seconds
+
+	Iteration no:4
+		PAGE: bouer.local/login			 TIME:1.3 seconds
+		PAGE: bouer.local/display			 TIME:0.568 seconds
+		PAGE: bouer.local/dashboard			 TIME:0.453 seconds
+
+AVERAGE TIME:			1.08075 seconds
